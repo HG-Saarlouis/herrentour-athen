@@ -807,21 +807,20 @@ def build_html(spots, master_html):
     home_json = json.dumps(HOME_BASE, ensure_ascii=False)
 
     html_doc = f"""<!DOCTYPE html>
-<html lang="de" data-theme="dark">
+<html lang="de" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <base href="https://hg-saarlouis.github.io/herrentour-athen/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="robots" content="noindex, nofollow">
-  <meta name="theme-color" content="#0A0A0A">
+  <meta name="theme-color" content="#F7F7F5">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="OCHOS ATHEN">
-  <base href="https://hg-saarlouis.github.io/herrentour-athen/">
   <title>OCHOS — HERRENTOUR ATHEN 2026</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <style>
@@ -883,8 +882,8 @@ def build_html(spots, master_html):
 
     /* TYPOGRAPHY UTILITIES */
     .font-display {{
-      font-family: 'Syne', 'Space Grotesk', sans-serif;
-      font-weight: 800;
+      font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 700;
       text-transform: uppercase;
       letter-spacing: -0.03em;
     }}
@@ -924,6 +923,8 @@ def build_html(spots, master_html):
       text-transform: uppercase;
       gap: 12px;
       flex-wrap: wrap;
+      user-select: text;
+      -webkit-user-select: text;
     }}
 
     .top-bar-right {{
@@ -941,7 +942,7 @@ def build_html(spots, master_html):
     }}
 
     .masthead-main {{
-      padding: 24px 20px 20px;
+      padding: 24px 20px 22px;
     }}
 
     .masthead-kicker {{
@@ -951,7 +952,7 @@ def build_html(spots, master_html):
       letter-spacing: 0.14em;
       text-transform: uppercase;
       color: var(--fg-muted);
-      margin-bottom: 6px;
+      margin-bottom: 8px;
       display: flex;
       align-items: center;
       gap: 10px;
@@ -965,11 +966,11 @@ def build_html(spots, master_html):
     }}
 
     .masthead-title {{
-      font-family: 'Syne', sans-serif;
-      font-weight: 800;
-      font-size: clamp(2.3rem, 7vw, 4.75rem);
-      line-height: 0.92;
-      letter-spacing: -0.04em;
+      font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 700;
+      font-size: clamp(2.4rem, 6.8vw, 4.6rem);
+      line-height: 0.94;
+      letter-spacing: -0.035em;
       text-transform: uppercase;
       word-break: break-word;
     }}
@@ -1232,18 +1233,22 @@ def build_html(spots, master_html):
     .spots-grid {{
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      background: var(--border);
-      gap: 1px;
+      background: var(--bg);
+      gap: 20px;
+      padding: 20px;
       border-bottom: 1px solid var(--border);
     }}
     @media (max-width: 860px) {{
       .spots-grid {{
         grid-template-columns: 1fr;
+        gap: 16px;
+        padding: 14px;
       }}
     }}
 
     .spot-card {{
       background: var(--surface);
+      border: 1px solid var(--border);
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -1251,8 +1256,7 @@ def build_html(spots, master_html):
     }}
 
     .card-top {{
-      display: grid;
-      grid-template-columns: 76px 1fr;
+      display: block;
       border-bottom: 1px solid var(--border-subtle);
     }}
 
@@ -1735,32 +1739,25 @@ def build_html(spots, master_html):
     }}
     .drawer-topbar {{
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       align-items: center;
       background: var(--inv-bg);
       color: var(--inv-fg);
       border-bottom: 1px solid var(--border);
-      padding: 0 0 0 18px;
-      min-height: 52px;
+      padding: 0;
+      min-height: 48px;
       flex-shrink: 0;
-    }}
-    .drawer-kicker {{
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 12px;
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
     }}
     .drawer-top-actions {{
       display: flex;
-      height: 52px;
+      height: 48px;
     }}
     .drawer-close-btn {{
       background: var(--inv-bg);
       color: var(--inv-fg);
       border: none;
       border-left: 1px solid var(--border-subtle);
-      padding: 0 20px;
+      padding: 0 22px;
       font-family: 'JetBrains Mono', monospace;
       font-size: 12px;
       font-weight: 700;
@@ -1778,9 +1775,9 @@ def build_html(spots, master_html):
       padding: 24px 24px 64px;
     }}
     .drawer-title {{
-      font-family: 'Syne', sans-serif;
+      font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
       font-size: clamp(1.8rem, 4.5vw, 2.75rem);
-      font-weight: 800;
+      font-weight: 700;
       line-height: 0.98;
       letter-spacing: -0.03em;
       text-transform: uppercase;
@@ -1922,15 +1919,13 @@ def build_html(spots, master_html):
     }}
   </style>
 </head>
-<body>
+<body class="color-photos">
   <div class="app-shell">
     <!-- TOP STATUS TICKER -->
     <div class="top-bar">
-      <div>OCHO HERRENTOUR // ATHEN 05.11.–08.11.2026</div>
+      <div>ATHEN · 05.11.–08.11.2026</div>
       <div class="top-bar-right">
-        <span>BASE: ATHINUM 1 · KORINNIS 11</span>
-        <span>·</span>
-        <span>26 DOSSIERS · 134 FOTOS</span>
+        <span>BASIS: ATHINUM 1 · KORINNIS 11</span>
       </div>
     </div>
 
@@ -1939,25 +1934,18 @@ def build_html(spots, master_html):
       <div class="masthead-main">
         <div class="masthead-kicker">
           <span class="badge">OCHOS</span>
-          <span>FIELD MANUAL &amp; TACTICAL POCKET GUIDE</span>
+          <span>GASTRO &amp; NIGHTLIFE GUIDE</span>
         </div>
         <h1 class="masthead-title">OCHO HERRENTOUR</h1>
-        <div class="masthead-sub">
-          <span>ATHEN, GRIECHENLAND (37.9807° N, 23.7226° E)</span>
-          <span>·</span>
-          <span>ABFLUG DO 14:25 FRA</span>
-          <span>·</span>
-          <span>HOME-PIN: KORINNIS 11 (PSYRI)</span>
-        </div>
       </div>
       <div class="masthead-actions">
         <button class="ActionBtn" id="themeToggleBtn" onclick="toggleTheme()" title="Light / Dark Mode umschalten">
           <span>MODE</span>
-          <span id="themeLabel">[DARK]</span>
+          <span id="themeLabel">[LIGHT]</span>
         </button>
         <button class="ActionBtn" id="photoModeBtn" onclick="togglePhotoColor()" title="Fotos S/W oder Farbe">
           <span>FOTOS</span>
-          <span id="photoModeLabel">[S/W]</span>
+          <span id="photoModeLabel">[FARBE]</span>
         </button>
         <a class="ActionBtn" href="ochos_athen_2026.kml" download="ochos_athen_2026.kml">
           <span>KML PINS</span>
@@ -1970,19 +1958,15 @@ def build_html(spots, master_html):
     <nav class="sticky-nav">
       <div class="mode-tabs">
         <button class="mode-tab active" data-view="dossiers" onclick="switchView('dossiers')">
-          <span class="tab-num">01</span>
-          <span>DOSSIERS (26)</span>
+          <span>DOSSIERS</span>
         </button>
         <button class="mode-tab" data-view="map" onclick="switchView('map')">
-          <span class="tab-num">02</span>
-          <span>RADAR / KARTE</span>
+          <span>KARTE</span>
         </button>
         <button class="mode-tab" data-view="routes" onclick="switchView('routes')">
-          <span class="tab-num">03</span>
-          <span>ROUTEN (DO–SA)</span>
+          <span>ROUTEN</span>
         </button>
         <button class="mode-tab" data-view="master" onclick="switchView('master')">
-          <span class="tab-num">04</span>
           <span>MASTER-GUIDE</span>
         </button>
       </div>
@@ -1999,7 +1983,7 @@ def build_html(spots, master_html):
             <input type="search" id="searchInput" class="search-input" placeholder="Spot, Drink, Gericht, Straße (z.B. Pastirma, Negroni, Rooftop, Walk-in)..." oninput="renderSpots()">
           </div>
           <button class="ctrl-btn" id="sortWalkBtn" onclick="toggleSortWalk()" title="Nach Entfernung zum Apartment sortieren">
-            SORT: #01–#26
+            SORT: STANDARD
           </button>
           <button class="ctrl-btn" onclick="resetFilters()">
             RESET
@@ -2008,12 +1992,12 @@ def build_html(spots, master_html):
 
         <!-- SITUATION FILTER -->
         <div class="filter-strip" id="catFilterStrip">
-          <div class="filter-label">EINSATZ</div>
-          <button class="filter-chip active" data-cat="all" onclick="setCatFilter('all')">ALLE (26)</button>
+          <div class="filter-label">TYP</div>
+          <button class="filter-chip active" data-cat="all" onclick="setCatFilter('all')">ALLE</button>
           <button class="filter-chip" data-cat="breakfast" onclick="setCatFilter('breakfast')">FRÜHSTÜCK / BRUNCH</button>
           <button class="filter-chip" data-cat="daydrinking" onclick="setCatFilter('daydrinking')">DAYDRINKING &amp; HÖFE</button>
           <button class="filter-chip" data-cat="food" onclick="setCatFilter('food')">ESSEN / MEZE / TAVERNEN</button>
-          <button class="filter-chip" data-cat="cocktails" onclick="setCatFilter('cocktails')">50-BEST COCKTAILS</button>
+          <button class="filter-chip" data-cat="cocktails" onclick="setCatFilter('cocktails')">EU'S 50 BEST BARS</button>
           <button class="filter-chip" data-cat="rooftop" onclick="setCatFilter('rooftop')">ROOFTOPS</button>
           <button class="filter-chip" data-cat="wine" onclick="setCatFilter('wine')">NATURWEIN</button>
           <button class="filter-chip" data-cat="beer" onclick="setCatFilter('beer')">CRAFT BEER</button>
@@ -2095,11 +2079,8 @@ def build_html(spots, master_html):
   <div id="dossierDrawer" class="drawer-backdrop" onclick="if(event.target===this) closeDrawer()">
     <div class="drawer-panel">
       <div class="drawer-topbar">
-        <div class="drawer-kicker" id="drawerKicker">DOSSIER #01</div>
         <div class="drawer-top-actions">
-          <button class="drawer-close-btn" onclick="prevNextSpot(-1)" title="Vorheriges Dossier">←</button>
-          <button class="drawer-close-btn" onclick="prevNextSpot(1)" title="Nächstes Dossier">→</button>
-          <button class="drawer-close-btn" onclick="closeDrawer()">SCHLIESSEN [ESC]</button>
+          <button class="drawer-close-btn" onclick="closeDrawer()">SCHLIESSEN [×]</button>
         </div>
       </div>
       <div class="drawer-scroll" id="drawerBody"></div>
@@ -2132,7 +2113,7 @@ def build_html(spots, master_html):
     // THEME MANAGEMENT (LIGHT / DARK)
     function applyTheme(theme) {{
       document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('ocho_theme', theme);
+      localStorage.setItem('ocho_theme_v2', theme);
       const lbl = document.getElementById('themeLabel');
       if (lbl) lbl.textContent = theme === 'dark' ? '[DARK]' : '[LIGHT]';
       const metaTheme = document.querySelector('meta[name="theme-color"]');
@@ -2141,14 +2122,14 @@ def build_html(spots, master_html):
     }}
 
     function toggleTheme() {{
-      const cur = document.documentElement.getAttribute('data-theme') || 'dark';
+      const cur = document.documentElement.getAttribute('data-theme') || 'light';
       applyTheme(cur === 'dark' ? 'light' : 'dark');
     }}
 
     function togglePhotoColor() {{
       document.body.classList.toggle('color-photos');
       const isColor = document.body.classList.contains('color-photos');
-      localStorage.setItem('ocho_photos', isColor ? 'color' : 'bw');
+      localStorage.setItem('ocho_photos_v2', isColor ? 'color' : 'bw');
       document.getElementById('photoModeLabel').textContent = isColor ? '[FARBE]' : '[S/W]';
     }}
 
@@ -2187,7 +2168,7 @@ def build_html(spots, master_html):
     function toggleSortWalk() {{
       sortByWalk = !sortByWalk;
       const btn = document.getElementById('sortWalkBtn');
-      btn.textContent = sortByWalk ? 'SORT: ENTFERNUNG ↑' : 'SORT: #01–#26';
+      btn.textContent = sortByWalk ? 'SORT: ENTFERNUNG ↑' : 'SORT: STANDARD';
       btn.classList.toggle('active', sortByWalk);
       renderSpots();
     }}
@@ -2197,7 +2178,7 @@ def build_html(spots, master_html):
       activeDist = 'all';
       sortByWalk = false;
       document.getElementById('searchInput').value = '';
-      document.getElementById('sortWalkBtn').textContent = 'SORT: #01–#26';
+      document.getElementById('sortWalkBtn').textContent = 'SORT: STANDARD';
       document.getElementById('sortWalkBtn').classList.remove('active');
       document.querySelectorAll('#catFilterStrip .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'all'));
       document.querySelectorAll('#distFilterStrip .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.dist === 'all'));
@@ -2224,7 +2205,7 @@ def build_html(spots, master_html):
 
       const grid = document.getElementById('spotsGrid');
       if (!list.length) {{
-        grid.innerHTML = `<div style="grid-column: 1 / -1; padding: 48px 20px; text-align: center; background: var(--surface); font-family: 'JetBrains Mono', monospace;">KEINE TREFFER FÜR DIESEN FILTER. <button class="sharp-btn" style="margin-left:12px;" onclick="resetFilters()">FILTER ZURÜCKSETZEN</button></div>`;
+        grid.innerHTML = `<div style="grid-column: 1 / -1; padding: 48px 20px; text-align: center; background: var(--surface); border: 1px solid var(--border); font-family: 'JetBrains Mono', monospace;">KEINE TREFFER FÜR DIESEN FILTER. <button class="sharp-btn" style="margin-left:12px;" onclick="resetFilters()">FILTER ZURÜCKSETZEN</button></div>`;
         return;
       }}
 
@@ -2232,13 +2213,9 @@ def build_html(spots, master_html):
         <article class="spot-card" id="spot-card-${{s.id}}">
           <div>
             <div class="card-top">
-              <div class="card-index">
-                <span class="card-index-num">${{s.num_str}}</span>
-                <span class="card-index-walk">${{s.walk_min}} MIN</span>
-              </div>
               <div class="card-head">
                 <div class="card-meta-line">
-                  <span>${{s.cat_label}}</span>
+                  <span>${{s.cat_label}} · ${{s.walk_min}} MIN FUSSWEG</span>
                   <span class="card-district-tag">${{s.district}}</span>
                 </div>
                 <h2 class="card-title" onclick="openDrawer(${{s.id}})">${{s.title}}</h2>
@@ -2297,7 +2274,6 @@ def build_html(spots, master_html):
       const s = SPOTS.find(x => x.id === spotId);
       if (!s) return;
       currentSpotId = spotId;
-      document.getElementById('drawerKicker').textContent = `DOSSIER #${{s.num_str}} // ${{s.district.toUpperCase()}}`;
 
       const extraMaps = (s.gmaps_all && s.gmaps_all.length > 1)
         ? `<div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px;">` +
@@ -2415,16 +2391,19 @@ def build_html(spots, master_html):
     // INTERACTIVE LEAFLET MAP
     function updateMapTiles() {{
       if (!mapInstance) return;
-      const theme = document.documentElement.getAttribute('data-theme') || 'dark';
-      const url = theme === 'dark'
-        ? 'https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png'
-        : 'https://{{s}}.basemaps.cartocdn.com/light_all/{{z}}/{{x}}/{{y}}{{r}}.png';
-      if (tileLayer) mapInstance.removeLayer(tileLayer);
-      tileLayer = L.tileLayer(url, {{
-        attribution: '&copy; OpenStreetMap &copy; CARTO',
-        subdomains: 'abcd',
-        maxZoom: 20
-      }}).addTo(mapInstance);
+      const theme = document.documentElement.getAttribute('data-theme') || 'light';
+      const tilePane = mapInstance.getPane('tilePane');
+      if (tilePane) {{
+        tilePane.style.filter = theme === 'dark'
+          ? 'invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%)'
+          : 'none';
+      }}
+      if (!tileLayer) {{
+        tileLayer = L.tileLayer('https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
+          attribution: '&copy; OpenStreetMap',
+          maxZoom: 19
+        }}).addTo(mapInstance);
+      }}
     }}
 
     function initMapIfNeeded() {{
@@ -2544,12 +2523,15 @@ def build_html(spots, master_html):
 
     // INITIALIZE
     (function init() {{
-      const savedTheme = localStorage.getItem('ocho_theme') || 'dark';
+      const savedTheme = localStorage.getItem('ocho_theme_v2') || 'light';
       applyTheme(savedTheme);
-      const savedPhotos = localStorage.getItem('ocho_photos') || 'bw';
+      const savedPhotos = localStorage.getItem('ocho_photos_v2') || 'color';
       if (savedPhotos === 'color') {{
         document.body.classList.add('color-photos');
         document.getElementById('photoModeLabel').textContent = '[FARBE]';
+      }} else {{
+        document.body.classList.remove('color-photos');
+        document.getElementById('photoModeLabel').textContent = '[S/W]';
       }}
       renderSpots();
       renderRoutes();
