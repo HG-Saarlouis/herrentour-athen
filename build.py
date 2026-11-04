@@ -810,6 +810,7 @@ def build_html(spots, master_html):
 <html lang="de" data-theme="dark">
 <head>
   <meta charset="UTF-8">
+  <base href="https://hg-saarlouis.github.io/herrentour-athen/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="robots" content="noindex, nofollow">
   <meta name="theme-color" content="#0A0A0A">
