@@ -17,11 +17,10 @@
 ## 1. Voraussichtliche Öffnungszeiten, Live-Musik-Zeiten & November-Wetter-Check
 - **Voraussichtliche Öffnungszeiten:**
   - **Di – So:** **12:00 – 01:00 / 02:00 Uhr** *(durchgehend geöffnet von Mittag bis spät in die Nacht!)*
-  - **Montag:** Geschlossen (für unseren Do–So-Trip also an **allen vier Tagen komplett am Start**).
+  - **Montag:** Geschlossen (von Donnerstagabend bis Samstagnacht also durchgehend für uns am Start).
 - **Live-Musik-Zeiten (Rembetiko & traditionelle griechische Laïkó-Musik):**
   - **Donnerstag Abend:** Live-Musik ab **21:30 / 22:00 Uhr**
   - **Freitag & Samstag Abend:** Live-Musik ab **22:00 / 22:30 Uhr** bis tief in die Nacht
-  - **Sonntagmittag / Nachmittag:** Legendäre **Sonntags-Session ab ca. 14:30 / 15:00 Uhr** (und abends erneut ab 21:30 Uhr)
 - **Wetter-Check für Anfang November:**
   - **100 % wetterfest:** Der riesige ehemalige Innenhof unter den grünen Stahlfachwerk-Trägern und dem dichten Weinlaub-Himmel (*Klimataria* = Weinlaube) ist im Herbst/Winter **komplett fest überdacht, windgeschützt und mollig warm beheizt**. Wir sitzen also mitten im historischen Hof-Ambiente an langen Tafeln vor den mannshohen Holzfässern, völlig egal was das Wetter draußen veranstaltet.
 
@@ -59,8 +58,8 @@
 ## 4. Taktischer Einsatz für unseren Trip
 1. **Der unschlagbare Donnerstagabend-Touchdown-Move (05.11., ab 20:15 Uhr):**
    - Wenn wir gegen 19:45/20:00 Uhr in unserem Apartment in der *Korinnis* die Taschen in die Ecke werfen und nach dem Flug sofort Kohldampf, Brand und Bock auf echtes Athen-Gefühl haben: Wir laufen **nur 180 Meter (2 Minuten!)** die Straße runter zur *Klimataria*. Ab 20:15 Uhr dampfen die *Gastres* mit Schweinshaxe und Lamm auf unserer Tafel, der Fasswein läuft in Strömen, ab 21:30/22:00 Uhr legt die Live-Rembetiko-Kapelle los — und falls wir danach noch einen Rum-Slush mit Akropolis-Blick brauchen, ist **BIOS** nur 6 Minuten entfernt (und unsere Kojen in der Korinnis nur 2 Minuten!).
-2. **Freitag-/Samstagabend-Gelage oder Sonntagmittag-Session:**
-   - Am Freitag- oder Samstagabend (oder zur legendären Sonntagmittag-Musiksession ab 14:30 Uhr) **rufen wir unbedingt vorab kurz unter `+30 210 3216629` an und reservieren**, damit Tolis uns eine lange Tafel in bester Schlagdistanz zu den Musikern und Weinfässern freihält.
+2. **Das große Freitag- oder Samstagabend-Gelage (mit Live-Rembetiko ab 22:00 Uhr):**
+   - Für den Freitag- oder Samstagabend **rufen wir unbedingt vorab kurz unter `+30 210 3216629` an und reservieren**, damit Tolis uns eine lange Tafel in bester Schlagdistanz zu den Musikern und Weinfässern freihält.
 
 ---
 

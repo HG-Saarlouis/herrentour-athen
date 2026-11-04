@@ -402,7 +402,7 @@ SPOT_META = {
         "food_status": "FULL MEZE & DELI",
         "food_note": "Heiße Gusseisenpfannen, würzige Reifewürste, Bergkäse & zum Abschied Karottenhalva aufs Haus",
         "signature": "Sahanaki Karamanlidiko (Pastirma, Sudjuk & Spiegeleier brutzeln in der Pfanne) + gereifter Tsipouro",
-        "insider": "Keine 4 Minuten vom Apartment: Wenn das Stammhaus Sokratous 1 am Sonntag pausiert, hat das Schwesterhaus 'Ergastiri' auf der Ermou 119 trotzdem für uns offen!",
+        "insider": "Keine 4 Minuten vom Apartment: Neben dem Stammhaus an der Sokratous 1 gibt es noch das Schwesterhaus Ergastiri auf der Ermou 119 — perfekt für den großen Aufschnitt- & Pfannen-Hunger zwischendurch!",
         "lat": 37.98018,
         "lng": 23.72615,
     },
@@ -420,7 +420,7 @@ SPOT_META = {
         "food_status": "BEST STREETFOOD",
         "food_note": "Unschlagbare 15-Minuten-Unterlage (ca. 5,50 €) direkt auf die Hand, bevor es an die großen Theken geht",
         "signature": "Feyrouz Lahmacun mit geräuchertem Babaganoush, Pastirma-Peinirli (Teigschiffchen) & heißes Künefe",
-        "insider": "Liegt nur 160 Meter neben The Clumsies und Tales of Ales — hier tanken wir in Rekordzeit auf, damit später kein Ocho bei den Cocktails schwächelt.",
+        "insider": "Beide Seiten der Gasse gehören Feyrouz: Erst herzhafte Lahmacun-Rolle auf die Hand, dann gegenüber frisches Baklava holen — die ideale Grundlage vor den Bars!",
         "lat": 37.97762,
         "lng": 23.72812,
     },
@@ -636,7 +636,7 @@ SPOT_META = {
         "food_status": "TRADITIONAL DAIRY & PIES",
         "food_note": "Stichfester Schafsjoghurt, goldene Käsepasteten (Tiropita) & warme Honigbällchen wie vor 90 Jahren",
         "signature": "Schafsjoghurt mit dicker Rahmhaut, Thymianhonig & Walnüssen + frisch ausgebackene Loukoumades",
-        "insider": "Seit 1931 in dritter Familiengeneration geführt: Wer morgens in 5 Minuten Fußweg echtes, unverfälschtes Alt-Athen schmecken will, setzt sich hier an die Marmortische.",
+        "insider": "Überlebt seit 1931 jeden Trend: Schafsjoghurt mit Honig und Walnüssen so fest, dass der Löffel drin stehen bleibt — unsere ehrliche Kater-Rettung am Freitag- oder Samstagmorgen!",
         "lat": 37.98410,
         "lng": 23.72690,
     }
@@ -1193,7 +1193,7 @@ def build_html(spots, master_html):
       top: 0;
       z-index: 900;
       background: var(--surface);
-      border-bottom: 2px solid var(--border);
+      border-bottom: 2px solid var(--surface);
     }}
 
     .mode-tabs {{
@@ -1231,6 +1231,8 @@ def build_html(spots, master_html):
     .mode-tab.active {{
       background: var(--inv-bg);
       color: var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
     }}
     .mode-tab:hover:not(.active) {{
       background: var(--surface-alt);
@@ -1256,8 +1258,11 @@ def build_html(spots, master_html):
       color: var(--inv-fg);
       width: 100%;
       padding: 14px 20px;
-      border: none;
-      border-bottom: 1px solid var(--border);
+      border: 1px solid var(--inv-fg);
+      border-top: 2px solid var(--surface);
+      border-bottom: 2px solid var(--surface);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
       font-family: 'JetBrains Mono', monospace;
       font-size: 12px;
       font-weight: 700;
@@ -1270,19 +1275,16 @@ def build_html(spots, master_html):
 
     .filter-strip {{
       display: flex;
-      overflow-x: auto;
-      scrollbar-width: none;
-      border-bottom: 1px solid var(--border-subtle);
-    }}
-    .filter-strip::-webkit-scrollbar {{
-      display: none;
+      flex-wrap: wrap;
+      border-bottom: 1px solid var(--border);
     }}
     .filter-strip:last-child {{
       border-bottom: none;
     }}
 
     .filter-label {{
-      padding: 9px 12px;
+      width: 100%;
+      padding: 6px 12px;
       font-family: 'JetBrains Mono', monospace;
       font-size: 10px;
       font-weight: 700;
@@ -1290,7 +1292,8 @@ def build_html(spots, master_html):
       text-transform: uppercase;
       color: var(--fg-subtle);
       background: var(--surface-alt);
-      border-right: 1px solid var(--border-subtle);
+      border-right: none;
+      border-bottom: 1px solid var(--border-subtle);
       display: flex;
       align-items: center;
       white-space: nowrap;
@@ -1302,7 +1305,10 @@ def build_html(spots, master_html):
       color: var(--fg);
       border: none;
       border-right: 1px solid var(--border-subtle);
-      padding: 9px 14px;
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 9px 12px;
+      flex: 1 1 auto;
+      text-align: center;
       font-family: 'JetBrains Mono', monospace;
       font-size: 11px;
       font-weight: 500;
@@ -1319,6 +1325,8 @@ def build_html(spots, master_html):
       background: var(--inv-bg);
       color: var(--inv-fg);
       font-weight: 700;
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
     }}
 
     /* RESULTS COUNTER BAR */
@@ -1555,6 +1563,8 @@ def build_html(spots, master_html):
     .card-btn.primary {{
       background: var(--inv-bg);
       color: var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
     }}
     .card-btn.primary:hover {{
       opacity: 0.88;
@@ -1562,6 +1572,8 @@ def build_html(spots, master_html):
     .card-btn:not(.primary):hover {{
       background: var(--inv-bg);
       color: var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
     }}
 
     /* ==========================================================================
@@ -1611,6 +1623,9 @@ def build_html(spots, master_html):
     .sharp-btn:hover, .sharp-btn.active {{
       background: var(--inv-bg);
       color: var(--inv-fg);
+      border: 1px solid var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
     }}
 
     #athen-map {{
@@ -1865,7 +1880,9 @@ def build_html(spots, master_html):
       color: var(--inv-fg);
       width: 100%;
       height: 58px;
-      border: none;
+      border: 1px solid var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
       padding: 0 22px;
       font-family: 'JetBrains Mono', monospace;
       font-size: 14px;
@@ -1936,6 +1953,21 @@ def build_html(spots, master_html):
     }}
 
     /* DRAWER PHOTO GALLERY */
+    .drawer-gallery-hint {{
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--fg-muted);
+      background: var(--surface-alt);
+      border: 1px solid var(--border);
+      border-bottom: none;
+      padding: 8px 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }}
     .drawer-gallery {{
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
@@ -1983,13 +2015,15 @@ def build_html(spots, master_html):
       justify-content: center;
       align-items: center;
       padding: 20px;
+      touch-action: pan-y;
+      user-select: none;
     }}
     .lightbox.open {{
       display: flex;
     }}
     .lightbox img {{
-      max-width: 95vw;
-      max-height: 80vh;
+      max-width: 92vw;
+      max-height: 78vh;
       border: 1px solid #FFFFFF;
       object-fit: contain;
     }}
@@ -2001,19 +2035,63 @@ def build_html(spots, master_html):
       max-width: 680px;
       text-align: center;
     }}
+    .lightbox-counter {{
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      background: #000000;
+      color: #FFFFFF;
+      border: 1px solid #FFFFFF;
+      padding: 10px 14px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      z-index: 3010;
+    }}
     .lightbox-close {{
       position: absolute;
       top: 16px;
       right: 16px;
       background: #FFFFFF;
       color: #000000;
-      border: none;
+      border: 1px solid #FFFFFF;
       padding: 10px 16px;
       font-family: 'JetBrains Mono', monospace;
       font-size: 12px;
       font-weight: 700;
       cursor: pointer;
       text-transform: uppercase;
+      z-index: 3010;
+    }}
+    .lightbox-nav {{
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0, 0, 0, 0.78);
+      color: #FFFFFF;
+      border: 1px solid #FFFFFF;
+      width: 48px;
+      height: 56px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 28px;
+      line-height: 1;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 3010;
+    }}
+    .lightbox-nav:hover {{
+      background: #FFFFFF;
+      color: #000000;
+    }}
+    .lightbox-nav.prev {{
+      left: 12px;
+    }}
+    .lightbox-nav.next {{
+      right: 12px;
     }}
 
     /* FOOTER */
@@ -2120,11 +2198,6 @@ def build_html(spots, master_html):
         </div>
       </div>
 
-      <div class="status-strip">
-        <span id="resultsCountLabel">ZEIGE 34 VON 34 DOSSIERS</span>
-        <span>HOME-PIN: ATHINUM 1 (KORINNIS 11)</span>
-      </div>
-
       <div id="spotsGrid" class="spots-grid"></div>
     </section>
 
@@ -2193,10 +2266,13 @@ def build_html(spots, master_html):
   <!-- ========================================================================
        LIGHTBOX FOR FULLSCREEN PHOTOS
        ======================================================================== -->
-  <div id="lightbox" class="lightbox" onclick="closeLightbox()">
-    <button class="lightbox-close" onclick="closeLightbox()">SCHLIESSEN [×]</button>
-    <img id="lightboxImg" src="" alt="">
-    <div id="lightboxCap" class="lightbox-cap"></div>
+  <div id="lightbox" class="lightbox" onclick="if(event.target===this) closeLightbox()">
+    <div id="lightboxCounter" class="lightbox-counter">1 / 1</div>
+    <button class="lightbox-close" onclick="event.stopPropagation(); closeLightbox()">SCHLIESSEN [×]</button>
+    <button class="lightbox-nav prev" onclick="event.stopPropagation(); stepLightbox(-1)" aria-label="Vorheriges Bild">‹</button>
+    <img id="lightboxImg" src="" alt="" onclick="event.stopPropagation()">
+    <button class="lightbox-nav next" onclick="event.stopPropagation(); stepLightbox(1)" aria-label="Nächstes Bild">›</button>
+    <div id="lightboxCap" class="lightbox-cap" onclick="event.stopPropagation()"></div>
   </div>
 
   <script>
@@ -2207,7 +2283,11 @@ def build_html(spots, master_html):
     let activeCat = 'all';
     let activeDist = 'all';
     let sortByWalk = false;
+    let currentView = 'dossiers';
     let currentSpotId = null;
+    let lightboxImages = [];
+    let lightboxIndex = 0;
+    let ignoreNextPop = false;
     let mapInstance = null;
     let tileLayer = null;
     let markersById = {{}};
@@ -2237,7 +2317,9 @@ def build_html(spots, master_html):
     }}
 
     // VIEW SWITCHING
-    function switchView(viewName) {{
+    function switchView(viewName, fromPopState = false) {{
+      const prevView = currentView;
+      currentView = viewName;
       document.querySelectorAll('.mode-tab').forEach(btn => {{
         btn.classList.toggle('active', btn.dataset.view === viewName);
       }});
@@ -2247,6 +2329,13 @@ def build_html(spots, master_html):
       if (viewName === 'map') {{
         initMapIfNeeded();
         setTimeout(() => mapInstance.invalidateSize(), 80);
+      }}
+      if (!fromPopState && prevView !== viewName) {{
+        if (viewName !== 'dossiers') {{
+          history.pushState({{ view: viewName, drawer: null, lightbox: false }}, '', '#view-' + viewName);
+        }} else {{
+          history.replaceState({{ view: 'dossiers', drawer: null, lightbox: false }}, '', location.pathname + location.search);
+        }}
       }}
       window.scrollTo({{ top: 0, behavior: 'smooth' }});
     }}
@@ -2283,7 +2372,8 @@ def build_html(spots, master_html):
         return true;
       }});
 
-      document.getElementById('resultsCountLabel').textContent = `ZEIGE ${{list.length}} VON ${{SPOTS.length}} DOSSIERS`;
+      const lbl = document.getElementById('resultsCountLabel');
+      if (lbl) lbl.textContent = `ZEIGE ${{list.length}} VON ${{SPOTS.length}} DOSSIERS`;
 
       const grid = document.getElementById('spotsGrid');
       if (!list.length) {{
@@ -2352,10 +2442,21 @@ def build_html(spots, master_html):
     }}
 
     // DRAWER (FULL DOSSIER VIEW)
-    function openDrawer(spotId) {{
+    function openDrawer(spotId, fromPopState = false) {{
       const s = SPOTS.find(x => x.id === spotId);
       if (!s) return;
+      const wasOpen = document.getElementById('dossierDrawer').classList.contains('open');
       currentSpotId = spotId;
+      lightboxImages = s.images || [];
+      lightboxIndex = 0;
+
+      if (!fromPopState) {{
+        if (!wasOpen) {{
+          history.pushState({{ view: currentView, drawer: spotId, lightbox: false }}, '', '#dossier-' + spotId);
+        }} else {{
+          history.replaceState({{ view: currentView, drawer: spotId, lightbox: false }}, '', '#dossier-' + spotId);
+        }}
+      }}
 
       const extraMaps = (s.gmaps_all && s.gmaps_all.length > 1)
         ? `<div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px;">` +
@@ -2364,9 +2465,13 @@ def build_html(spots, master_html):
         : '';
 
       const galleryHtml = s.images.length ? `
+        <div class="drawer-gallery-hint">
+          <span>FOTO-DOSSIER (${{s.images.length}} BILDER)</span>
+          <span>Tippen &amp; Wischen für Vollbild-Galerie →</span>
+        </div>
         <div class="drawer-gallery">
-          ${{s.images.map(img => `
-            <div class="gallery-item" onclick="openLightbox('${{img.src.replace(/'/g, "\'")}}', '${{img.caption.replace(/'/g, "\'")}}')">
+          ${{s.images.map((img, idx) => `
+            <div class="gallery-item" onclick="openLightbox(${{idx}})">
               <img src="${{img.src}}" alt="${{img.caption}}" loading="lazy">
               <div class="gallery-cap">${{img.caption}}</div>
             </div>
@@ -2416,9 +2521,14 @@ def build_html(spots, master_html):
       document.body.style.overflow = 'hidden';
     }}
 
-    function closeDrawer() {{
+    function closeDrawer(fromPopState = false) {{
+      const wasOpen = document.getElementById('dossierDrawer').classList.contains('open');
       document.getElementById('dossierDrawer').classList.remove('open');
       document.body.style.overflow = '';
+      if (wasOpen && !fromPopState && location.hash.startsWith('#dossier-')) {{
+        ignoreNextPop = true;
+        history.back();
+      }}
     }}
 
     function prevNextSpot(delta) {{
@@ -2429,14 +2539,54 @@ def build_html(spots, master_html):
       openDrawer(nextId);
     }}
 
-    // LIGHTBOX
-    function openLightbox(src, cap) {{
-      document.getElementById('lightboxImg').src = src;
-      document.getElementById('lightboxCap').textContent = cap || '';
-      document.getElementById('lightbox').classList.add('open');
+    // LIGHTBOX (SWIPE GALLERY)
+    function renderLightboxSlide() {{
+      if (!lightboxImages.length) return;
+      const item = lightboxImages[lightboxIndex] || lightboxImages[0];
+      document.getElementById('lightboxImg').src = item.src;
+      document.getElementById('lightboxCap').textContent = item.caption || '';
+      const counterEl = document.getElementById('lightboxCounter');
+      if (counterEl) counterEl.textContent = `${{lightboxIndex + 1}} / ${{lightboxImages.length}}`;
     }}
-    function closeLightbox() {{
+
+    function openLightbox(idx, fromPopState = false) {{
+      if (!lightboxImages.length && currentSpotId) {{
+        const s = SPOTS.find(x => x.id === currentSpotId);
+        if (s) lightboxImages = s.images || [];
+      }}
+      if (typeof idx === 'number') {{
+        lightboxIndex = Math.max(0, Math.min(idx, lightboxImages.length - 1));
+      }} else {{
+        lightboxIndex = 0;
+      }}
+      const wasOpen = document.getElementById('lightbox').classList.contains('open');
+      renderLightboxSlide();
+      document.getElementById('lightbox').classList.add('open');
+      if (!fromPopState) {{
+        if (!wasOpen) {{
+          history.pushState({{ view: currentView, drawer: currentSpotId, lightbox: true, imgIdx: lightboxIndex }}, '', '#photo-' + lightboxIndex);
+        }} else {{
+          history.replaceState({{ view: currentView, drawer: currentSpotId, lightbox: true, imgIdx: lightboxIndex }}, '', '#photo-' + lightboxIndex);
+        }}
+      }}
+    }}
+
+    function stepLightbox(delta) {{
+      if (!lightboxImages.length) return;
+      lightboxIndex = (lightboxIndex + delta + lightboxImages.length) % lightboxImages.length;
+      renderLightboxSlide();
+      if (document.getElementById('lightbox').classList.contains('open')) {{
+        history.replaceState({{ view: currentView, drawer: currentSpotId, lightbox: true, imgIdx: lightboxIndex }}, '', '#photo-' + lightboxIndex);
+      }}
+    }}
+
+    function closeLightbox(fromPopState = false) {{
+      const wasOpen = document.getElementById('lightbox').classList.contains('open');
       document.getElementById('lightbox').classList.remove('open');
+      if (wasOpen && !fromPopState && location.hash.startsWith('#photo-')) {{
+        ignoreNextPop = true;
+        history.back();
+      }}
     }}
 
     // ROUTES RENDERING
@@ -2589,22 +2739,70 @@ def build_html(spots, master_html):
       }}, {{ enableHighAccuracy: true, timeout: 8000 }});
     }}
 
-    // KEYBOARD SHORTCUTS
+    // KEYBOARD SHORTCUTS & TOUCH SWIPE & POPSTATE HISTORY
     document.addEventListener('keydown', e => {{
+      const lbOpen = document.getElementById('lightbox').classList.contains('open');
+      const drOpen = document.getElementById('dossierDrawer').classList.contains('open');
       if (e.key === 'Escape') {{
-        if (document.getElementById('lightbox').classList.contains('open')) {{
+        if (lbOpen) {{
           closeLightbox();
-        }} else if (document.getElementById('dossierDrawer').classList.contains('open')) {{
+        }} else if (drOpen) {{
           closeDrawer();
         }}
-      }} else if (document.getElementById('dossierDrawer').classList.contains('open')) {{
+      }} else if (lbOpen) {{
+        if (e.key === 'ArrowLeft') stepLightbox(-1);
+        if (e.key === 'ArrowRight') stepLightbox(1);
+      }} else if (drOpen) {{
         if (e.key === 'ArrowLeft') prevNextSpot(-1);
         if (e.key === 'ArrowRight') prevNextSpot(1);
       }}
     }});
 
+    (function setupLightboxTouch() {{
+      const lb = document.getElementById('lightbox');
+      let touchStartX = 0;
+      let touchStartY = 0;
+      lb.addEventListener('touchstart', e => {{
+        if (!e.touches || !e.touches.length) return;
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+      }}, {{ passive: true }});
+      lb.addEventListener('touchend', e => {{
+        if (!e.changedTouches || !e.changedTouches.length) return;
+        const dx = e.changedTouches[0].clientX - touchStartX;
+        const dy = e.changedTouches[0].clientY - touchStartY;
+        if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) {{
+          if (dx < 0) stepLightbox(1);
+          else stepLightbox(-1);
+        }}
+      }}, {{ passive: true }});
+    }})();
+
+    window.addEventListener('popstate', e => {{
+      if (ignoreNextPop) {{
+        ignoreNextPop = false;
+        return;
+      }}
+      const lbOpen = document.getElementById('lightbox').classList.contains('open');
+      const drOpen = document.getElementById('dossierDrawer').classList.contains('open');
+      if (lbOpen) {{
+        closeLightbox(true);
+        return;
+      }}
+      if (drOpen) {{
+        closeDrawer(true);
+        return;
+      }}
+      if (e.state && e.state.view) {{
+        switchView(e.state.view, true);
+      }} else if (currentView !== 'dossiers') {{
+        switchView('dossiers', true);
+      }}
+    }});
+
     // INITIALIZE
     (function init() {{
+      history.replaceState({{ view: 'dossiers', drawer: null, lightbox: false }}, '', location.pathname + location.search);
       const savedTheme = localStorage.getItem('ocho_theme_v2') || 'light';
       applyTheme(savedTheme);
       const savedPhotos = localStorage.getItem('ocho_photos_v2') || 'color';

@@ -13,7 +13,7 @@
 ## 🕒 Voraussichtliche Öffnungszeiten & November-Check
 - **Voraussichtliche Öffnungszeiten:**
   - **Mi–Mo:** **13:00 – 02:00 Uhr**
-  - **Dienstag:** Geschlossen *(für unseren Trip Do–So also durchgehend jeden verdammten Tag geöffnet!)*
+  - **Dienstag:** Geschlossen *(an unseren vollen Tagen von Donnerstag bis Samstag also durchgehend geöffnet!)*
 - **Wetter-Faktor im November:**
   - Der schmale, langgestreckte Innenhof (*Avli*) ist von allen vier Seiten von den zweistöckigen Hausmauern und dem umlaufenden Holzbalkon (*Chagiati*) komplett windgeschützt und im oberen Teil um den Gaskocher und Stammtisch **überdacht**. Trotzdem ist es ein klassischer Alt-Athener Hof — abends im November lassen wir also die Jacke oder den Pulli einfach an. Die bullige Hitze der 3-flammigen Gaskocher, die direkt neben unseren Tischen vor sich hin brutzeln, plus die erste Karaffe Tsipouro erledigen die innere Frostschutz-Arbeit in Rekordzeit!
 
@@ -41,7 +41,7 @@ Keine schicke Speisekarte, kein Schischi, keine QR-Codes — hier wird ehrliches
 ## 🎯 Beste Uhrzeit & Taktischer Walk-in-Plan (Ohne Schlange!)
 - **Achtung zur Uhrzeit:** Da *Avli* mittlerweile Kultstatus hat, nur ca. 15–20 Tische im schmalen Hof besitzt und **keine Reservierungen** annimmt, steht zwischen **19:30 und 22:00 Uhr** oft eine durstige Schlange draußen auf der Gasse.
 - **Die 3 besten Zeitfenster für unsere Truppe:**
-  1. **Der Nachmittags-/Mittags-Move (Fr, Sa oder So zwischen 13:00 und 17:00 Uhr):** Wir kapern sofort den besten Tisch mitten im Hof, die Sonne fällt zwischen die blauen Fensterläden und wir eröffnen das Daydrinking standesgemäß mit Fleischbällchen, Tzatziki und eiskaltem Halbliter-Bier!
+  1. **Der Nachmittags-/Mittags-Move (Fr oder Sa zwischen 13:00 und 17:00 Uhr):** Wir kapern sofort den besten Tisch mitten im Hof, die Sonne fällt zwischen die blauen Fensterläden und wir eröffnen das Daydrinking standesgemäß mit Fleischbällchen, Tzatziki und eiskaltem Halbliter-Bier!
   2. **Das frühe Abendessen vor der Cocktailmeile (ca. 17:30 – 18:45 Uhr):** Genau bevor der große Abend-Run losgeht — eine spottbillige, fettige Grundlage im Magen, bevor wir 4 Minuten weiter ins *Clumsies* oder *TAF* zum Hochprozentigen abbiegen.
   3. **Der späte Donnerstagabend-Touchdown (nach 22:15 Uhr):** Da die Küche bis spät in die Nacht (oft bis nach Mitternacht, Laden offen bis 02:00 Uhr) brutzelt, ideal für einen deftigen Mitternachts-Absacker am ersten Abend, nur 5 Minuten Torkelmarsch von unserem Apartment in der Korinnis!
 

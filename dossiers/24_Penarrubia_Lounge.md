@@ -56,7 +56,7 @@
 
 ## 4. Taktischer Einsatz für unseren Trip: Der perfekte „Alimos-Riviera-Nachmittag“
 Da wir im November kein Badewetter haben, sparen wir uns die ewig langen Taxifahrten nach Glyfada oder Vouliagmeni komplett und nutzen **Alimos als kompakten 2-in-1-Küsten-Abstecher**:
-1. **Unser „Sonnenuntergangs-Doppelpack“ (ca. 15:00 – 18:30 Uhr an Fr, Sa oder So):**
+1. **Unser „Sonnenuntergangs-Doppelpack“ (ca. 15:00 – 18:30 Uhr am Freitag oder Samstag):**
    - Mit dem Uber in **14 Minuten von unserem Apartment in der Korinnis** runter an den Strand von Alimos.
    - Kurzer Spaziergang zum Durchlüften an der Meerespromenade von der **Marina Alimos** (tausende Segelyachten) über die Palmen-Landzunge vom **Bolivar Beach Club** bis ins **Peñarrubia Lounge**.
    - Im **Peñarrubia** sichern wir uns gegen **16:15 / 16:30 Uhr** (Walk-in am Nachmittag problemlos möglich!) eine große Sofa-Insel direkt an der Wasserkante (oder bei frischer Brise direkt hinter der Panorama-Verglasung unter dem warmen Tropendach) und zelebrieren bei *Peña Zombies*, Burgern, Pizza und entspannten House-Beats den **Sonnenuntergang (17:20 Uhr)** über dem Meer.

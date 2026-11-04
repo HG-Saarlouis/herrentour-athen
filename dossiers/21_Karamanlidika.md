@@ -2,7 +2,7 @@
 
 **Kategorie:** Byzantinisch-Anatolisches Feinkost-Mezedopolio (*Pastirmadiko*, Reifekammer-Wurst & Schinken, Käse & Wein/Tsipouro-Taverne)  
 **Standort 1 (Stammhaus Meze-Restaurant & Deli am Gewürzmarkt):** **Sokratous 1 & Evripidou 52 (Σωκράτους 1 & Ευριπίδου 52)**, 105 52 Athen (+ historisches *Pastirmadiko*-Deli direkt gegenüber auf der *Evripidou 46*)  
-**Standort 2 („Ergastiri“ / Food Artistry Steinofen-Restaurant — AUCH SONNTAGS OFFEN!):** **Ermou 119 (Ερμού 119)**, 105 55 Monastiraki / Thisio  
+**Standort 2 („Ergastiri“ / Food Artistry Steinofen-Restaurant):** **Ermou 119 (Ερμού 119)**, 105 55 Monastiraki / Thisio  
 **Google Maps:** [Karamanlidika Stammhaus (Sokratous 1)](https://www.google.com/maps/search/?api=1&query=Ta+Karamanlidika+tou+Fani+Sokratous+1+Athens) | [Karamanlidika Ermou 119](https://www.google.com/maps/search/?api=1&query=Karamanlidika+Ermou+119+Athens)  
 **Kontakt & Infos:** Tel. `+30 210 3254184` (Sokratous 1) / `+30 210 3217238` (Ermou 119) | Web & komplettes Menü: [karamanlidika.gr/en/](https://karamanlidika.gr/en/) | Instagram: [@ta_karamanlidika_tou_fani](https://www.instagram.com/ta_karamanlidika_tou_fani/)  
 **Entfernung zu unserem Apartment (Korinnis):**
@@ -17,13 +17,13 @@
 
 ---
 
-## 1. Voraussichtliche Öffnungszeiten & Der wichtige Sonntags-Unterschied!
+## 1. Voraussichtliche Öffnungszeiten & Unsere zwei Standorte
 - **Stammhaus (`Sokratous 1 & Evripidou 52`):**
   - **Mo – Sa:** **12:00 – 23:00 Uhr** (Küche bis 22:30 Uhr; Feinkosttheke bereits ab 08:00 Uhr)
-  - **Sonntag:** **Geschlossen** (wie der gesamte umliegende Zentralmarkt).
+  - **Sonntag:** Geschlossen.
 - **Zweites Haus (`Ermou 119` — bei Monastiraki/Thisio):**
-  - **Mo – So (TÄGLICH, auch am Sonntag!):** **12:00 – 23:00 Uhr**
-  - *Taktischer Vorteil für uns:* Falls wir am **Sonntag (08.11.)** ab 12:00 Uhr noch einmal ein richtig deftiges Abschieds-Gelage mit Steinofen-Pites und brutzelnden Pastirma-Pfannen einlegen wollen, marschieren wir einfach ins Haus auf der **Ermou 119**!
+  - **Mo – So:** **12:00 – 23:00 Uhr**
+  - *Taktischer Vorteil für uns:* Das zweite Haus mit großem Steinofen liegt auf der **Ermou 119** genau auf halbem Weg zwischen Monastiraki, Thisio und Petralona — ideal als praktischer zweiter Standort für unsere Freitag- oder Samstag-Route!
 - **Wetter-Check für Anfang November:**
   - Beide Standorte sitzen in prachtvoll restaurierten, hohen **neoklassizistischen Stadthäusern**. Im Stammhaus (`Sokratous 1`) gibt es neben den lebhaften Innenräumen rund um die große Fleisch- und Käsetheke auch einen **windgeschützten, überdachten und beheizten Hinterhof-Gang** (*wie eine alte Athener Gasse*) sowie eine obere Etage.
 
@@ -56,11 +56,11 @@
 
 ---
 
-## 4. Taktischer Einsatz für unseren Trip
+## 4. Wann passt Karamanlidika perfekt in unseren Ablauf?
 1. **Der große Mittags-/Nachmittags-Schlemmer-Stopp auf der Gewürzstraße Evripidou (Fr oder Sa):**
    - Nur **4 Gehminuten (300 m) von unserem Apartment in der Korinnis** entfernt: Wir verbinden einen kurzen Streifzug durch die duftende Gewürzstraße *Evripidou* und die lauten Fleisch- und Fischhallen der *Varvakios Agora* mit einem langen Mittag- oder Nachmittags-Gelage im **Stammhaus (`Sokratous 1`)**.
-2. **Unser Sonntags-Trumpf vor dem Abflug (`Ermou 119`):**
-   - Am **Sonntag (08.11.)**, wenn das Stammhaus und viele Marktlokale geschlossen haben, steht das **Karamanlidika Ergastiri (`Ermou 119`) ab 12:00 Uhr** weit offen — perfekt für ein letztes großes Festmahl unserer Ochos-Truppe (plus vakuumierten Pastirma & Käse als Beute im Handgepäck!).
+2. **Der praktische zweite Standort Richtung Monastiraki/Thisio (`Ermou 119` — Fr oder Sa):**
+   - Wenn wir am **Freitag oder Samstag** zwischen Monastiraki, Thisio und Petralona unterwegs sind, liegt das **Karamanlidika Ergastiri (`Ermou 119`)** direkt auf dem Weg — ideal für frisch gebackene Steinofen-Pites, *Künefe* und brutzelnde Pastirma-Pfannen (plus vakuumierten Pastirma & Käse als Beute fürs Gepäck!).
 
 ---
 

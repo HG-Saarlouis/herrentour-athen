@@ -10,7 +10,7 @@
 
 ## 🥐 Was uns erwartet (Ehrliches Teig-Handwerk statt Schickimicki ab 06:30 Uhr)
 
-Wenn wir morgens aus unserem Apartment in der Korinnis torkeln und keinen Bock auf bunt garnierte Teller haben, sondern sofort ehrliches, fettiges, ofenheißes Blätterteig-Gold brauchen, das den Restalkohol im Magen wie ein Industrieschwamm aufsaugt, sind wir hier in 4 Minuten am Ziel:
+Wenn wir am **Freitag- oder Samstagmorgen** aus unserem Apartment in der Korinnis torkeln und keinen Bock auf bunt garnierte Teller haben, sondern sofort ehrliches, fettiges, ofenheißes Blätterteig-Gold brauchen, das den Restalkohol im Magen wie ein Industrieschwamm aufsaugt, sind wir hier in 4 Minuten am Ziel:
 
 - **Bougatsadiko „I Thessaloniki stou Psyrri“ (`Platia Iroon 1`):**
   - Berühmt für seinen historischen Mosaik-Fliesenboden und die Tische draußen auf dem Platz. Hier wird kein Tiefkühlkram aufgebacken, sondern der hauchdünne **Filoteig noch live von Hand durch die Luft geschleudert**, bevor er buttertriefend in den Ofen wandert.

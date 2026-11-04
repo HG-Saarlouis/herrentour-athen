@@ -12,10 +12,10 @@
   - -> **Tanini Agapi Mou** (*Ippokratous 91*): **1,0 km / 12 Min. zu Fuß**
 
 ## 🕒 Voraussichtliche Öffnungszeiten & November-Check
-- **Voraussichtliche Öffnungszeiten (Wichtiger Check für unseren Trip Do–So!):**
+- **Voraussichtliche Öffnungszeiten:**
   - **Mo–Do:** **17:30 – 02:00 Uhr** *(Küche bis 00:00 Uhr)*
   - **Fr & Sa:** **13:30 – 02:00 Uhr** *(durchgehend ab Mittag bis 2 Uhr nachts!)*
-  - **Sonntag:** **Geschlossen** *(planen wir also fest für Donnerstagabend, Freitag oder Samstag ein!)*
+  - **Sonntag:** Geschlossen
 - **Wetter-Faktor im November:**
   - **100 % wetterfester, spektakulärer Indoor-Tempel:** Hinter einer unscheinbaren Fassade (ohne großes Schild!) ziehen wir am Eingang einen schweren **smaragdgrünen Samtvorhang** zur Seite und stehen in einem hohen, warm beleuchteten Mid-Century-Saal mit originalem Athener Mosaikboden, offenen Ziegel- und Betonwänden, lodernder Feuerküche, langem Marmortresen und Galerie-Loft.
 

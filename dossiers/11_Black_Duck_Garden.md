@@ -55,8 +55,8 @@
   - *Fig the Duck (12,00 €):* Whiskey, Limette, grüner Apfel & 3Cents Feigenblatt-Soda.
 
 ## 🎯 Beste Uhrzeit & Taktischer Einsatz für unsere Runde
-- **1. Der entspannte Nachmittags-/Sundowner-Anker im Zentrum (15:00 – 19:30 Uhr):**
-  - Da unser Flieger am Donnerstag erst abends landet (und wir ca. 19:45 Uhr am Apartment sind), ist das Black Duck Garden **perfekt für Freitag- oder Samstagnachmittag**: Wenn wir durchs Zentrum ziehen und vor dem Wahnsinn der Cocktailmeile in Ruhe im grünen Königshof zwei, drei Flaschen griechischen Wein (ab 22 €!) und ein paar *Pulled Pork Sliders* / *Käseplatten* vernichten wollen.
+- **1. Der entspannte Nachmittags-/Sundowner-Anker im Zentrum (Do, Fr oder Sa zwischen 15:00 und 19:30 Uhr):**
+  - Das Black Duck Garden ist **perfekt für den Donnerstag-, Freitag- oder Samstagnachmittag**: Wenn wir nach der Landung oder beim Streifzug durchs Zentrum vor dem Wahnsinn der Cocktailmeile in Ruhe im grünen Königshof zwei, drei Flaschen griechischen Wein (ab 22 €!) und ein paar *Pulled Pork Sliders* / *Käseplatten* vernichten wollen.
 - **2. Das perfekte Warm-up direkt neben Barro Negro & Clumsies (18:00 – 20:30 Uhr):**
   - Wir sitzen hier **30 Sekunden von Barro Negro** und **60 Sekunden vom Clumsies** entfernt. Ideal, um in Ruhe eine solide Grundlage (Schweinebäckchen, Rib-Eye oder Pinsa) zu schaffen, bevor wir uns nebenan an die Theken der Top-50-Bars stürzen!
 
