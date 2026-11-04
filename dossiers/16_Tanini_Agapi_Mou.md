@@ -12,8 +12,8 @@
   - -> **Rozalia Exarchia** (*Valtetsiou 54*): **450 m / 5 Min. zu Fuß**
   - -> **Pharaoh** (*Solomou 54*): **1,0 km / 12 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Mo–Do & So:** **17:00 / 18:00 – 01:00 Uhr**
   - **Fr & Sa:** **17:00 / 18:00 – 02:00 Uhr**
 - **Wetter-Faktor im November (3 Zonen — Draußen, Drinnen & Geheimer Keller!):**

@@ -52,28 +52,28 @@ Dieses Dokument dient als zentrale Wissensbasis für den Athen-Trip von Donnerst
 * **Kategorie:** Versteckter Innenhof / Kunstgalerie & Bar
 * **Stadtteil / Lage:** Monastiraki (Normanou 5)
 * **Google Maps:** [TAF (The Art Foundation)](https://www.google.com/maps/search/?api=1&query=TAF+The+Art+Foundation+Athens&query_place_id=ChIJk4XyViK9oRQRz5_VHhupvS8)
-* **Öffnungszeiten:** Täglich 10:30–03:00 Uhr
+* **Voraussichtliche Öffnungszeiten:** Täglich 10:30–03:00 Uhr
 * **Vibe & Details:** Versteckt hinter einer unscheinbaren Tür in einem Gebäude von 1870. Begrünter, urbaner Innenhof mit historischer Bausubstanz, wechselnden Kunstausstellungen in den oberen Räumen und abendlichen DJ-Sets. Ideal für den nahtlosen Übergang vom Tag in die Nacht.
 
 ### Upupa Epops
 * **Kategorie:** All-Day-Bar / Großer Vintage-Innenhof
 * **Stadtteil / Lage:** Petralona (Alkminis 7)
 * **Google Maps:** [Upupa Epops](https://www.google.com/maps/search/?api=1&query=Upupa+Epops+Athens&query_place_id=ChIJ6aOwMeG8oRQRtecCV4GFOvY)
-* **Öffnungszeiten:** Täglich ab 09:00 Uhr bis spät in die Nacht (Do bis ca. 01:00 Uhr, Fr/Sa länger)
+* **Voraussichtliche Öffnungszeiten:** Täglich ab 09:00 Uhr bis spät in die Nacht (Do bis ca. 01:00 Uhr, Fr/Sa länger)
 * **Vibe & Details:** Erstreckt sich über drei renovierte Gebäude aus den 1930er-Jahren samt weitläufigem, gefliestem Outdoor-Hof („Wohnzimmer unter freiem Himmel"). Eklektischer Vintage-Charme, Brunch, sehr gutes Barfood (auch Pizza) und ausgefallene Cocktail-Eigenkreationen.
 
 ### Line Athens
 * **Kategorie:** Industrial All-Day-Bar / Fermentation & High-Energy Bar
 * **Stadtteil / Lage:** Petralona (Agathodaimonos 37)
 * **Google Maps:** [Line Athens](https://www.google.com/maps/search/?api=1&query=Line+Athens&query_place_id=ChIJ13n7hoG9oRQRXHgFVrMGEGU)
-* **Öffnungszeiten:** Täglich 10:00–02:00 Uhr
+* **Voraussichtliche Öffnungszeiten:** Täglich 10:00–02:00 Uhr
 * **Vibe & Details:** Ehemalige Kunstgalerie mit hohen Decken, Backsteinwänden und sonnigem Hof. Tagsüber entspannt, abends (ab ca. 21:00 Uhr) pulsierende Warehouse-Atmosphäre mit DJ-Sets und starkem Soundsystem (Top-Platzierung bei *World's 50 Best Bars*). Bekannt für hauseigene Fermentation: eigene Fruchtweine („Why-ins"), Wermuts und erstklassiges Sauerteig-Barfood.
 
 ### Bios
 * **Kategorie:** Alternatives Kulturzentrum & Industrial-Rooftop
 * **Stadtteil / Lage:** Metaxourgeio / Kerameikos (Pireos 84)
 * **Google Maps:** [Bios](https://www.google.com/maps/search/?api=1&query=Bios+Athens&query_place_id=ChIJ_cOT3CC9oRQRcZdnJp_dsRA)
-* **Öffnungszeiten:** Do bis 02:00 Uhr, Fr & Sa bis 03:00 Uhr
+* **Voraussichtliche Öffnungszeiten:** Do bis 02:00 Uhr, Fr & Sa bis 03:00 Uhr
 * **Vibe & Details:** Verbindet experimentelle Musik, Konzerte und DJ-Sessions mit einer weitläufigen Dachterrasse im Industrial-Look. Unprätentiöser Charakter mit Liegestühlen auf dem Dach und direktem Blick auf die beleuchtete Akropolis.
 
 ---
@@ -84,28 +84,28 @@ Dieses Dokument dient als zentrale Wissensbasis für den Athen-Trip von Donnerst
 * **Kategorie:** Versteckte Rooftop-Bar (All-Day)
 * **Stadtteil / Lage:** Monastiraki (Normanou 3, in einer Passage)
 * **Google Maps:** [Couleur Locale](https://www.google.com/maps/search/?api=1&query=Couleur+Locale+Athens&query_place_id=ChIJYzvSVSK9oRQRXdJTkbjBNUs)
-* **Öffnungszeiten:** Täglich ab 09:30 Uhr bis tief in die Nacht
+* **Voraussichtliche Öffnungszeiten:** Täglich ab 09:30 Uhr bis tief in die Nacht
 * **Vibe & Details:** Freier Blick auf die Akropolis, zieht aber trotz der Aussicht ein junges, einheimisches Publikum an. Groovige DJ-Sets, faire Preise und gutes Fingerfood.
 
 ### 360 Cocktail Bar
 * **Kategorie:** Industrial-Rooftop-Garten
 * **Stadtteil / Lage:** Monastiraki (Ifestou 2)
 * **Google Maps:** [360 Cocktail Bar](https://www.google.com/maps/search/?api=1&query=360+Cocktail+Bar+Athens&query_place_id=ChIJD0la5CK9oRQRm1DwW-CQUYY)
-* **Öffnungszeiten:** Täglich ab 10:00 Uhr bis spät in die Nacht
+* **Voraussichtliche Öffnungszeiten:** Täglich ab 10:00 Uhr bis spät in die Nacht
 * **Vibe & Details:** Mehrstöckiger, begrünter Dachgarten mit langen Holztafeln und zentraler Bar-Theke direkt über dem Monastiraki-Platz. Sehr geselliger Spot ab Sonnenuntergang.
 
 ### The Clumsies
 * **Kategorie:** Weltklasse All-Day-Cocktailbar
 * **Stadtteil / Lage:** Historisches Zentrum (Praxitelous 30)
 * **Google Maps:** [The Clumsies](https://www.google.com/maps/search/?api=1&query=The+Clumsies+Athens&query_place_id=ChIJYatZZTu9oRQRJrkQceYY2uQ)
-* **Öffnungszeiten:** Täglich 10:00–02:00 Uhr
+* **Voraussichtliche Öffnungszeiten:** Täglich 10:00–02:00 Uhr
 * **Vibe & Details:** Neoklassizistisches Stadthaus mit verschiedenen Themenräumen und überdachtem Innenhof. Tagsüber entspannt, ab ca. 20:00 Uhr ausgelassene, fast hauspartyartige Stimmung im Erdgeschoss.
 
 ### Baba au Rum
 * **Kategorie:** Rum- & Avantgarde-Cocktailbar (Platz 14 *Europe's 50 Best Bars 2026*)
 * **Stadtteil / Lage:** Historisches Zentrum (Klitiou 6)
 * **Google Maps:** [Baba au Rum](https://www.google.com/maps/search/?api=1&query=Baba+au+Rum+Athens&query_place_id=ChIJFVsBjjy9oRQR7XnarON2k94)
-* **Öffnungszeiten:** So–Fr 19:00–03:00 Uhr, Sa 19:00–03:30 Uhr
+* **Voraussichtliche Öffnungszeiten:** So–Fr 19:00–03:00 Uhr, Sa 19:00–03:30 Uhr
 * **Vibe & Details:** Vielfach ausgezeichnete Bar mit Fokus auf Rum, Tiki-Kultur und kräuterbetonte Eigenkreationen. Tische verteilen sich abends bis auf die belebte Fußgängerzone.
 
 ### The Bar in Front of the Bar (NEU – Europe's 50 Best Bars)
@@ -124,14 +124,14 @@ Dieses Dokument dient als zentrale Wissensbasis für den Athen-Trip von Donnerst
 * **Kategorie:** Craft-Beer-Taproom
 * **Stadtteil / Lage:** Koukaki – direkt südlich der Akropolis (Falirou 86)
 * **Google Maps:** [Strange Brew Taproom & Bottleshop](https://www.google.com/maps/search/?api=1&query=Strange+Brew+Taproom+Bottleshop+Athens&query_place_id=ChIJGQHtryu9oRQRA_5gUpx0ANs)
-* **Öffnungszeiten:** Am Wochenende bereits ab 14:00 Uhr geöffnet
+* **Voraussichtliche Öffnungszeiten:** Am Wochenende bereits ab 14:00 Uhr geöffnet
 * **Vibe & Details:** Nur einen kurzen Spaziergang südlich des Apartments. Wechselnde Zapfhähne (bekannt für das „Jasmine IPA") sowie Gastbiere kleiner Mikrobrauereien. Man trinkt unkompliziert im Stehen oder auf dem Gehweg.
 
 ### Avli Taverne (Avli Psyrri)
 * **Kategorie:** Versteckte Hinterhof-Taverne & traditionelles Kafenio
-* **Stadtteil / Lage:** Psyri (**Agiou Dimitriou 12** — Korrektur: Eingang durch die schmale blaue Tür auf der *Agiou Dimitriou 12*, 5 Min. ab Apartment)
+* **Stadtteil / Lage:** Psyri (**Agiou Dimitriou 12** — Eingang durch die schmale blaue Tür auf der *Agiou Dimitriou 12*, 5 Min. ab Apartment)
 * **Google Maps:** [Avli Psyrri (Agiou Dimitriou 12)](https://www.google.com/maps/search/?api=1&query=Avli+Psyrri+Agiou+Dimitriou+12+Athens)
-* **Öffnungszeiten:** Mi–Mo 13:00–02:00 Uhr (Di geschlossen)
+* **Voraussichtliche Öffnungszeiten:** Mi–Mo 13:00–02:00 Uhr (Di geschlossen)
 * **Vibe & Details:** Hinter einer schmalen, unscheinbaren Tür öffnet sich ein weiß getünchter Hinterhof wie auf einer griechischen Insel. Karierte Tischdecken, klassische Meze-Teller zum Teilen und sehr faire Preise (Cash mitnehmen!).
 
 ### Klimataria, Diporto, Karamanlidika & Feyrouz (Direkt ums Apartment & am Zentralmarkt)

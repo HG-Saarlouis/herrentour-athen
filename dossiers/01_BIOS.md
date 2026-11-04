@@ -5,7 +5,7 @@
 - **Google Maps:** [BIOS Athen](https://www.google.com/maps/search/?api=1&query=Bios+Athens&query_place_id=ChIJ_cOT3CC9oRQRcZdnJp_dsRA)
 - **Laufweg ab Apartment (Korinnis):** **ca. 400 m / 5 Min. zu Fuß** (einfach die Pireos-Straße Richtung Südwesten runter)
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
 - **Erdgeschoss (Tesla Café-Bar):** Täglich 10:00–02:00 Uhr (Fr & Sa bis 03:00 Uhr)
 - **Dachterrasse (Bios Rooftop / 3. OG):** Frühling bis Herbst **täglich ab 18:00 Uhr** bis 02:00 Uhr (Fr/Sa bis 03:00 Uhr)
 - **Wetter-Faktor im November:** Die 300 m² große Dachterrasse verfügt über eine massive Zelt-/Planen-Konstruktion, die bei Wind oder Regen Schutz bietet, ohne den Blick auf die Akropolis zu verbauen. Sollte es abends zu frisch sein, verlagert sich das Leben nahtlos ins Erdgeschoss in die **Tesla Bar**.

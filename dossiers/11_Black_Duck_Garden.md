@@ -11,8 +11,8 @@
   - -> **Baba au Rum** (*Klitiou 6*): **180 m / 2 Min. zu Fuß**
   - -> **Tales of Ales** (*Miltiadou 19*): **250 m / 3 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Täglich (Mo–So):** 10:00 – 01:00 / 02:00 Uhr
   - **Küchenzeiten:** Brunch & Snacks ab **10:00 Uhr bis zum späten Nachmittag**, Hauptküche & Barfood durchgehend bis ca. **23:30 Uhr**.
 - **Wetter-Faktor im November (Großer Vorteil!):**

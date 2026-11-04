@@ -3,11 +3,11 @@
 - **Kategorie:** Industrial All-Day-Warehouse-Bar, Fermentations-Labor & Late-Night-Hotspot (**Platz 1 Europe's 50 Best Bars 2026** & **Platz 5 The World's 50 Best Bars 2026**)
 - **Adresse:** Agathodaimonos 37, Kato Petralona
 - **Google Maps:** [Line Athens](https://www.google.com/maps/search/?api=1&query=Line+Athens&query_place_id=ChIJ13n7hoG9oRQRXHgFVrMGEGU)
-- **Tatsächliche Laufwege (Korrektur zum Master-Guide):**
-  - **Vom *Upupa Epops*:** **800 m / knapp 10 Min. zu Fuß** (im Guide standen 5 Min.)
+- **Laufwege:**
+  - **Vom *Upupa Epops*:** **800 m / knapp 10 Min. zu Fuß**
   - **Vom Apartment (Korinnis):** **2,5 km / ca. 28 Min. zu Fuß** oder **6–7 Min. im Uber/Taxi** (ca. 6 €)
 
-## 🕒 Tatsächliche Öffnungszeiten & Küchenzeiten
+## 🕒 Voraussichtliche Öffnungszeiten & Küchenzeiten
 - **Barbetrieb:** Täglich **10:00–02:00 Uhr** (Fr & Sa bis **03:00 Uhr**)
 - **Küche:**
   - **Brunch / Day Menu:** 10:00–17:00 Uhr

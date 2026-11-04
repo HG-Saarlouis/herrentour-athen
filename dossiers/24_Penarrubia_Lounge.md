@@ -15,8 +15,8 @@
 
 ---
 
-## 1. Öffnungszeiten & Warum Peñarrubia im November euer Nr.-1-Küsten-Anker ist!
-- **Öffnungszeiten (365 Tage im Jahr geöffnet!):**
+## 1. Voraussichtliche Öffnungszeiten & Warum Peñarrubia im November euer Nr.-1-Küsten-Anker ist!
+- **Voraussichtliche Öffnungszeiten (365 Tage im Jahr geöffnet!):**
   - **Mo – Do & So:** **08:00 / 09:00 – 01:00 / 02:00 Uhr nachts**
   - **Fr & Sa:** **08:00 / 09:00 – 03:00+ Uhr nachts**
 - **Wetter-Check für Anfang November (Kein Badewetter? Kein Problem!):**

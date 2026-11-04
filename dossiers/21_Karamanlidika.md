@@ -17,7 +17,7 @@
 
 ---
 
-## 1. Öffnungszeiten & Der wichtige Sonntags-Unterschied!
+## 1. Voraussichtliche Öffnungszeiten & Der wichtige Sonntags-Unterschied!
 - **Stammhaus (`Sokratous 1 & Evripidou 52`):**
   - **Mo – Sa:** **12:00 – 23:00 Uhr** (Küche bis 22:30 Uhr; Feinkosttheke bereits ab 08:00 Uhr)
   - **Sonntag:** **Geschlossen** (wie der gesamte umliegende Zentralmarkt).

@@ -13,8 +13,8 @@
 
 ---
 
-## 1. Öffnungszeiten & Ehrlicher November-/Nicht-Badewetter-Check!
-- **Reguläre Öffnungszeiten:**
+## 1. Voraussichtliche Öffnungszeiten & Ehrlicher November-/Nicht-Badewetter-Check!
+- **Voraussichtliche Öffnungszeiten:**
   - **So – Do:** **08:00 – 20:00 Uhr** (Tagesbetrieb: Café, Strandbar & Restaurant ab 12:00 Uhr)
   - **Fr & Sa:** **08:00 – 05:00 Uhr** *(Achtung: Nacht-/Clubbetrieb bis 05:00 Uhr nur bei angekündigten Special-Events!)*
 - **WICHTIGER REALITÄTS-CHECK FÜR ANFANG NOVEMBER (05.11.–08.11.2026):**

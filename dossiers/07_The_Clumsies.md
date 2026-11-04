@@ -11,8 +11,8 @@
   - -> **The Bar in Front of the Bar** (*Petraki 1*): **450 m / 5 Min. zu Fuß**
   - -> **Monastiraki-Dreieck** (*TAF / Couleur Locale / 360*): **600 m / 7 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten, Küchenzeiten & November-Check
-- **Gesamt-Öffnungszeiten:** So–Do **10:00–02:00 Uhr**, Fr & Sa **10:00–04:00 Uhr**
+## 🕒 Voraussichtliche Öffnungszeiten, Küchenzeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:** So–Do **10:00–02:00 Uhr**, Fr & Sa **10:00–04:00 Uhr**
 - **Küchenzeiten (offizielles Menü):**
   - **Brunch & Day-Dishes:** Mo–Fr bis 16:00 Uhr, Sa & So bis 17:00 Uhr
   - **All-Day & Barfood-Küche:** Täglich durchgehend bis **23:30 Uhr**

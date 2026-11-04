@@ -5,7 +5,7 @@
 - **Google Maps:** [Upupa Epops](https://www.google.com/maps/search/?api=1&query=Upupa+Epops+Athens&query_place_id=ChIJ6aOwMeG8oRQRtecCV4GFOvY)
 - **Weg ab Apartment (Korinnis):** **1,9 km / ca. 20–22 Min. zu Fuß** (die Pireos-Straße runter über Gazi) oder **5 Min. im Uber/Taxi** (ca. 5–6 €). Liegt knapp **10 Gehminuten vom *Line Athens*** entfernt.
 
-## 🕒 Tatsächliche Öffnungszeiten & Küchenzeiten
+## 🕒 Voraussichtliche Öffnungszeiten & Küchenzeiten
 - **Barbetrieb:** Täglich ab **09:00 Uhr** geöffnet — **So–Do bis 02:00 Uhr**, **Fr & Sa bis 03:00 Uhr**.
 - **Brunch-Küche:** Täglich durchgehend von **09:00 bis 18:00 Uhr** (!).
 - **Abendküche (Dinner & Barfood):** Täglich von **18:00 bis ca. 23:45 Uhr**.

@@ -12,8 +12,8 @@
   - -> **Tanini Agapi Mou** (*Ippokratous 91*): **500 m / 6 Min. zu Fuß**
   - -> **Pharaoh** (*Solomou 54*): **850 m / 10 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Mo–Mi:** 12:00 – 23:30 Uhr *(griechisches Brunch-Menü bereits ab 10:00–13:00 Uhr)*
   - **Do–So:** **12:00 – 00:00 Uhr (Mitternacht)**
 - **Wetter-Faktor im November (100 % flexibel — Hof & Klassenzimmer!):**

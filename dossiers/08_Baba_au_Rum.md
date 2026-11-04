@@ -11,8 +11,8 @@
   - -> **The Bar in Front of the Bar** (*Petraki 1*): **300 m / 3,5 Min. zu Fuß**
   - -> **Monastiraki-Dreieck** (*TAF / Couleur Locale / 360*): **500 m / 6 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten, Reservierung & November-Check
-- **Öffnungszeiten:** So–Fr **19:00–03:00 Uhr**, Sa **19:00–03:30 Uhr** (reine Abend- & Nachtbar — tagsüber übernimmt der eigene Schwesterladen *In Love Again* direkt gegenüber in der Klitiou 3–5!).
+## 🕒 Voraussichtliche Öffnungszeiten, Reservierung & November-Check
+- **Voraussichtliche Öffnungszeiten:** So–Fr **19:00–03:00 Uhr**, Sa **19:00–03:30 Uhr** (reine Abend- & Nachtbar — tagsüber übernimmt der eigene Schwesterladen *In Love Again* direkt gegenüber in der Klitiou 3–5!).
 - **Reservierungspolitik:** **Keine Reservierungen (First-come, first-served)!**
 - **Wetter-Faktor im November:** Zweigeteiltes Setup:
   1. **Innenraum (komplett wetterfest):** Kompakte, dunkel getäfelte Mid-Century-Bar (ca. 30–40 Sitz-/Stehplätze) mit langer Holztheke, roten Lederhockern und deckenhohen Flaschenregalen.

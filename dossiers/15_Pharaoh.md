@@ -11,8 +11,8 @@
   - -> **Ama Lachei** (*Kallidromiou 69*) & **strakastrüka** (*Kallidromiou 62*): **850 m / 10 Min. zu Fuß**
   - -> **Tanini Agapi Mou** (*Ippokratous 91*): **1,0 km / 12 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten (Wichtiger Check für euren Trip Do–So!):**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten (Wichtiger Check für euren Trip Do–So!):**
   - **Mo–Do:** **17:30 – 02:00 Uhr** *(Küche bis 00:00 Uhr)*
   - **Fr & Sa:** **13:30 – 02:00 Uhr** *(durchgehend ab Mittag bis 2 Uhr nachts!)*
   - **Sonntag:** **Geschlossen** *(also unbedingt für Donnerstagabend, Freitag oder Samstag einplanen!)*

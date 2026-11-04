@@ -6,8 +6,8 @@
 - **Kontakt:** Tel. `+30 216 7004917` | [couleurlocaleathens.com](https://couleurlocaleathens.com/en/)
 - **Laufweg ab Apartment (Korinnis):** **ca. 800 m / 8–10 Min. zu Fuß** (quer durch Psyri). Liegt **direkt neben dem *TAF – The Art Foundation* (Normanou 5)** — keine 15 Meter Fußweg von Haustür zu Haustür.
 
-## 🕒 Tatsächliche Öffnungszeiten, Küchenzeiten & November-Check
-- **Gesamt-Öffnungszeiten:** So–Do **09:30–01:00 Uhr**, Fr & Sa **09:30–02:00 Uhr**
+## 🕒 Voraussichtliche Öffnungszeiten, Küchenzeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:** So–Do **09:30–01:00 Uhr**, Fr & Sa **09:30–02:00 Uhr**
 - **Küchen- & Barzeiten (offizieller Katalog 2026):**
   - **Coffee, Smoothies & Morning:** 09:30–19:30 Uhr
   - **Brunch-Küche:** 09:30–15:00 Uhr

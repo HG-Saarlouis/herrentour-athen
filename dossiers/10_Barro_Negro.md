@@ -11,8 +11,8 @@
   - -> **Baba au Rum** (*Klitiou 6*): **150 m / 1,5 Min. zu Fuß**
   - -> **The Bar in Front of the Bar** (*Petraki 1*): **400 m / 4,5 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **So–Do:** 18:00 – 02:00 Uhr
   - **Fr & Sa:** 18:00 – 03:00 Uhr
   - *(Reine Abend- und Nachtbar; Walk-in / First-come, first-served an Bar und Stehtischen).*

@@ -11,8 +11,8 @@
   - -> **Tanini Agapi Mou** (*Ippokratous 91*): **450 m / 5 Min. zu Fuß**
   - -> **Pharaoh** (*Solomou 54*): **550 m / 6 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten (7 Tage die Woche durchgehend ab Mittag bis tief in die Nacht!):**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten (7 Tage die Woche durchgehend ab Mittag bis tief in die Nacht!):**
   - **So–Do:** **12:00 – 01:00 Uhr** *(Küche bis nach Mitternacht!)*
   - **Fr & Sa:** **12:00 – 01:30 / 02:00 Uhr**
 - **Wetter-Faktor im November:**

@@ -13,8 +13,8 @@
 
 ---
 
-## 1. Öffnungszeiten & November-Wetter-Check (WICHTIG: Nur tagsüber!)
-- **Öffnungszeiten:**
+## 1. Voraussichtliche Öffnungszeiten & November-Wetter-Check (WICHTIG: Nur tagsüber!)
+- **Voraussichtliche Öffnungszeiten:**
   - **Mo – Sa:** **ca. 10:00 / 11:00 – 18:00 / 18:30 Uhr** *(Achtung: Reine Tages-/Mittags-Taverne! Sobald die großen Töpfe am späten Nachmittag leer sind, schließt der Keller!)*
   - **Sonntag:** **Geschlossen!**
   - **Taktisches Zeitfenster für euch:** **Freitagmittag (06.11.) oder Samstagmittag (07.11.) zwischen 12:00 und 16:30 Uhr**.

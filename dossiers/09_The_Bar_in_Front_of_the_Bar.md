@@ -11,8 +11,8 @@
   - -> **The Clumsies** (*Praxitelous 30*): **450 m / 5 Min. zu Fuß**
   - -> **Monastiraki-Dreieck** (*TAF / Couleur Locale / 360*): **650 m / 7 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & Das 2-in-1-Konzept (November-Check)
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & Das 2-in-1-Konzept (November-Check)
+- **Voraussichtliche Öffnungszeiten:**
   - **Draußen (*The Bar in Front of the Bar*):** Täglich ab **18:00 / 19:00 Uhr bis 02:00/02:30 Uhr** (Fr & Sa bis **03:00 Uhr**).
   - **Drinnen (*Rumble in the Jungle* Speakeasy):** Täglich ab **19:00 Uhr bis 02:30 Uhr** (Fr & Sa bis **03:30 Uhr**).
 - **Wetter-Faktor im November (Geniales Doppel-Setup!):**

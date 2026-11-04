@@ -7,8 +7,8 @@
 - **Laufweg ab Apartment (Korinnis):** **ca. 800 m / 9 Min. zu Fuß** (durch Psyri bis zum Monastiraki-Platz).
 - **Distanz zu TAF & Couleur Locale:** **ca. 110 m / 1 Minute zu Fuß** (nur einmal aus der Normanou-Gasse vor zum Monastiraki-Platz).
 
-## 🕒 Tatsächliche Öffnungszeiten, Küchenzeiten & November-Check
-- **Gesamt-Öffnungszeiten:** So–Do **10:00–01:30 Uhr**, Fr & Sa **10:00–02:30 Uhr** (freitags/samstags an der Bar oft bis 03:00 Uhr)
+## 🕒 Voraussichtliche Öffnungszeiten, Küchenzeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:** So–Do **10:00–01:30 Uhr**, Fr & Sa **10:00–02:30 Uhr** (freitags/samstags an der Bar oft bis 03:00 Uhr)
 - **Küchen- & Barzeiten:**
   - **Coffee & Brunch:** ab 10:00 Uhr bis in den Nachmittag
   - **Lunch & Dinner Restaurant:** durchgehend warme Küche bis ca. **23:30 / 00:00 Uhr**

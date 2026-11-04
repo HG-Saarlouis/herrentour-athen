@@ -14,8 +14,8 @@
 
 ---
 
-## 1. Öffnungszeiten, Live-Musik-Zeiten & November-Wetter-Check
-- **Öffnungszeiten:**
+## 1. Voraussichtliche Öffnungszeiten, Live-Musik-Zeiten & November-Wetter-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Di – So:** **12:00 – 01:00 / 02:00 Uhr** *(durchgehend geöffnet von Mittag bis spät in die Nacht!)*
   - **Montag:** Geschlossen (für euren Do–So-Trip also an **allen vier Tagen komplett geöffnet**).
 - **Live-Musik-Zeiten (Rembetiko & traditionelle griechische Laïkó-Musik):**

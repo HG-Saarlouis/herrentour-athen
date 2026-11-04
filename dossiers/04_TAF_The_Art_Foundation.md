@@ -5,7 +5,7 @@
 - **Google Maps:** [TAF (The Art Foundation)](https://www.google.com/maps/search/?api=1&query=TAF+The+Art+Foundation+Athens&query_place_id=ChIJk4XyViK9oRQRz5_VHhupvS8)
 - **Laufweg ab Apartment (Korinnis):** **ca. 800 m / 8–10 Min. zu Fuß** (quer durch die Gassen von Psyri). Liegt buchstäblich **Tür an Tür mit *Couleur Locale* (Normanou 3)**.
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
 - **Bar im Innenhof:** Täglich **10:30–02:00 Uhr** (Fr & Sa bis **03:00 Uhr**)
 - **Kunstgalerie (1. OG) & Design-Shop:** Täglich **12:00–20:00 Uhr** (bei Ausstellungs-Events oft bis 21:00 Uhr, **Eintritt komplett frei**)
 - **Wetter-Faktor im November:** Der gesamte Innenhof wird in der kühleren Jahreszeit **winterfest überdacht und beheizt** — der Clou dabei: Die echten, hohen Bäume wachsen mitten durch den geschützten Hof. Ihr sitzt also trocken und warm, aber trotzdem „draußen“ unter Bäumen.

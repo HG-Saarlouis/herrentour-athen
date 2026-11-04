@@ -1,7 +1,7 @@
 # 📂 DOSSIER #13: AVLI PSYRRI (Agiou Dimitriou 12)
 
 - **Kategorie:** Verstecktes Traditions-Kafeneio & Mezedopoleio im weiß-blauen Hinterhof (seit der Besatzungszeit / 1985 unter Herr Takis)
-- **Adresse (Wichtige Korrektur zur Straßenangabe im alten Guide!):** **Agiou Dimitriou 12 (Αγίου Δημητρίου 12)**, 105 54 Psyri, Athen *(direkt zwischen Kalamioti, Evripidou und dem Agion-Anargyron-Platz — NICHT Agion Anargyron 12!)*
+- **Adresse:** **Agiou Dimitriou 12 (Αγίου Δημητρίου 12)**, 105 54 Psyri, Athen *(direkt zwischen Kalamioti, Evripidou und dem Agion-Anargyron-Platz)*
 - **Google Maps:** [Avli Psyrri](https://www.google.com/maps/search/?api=1&query=Avli+Psyrri+Athens&query_place_id=ChIJc99TmCS9oRQR2pw94VIs2tw)
 - **Kontakt:** Tel. `+30 210 3217642` *(Achtung: Keine Reservierungen möglich — Walk-in only!)*
 - **Laufweg ab Apartment (Korinnis):** **ca. 550–700 m / 5–6 Min. zu Fuß** (euer direkter Nachbarschafts-Geheimtipp mitten in Psyri!)
@@ -10,8 +10,8 @@
   - -> **TAF & Couleur Locale** (*Normanou 3–5*): **350 m / 4 Min. zu Fuß**
   - -> **360 Cocktail Bar** (*Ifestou 2*): **400 m / 5 Min. zu Fuß**
 
-## 🕒 Tatsächliche Öffnungszeiten & November-Check
-- **Öffnungszeiten:**
+## 🕒 Voraussichtliche Öffnungszeiten & November-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Mi–Mo:** **13:00 – 02:00 Uhr**
   - **Dienstag:** Geschlossen *(für euren Trip Do–So also durchgehend jeden Tag geöffnet!)*
 - **Wetter-Faktor im November:**

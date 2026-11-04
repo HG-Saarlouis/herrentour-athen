@@ -14,8 +14,8 @@
 
 ---
 
-## 1. Öffnungszeiten & November-Wetter-Check
-- **Öffnungszeiten:**
+## 1. Voraussichtliche Öffnungszeiten & November-Wetter-Check
+- **Voraussichtliche Öffnungszeiten:**
   - **Mo – Do:** **12:00 – 22:00 Uhr**
   - **Fr & Sa:** **12:00 – 23:00 Uhr** *(perfekt als heiße Grundlage vor oder während eurer Freitag-/Samstagabend-Bar-Tour im Commercial Triangle!)*
   - **Sonntag:** **Geschlossen** (die handwerkliche Steinofen-Bäckerei ruht sonntags).

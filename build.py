@@ -2,7 +2,7 @@
 """
 OCHO HERRENTOUR — ATHEN 2026
 Static Web-App & KML Generator (build.py)
-Reads 00_Athen_Master_Context.md + dossiers/01..26.md + images/
+Reads 00_Athen_Master_Context.md + dossiers/01..34.md + images/
 and compiles index.html + ochos_athen_2026.kml
 """
 import glob
@@ -26,7 +26,7 @@ HOME_BASE = {
     "gmaps": "https://www.google.com/maps/place/ATHINUM+1+%7C+by+Valenci/@37.9806589,23.7223653,61m/data=!3m1!1e3!4m6!3m5!1s0x14a1bd007b9342ff:0x8d7f2bb0512213cf!8m2!3d37.9806698!4d23.7225669!16s%2Fg%2F11xz165djq"
 }
 
-# Curated tactical metadata + exact coordinates for all 26 dossiers
+# Curated tactical metadata + exact coordinates for all 34 dossiers
 SPOT_META = {
     1: {
         "short_title": "BIOS",
@@ -227,22 +227,22 @@ SPOT_META = {
         "lng": 23.73118,
     },
     12: {
-        "short_title": "TALES OF ALES (+ CRAFT BEER TRIO)",
+        "short_title": "TALES OF ALES",
         "subtitle": "10 rotierende Craft-Beer-Taps & 170+ griechische Mikrobrauerei-Dosen",
-        "district": "Zentrum",
+        "district": "Commercial Triangle / Syntagma",
         "district_tag": "zentrum",
         "cats": ["beer", "daydrinking", "late"],
-        "cat_label": "CRAFT BEER / TAPROOM",
-        "address": "Miltiadou 19, 105 60 Athen (+ Brew Str & Strange Brew)",
+        "cat_label": "CRAFT BEER / TAPROOM & BOTTLE SHOP",
+        "address": "Miltiadou 19, 105 60 Athen",
         "walk_min": 8,
         "walk_text": "750 m · 8 Min.",
         "hours_short": "Mo–Do 14:00–01:00 · Fr/Sa 14:00–02:00 · So 17:00–01:00",
         "food_status": "STREETFOOD NEXT DOOR",
-        "food_note": "Gegenüber auf Miltiadou 12 Smash-Burger holen & zum Bier essen!",
-        "signature": "Strange Brew 'Jasmine IPA', Seven Seals & Kykao vom Fass",
+        "food_note": "Gegenüber auf Miltiadou 22 heißes 'Feta Me Meli' im Filo-Hörnchen holen!",
+        "signature": "Strange Brew 'Jasmine IPA', Seven Islands & Kykao vom Fass",
         "insider": "Liegt mitten im Bermudadreieck zwischen Clumsies (90 m) und Baba au Rum (140 m) — der beste Zwischenstopp für ein ehrliches IPA.",
-        "lat": 37.97822,
-        "lng": 23.72968,
+        "lat": 37.97765,
+        "lng": 23.72940,
     },
     13: {
         "short_title": "AVLI PSYRRI",
@@ -335,22 +335,22 @@ SPOT_META = {
         "lng": 23.73512,
     },
     18: {
-        "short_title": "STRAKASTRÜKA & SPIRTO (LATE NIGHT)",
-        "subtitle": "Rock- & Craft-Beer-Joint (Andrea Metaxa 19) + Exarchia-Spätnacht-Achse",
+        "short_title": "STRAKASTRÜKA",
+        "subtitle": "Rock- & Alternative-Music-Joint mit 9 griechischen Craft-Beer-Taps",
         "district": "Exarchia",
         "district_tag": "exarchia",
         "cats": ["beer", "late", "cocktails"],
-        "cat_label": "CRAFT BEER / ROCK & LATE NIGHT",
-        "address": "Andrea Metaxa 19 & Tzavella 9–13, Exarchia",
+        "cat_label": "CRAFT BEER / ROCK JOINT",
+        "address": "Andrea Metaxa 19, 106 81 Exarchia",
         "walk_min": 19,
         "walk_text": "1,7 km · 19 Min.",
-        "hours_short": "strakastrüka bis 01:00/03:00 · Spirto bis 03:00/05:00",
+        "hours_short": "Di–Do 18:00–01:00 · Fr/Sa 16:00–03:00 · So 16:00–01:00 (Mo zu)",
         "food_status": "HOT DOGS & BARFOOD",
-        "food_note": "Legendärer 'Straka Hot Dog' zum Craft Beer",
-        "signature": "9 griechische Craft-Taps bei strakastrüka + Absacker bis 4 Uhr morgens im Spirto",
-        "insider": "WICHTIG: strakastrüka sitzt auf der Andrea Metaxa 19 (Ecke Valtetsiou, nicht Nr. 2!) · Danach 2 Min. rüber auf die Koletti-/Tzavella-Achse.",
-        "lat": 37.98595,
-        "lng": 23.73475,
+        "food_note": "Legendärer 'Straka Hot Dog' im Brioche-Bun & knusprige Bar-Pizza",
+        "signature": "9 rotierende griechische Craft-Taps (Voreia Stout, Jasmine IPA, Kyria Toula) & Straka Hot Dog",
+        "insider": "Sitzt auf der Andrea Metaxa 19 direkt an der Ecke zur Fußgängerzone Valtetsiou (nur 60 m neben Rozalia) · Überdachte Stehplätze vor der Front.",
+        "lat": 37.98542,
+        "lng": 23.73510,
     },
     19: {
         "short_title": "KLIMATARIA",
@@ -461,40 +461,184 @@ SPOT_META = {
         "lng": 23.71106,
     },
     25: {
-        "short_title": "WAREHOUSE (EXARCHIA & CO2)",
+        "short_title": "WAREHOUSE EXARCHIA",
         "subtitle": "Industrial All-Day Specialty-Coffee-, Wein- & Cocktailbar (80+ offene Weine)",
-        "district": "Exarchia & Syntagma",
+        "district": "Exarchia",
         "district_tag": "exarchia",
         "cats": ["wine", "cocktails", "food", "daydrinking"],
         "cat_label": "WINE GIANT / ALL-DAY BISTRO",
-        "address": "Valtetsiou 21, Exarchia (+ Ypereidou 1, Syntagma)",
+        "address": "Valtetsiou 21 & Mavromichali 41, 106 80 Exarchia",
         "walk_min": 18,
         "walk_text": "1,6 km · 18 Min.",
         "hours_short": "Tägl. 09:00–02:30 (Küche bis 23:30)",
         "food_status": "GASTRO BISTRO",
-        "food_note": "Gehobene Sharing-Küche, Burrata mit Avgotaracho & frische Pasta",
-        "signature": "Weinverkostung nach Glas (80+ offene Positionen) & Spritz/Pet-Nat in der Fußgängerzone",
-        "insider": "Sitzt direkt am Eingang der Fußgängerzone Valtetsiou (nur 140 m vor Rozalia & strakastrüka) · Perfekter Aperitivo-Stopp in Exarchia.",
-        "lat": 37.98448,
-        "lng": 23.73488,
+        "food_note": "Vollwertige Bistro-Küche: Burrata mit Avgotaracho, Striftoudia-Pasta & Steaks",
+        "signature": "Weinverkostung nach Glas (80+ offene Positionen), Burrata-Avgotaracho & Wisecup Freddo Espresso",
+        "insider": "Ehemaliges Verlagshaus direkt am Eingang der Fußgängerzone Valtetsiou (140 m vor Rozalia & strakastrüka) mit den legendären ΔΕΗ-Kabeltrommel-Tischen.",
+        "lat": 37.98455,
+        "lng": 23.73475,
     },
     26: {
-        "short_title": "FRÜHSTÜCK & KATER-BRUNCH PSYRI",
-        "subtitle": "Minu (2 Min.), Usurum (ab 07:30!), Bougatsadiko, Koulouri & I Stani (seit 1931)",
+        "short_title": "MINU",
+        "subtitle": "Urban Jungle Café & Hinterhof-Brunch, 2 Min. ab Apartment",
+        "district": "Psyri (Home-Kiez)",
+        "district_tag": "psyri",
+        "cats": ["breakfast", "daydrinking", "food"],
+        "cat_label": "URBAN JUNGLE / BRUNCH & CAFÉ",
+        "address": "Sarri 50, 105 53 Psyri",
+        "walk_min": 2,
+        "walk_text": "190 m · 2 Min.!",
+        "hours_short": "Tägl. 08:30–21:30",
+        "food_status": "FULL BRUNCH & CAFÉ",
+        "food_note": "Specialty Coffee, Pochierte Eier, Rührei auf Sauerteig, Katsu Sando & Kuchen",
+        "signature": "'Happy Egg Bowl' (Pochierte Eier & Avocado), 'Scrambleness', Pork Katsu Sando & Freddo Cappuccino",
+        "insider": "Nur 2 Minuten ab Apartment einmal quer über den Platz · Drinnen sitzt ihr unter hunderten Monstera- & Kaktuspflanzen, hinten wartet ein ruhiger Innenhof-Garten.",
+        "lat": 37.97945,
+        "lng": 23.72295,
+    },
+    27: {
+        "short_title": "BREW STR",
+        "subtitle": "Athens Beer Shop & Craft-Tap-Stopp am Übergang von Syntagma und Plaka",
+        "district": "Syntagma / Plaka",
+        "district_tag": "zentrum",
+        "cats": ["beer", "daydrinking"],
+        "cat_label": "CRAFT BEER SHOP & BAR",
+        "address": "Nikis 50, 105 58 Syntagma / Plaka",
+        "walk_min": 15,
+        "walk_text": "1,35 km · 15 Min.",
+        "hours_short": "Mo–Mi 12:00–23:30 · Do bis 01:00 · Fr/Sa bis 02:00 · So 17:00–23:30",
+        "food_status": "BEER SNACKS ONLY",
+        "food_note": "Fokus auf frisch gezapftes Craft Beer & gekühlte Dosen/Flaschen",
+        "signature": "Frisch gezapfte griechische IPAs & Pale Ales im Stehen auf dem Gehweg der Nikis",
+        "insider": "Idealer Boxenstopp auf dem Weg von der Akropolis oder Plaka Richtung Syntagma · Nur 120 m neben Warehouse CO2 und 5 Min. von The Bar in Front of the Bar.",
+        "lat": 37.97360,
+        "lng": 23.73360,
+    },
+    28: {
+        "short_title": "STRANGE BREW TAPROOM",
+        "subtitle": "Offizieller Taproom & Bottleshop der Athener Kult-Brauerei mit 10 Zapfhähnen",
+        "district": "Koukaki",
+        "district_tag": "riviera",
+        "cats": ["beer"],
+        "cat_label": "BREWERY TAPROOM / 10 TAPS",
+        "address": "Falirou 86, 117 41 Koukaki",
+        "walk_min": 26,
+        "walk_text": "2,3 km · 26 Min.",
+        "hours_short": "Mo–Do 17:30–01:00 · Fr 17:30–02:00 · Sa 14:00–02:00 · So 14:00–01:00",
+        "food_status": "TAPROOM SNACKS",
+        "food_note": "Reiner Brauerei-Taproom & Bottleshop (Snacks zum Bier)",
+        "signature": "Hausgebrautes 'Jasmine IPA' (6,2 %), 'Dr. Haze' Double NEIPA & 'Uncle Jam's' frisch vom Hahn",
+        "insider": "Liegt südlich der Akropolis mitten im Koukaki-Kiez — perfekt kombinierbar mit einem Rundgang um die Akropolis oder auf dem Weg Richtung Süden.",
+        "lat": 37.96340,
+        "lng": 23.72480,
+    },
+    29: {
+        "short_title": "TO SPIRTO & KOLETTI-ACHSE",
+        "subtitle": "Unprätentiöse Exarchia-Spätnacht-Kneipe bis 5 Uhr früh & die Koletti-Straßenbar-Meile",
+        "district": "Exarchia",
+        "district_tag": "exarchia",
+        "cats": ["late"],
+        "cat_label": "LATE NIGHT / ROCK & STREET BARS",
+        "address": "Tzavella 9–13 & Koletti 25–42, 106 81 Exarchia",
+        "walk_min": 18,
+        "walk_text": "1,6 km · 18 Min.",
+        "hours_short": "Mo–Do 12:00–03:00 · Fr/Sa 13:00–05:00 · So 15:00–03:00",
+        "food_status": "DRINKS ONLY",
+        "food_note": "Klassische Spätnacht-Kneipen (vorab bei Rozalia oder strakastrüka essen)",
+        "signature": "Ehrliche Longdrinks (6–7 €) & Bier im 'to Spirto', Street-Drinks vor der 'Revolt Bar' & Blues an der 12-m-Theke im 'Mavros Gatos'",
+        "insider": "Am Wochenende bis 05:00 Uhr morgens offen · Liegt auf der Fußgängerzone Tzavella gegenüber vom Navarinou-Park, nur 2–3 Min. von strakastrüka und Warehouse Exarchia.",
+        "lat": 37.98485,
+        "lng": 23.73365,
+    },
+    30: {
+        "short_title": "SPIRTOKOUTO BAR",
+        "subtitle": "Kultige 80s/90s-Retro-Trash- & Rock-Bar voller Musikkassetten & Popkultur-Relikte",
+        "district": "Kato Petralona",
+        "district_tag": "west",
+        "cats": ["late"],
+        "cat_label": "RETRO ROCK / LATE NIGHT CULT",
+        "address": "Keiriadon 15, 118 54 Kato Petralona",
+        "walk_min": 20,
+        "walk_text": "1,6 km · 20 Min.",
+        "hours_short": "So–Do 18:00–02:00 · Fr/Sa 18:00–04:00",
+        "food_status": "DRINKS ONLY",
+        "food_note": "Reine Spätnacht-Bar (vorab im Upupa Epops oder Line Athens essen)",
+        "signature": "Kalte Biere, Straight Drinks & Shots zwischen Musikkassetten-Wänden zu 80s/90s-Rock & Alternative",
+        "insider": "Benannt nach dem griechischen Kultfilm 'Spirtokouto' (2003) · Liegt nur 150 m (2 Min.) neben Upupa Epops — perfekter wilder Absacker auf der Petralona-West-Linie!",
+        "lat": 37.97620,
+        "lng": 23.71150,
+    },
+    31: {
+        "short_title": "WAREHOUSE CO2",
+        "subtitle": "Urbaner Sparkling-Wine-, Pet-Nat- & Specialty-Coffee-Corner unter Platanen",
+        "district": "Syntagma / Plaka",
+        "district_tag": "zentrum",
+        "cats": ["wine", "daydrinking"],
+        "cat_label": "BUBBLES & PET-NAT / APERITIVO",
+        "address": "Ypereidou 1 & Nikis 21, 105 58 Syntagma / Plaka",
+        "walk_min": 16,
+        "walk_text": "1,4 km · 16 Min.",
+        "hours_short": "Tägl. 08:30–01:00",
+        "food_status": "DELI PLATTERS & BITES",
+        "food_note": "Kalte Feinkost-Platten, Bruschettas, Rinder-Carpaccio & Burrata",
+        "signature": "Griechische Pet-Nats & Grower-Schaumweine im Glas (29+ offene Bubbles) + Burrata mit Avgotaracho",
+        "insider": "Der auf Bubbles spezialisierte kleine Bruder des Warehouse Exarchia unter großen Platanen · Liegt nur 120 m neben dem Craft-Beer-Spot Brew Str (Nikis 50).",
+        "lat": 37.97425,
+        "lng": 23.73380,
+    },
+    32: {
+        "short_title": "USURUM BRUNCH & COCKTAILS",
+        "subtitle": "Großer begrünter Garten-Innenhof & Vollgas-Kater-Brunch schon ab 07:30 Uhr",
+        "district": "Psyri (Home-Kiez)",
+        "district_tag": "psyri",
+        "cats": ["breakfast", "daydrinking", "food"],
+        "cat_label": "EARLY BRUNCH COURTYARD / AB 07:30",
+        "address": "Lepeniotou 19, 105 54 Psyri",
+        "walk_min": 3,
+        "walk_text": "280 m · 3 Min.",
+        "hours_short": "Mo–Fr 07:30–18:00 · Sa/So 07:30–19:00 (Küche bis 17:00)",
+        "food_status": "FULL HANGOVER BRUNCH",
+        "food_note": "Warme Brunch-Küche durchgehend von 07:30 bis 17:00 Uhr",
+        "signature": "Shakshuka Eggs, Buttermilk Chicken Waffle, Eggs Benedict auf Sauerteig & Bloody Mary",
+        "insider": "Öffnet schon um 07:30 Uhr morgens für Frühaufsteher · Walk-ins only mit großem Innenhof, ideal für 8 Personen ohne Reservierung.",
+        "lat": 37.97820,
+        "lng": 23.72360,
+    },
+    33: {
+        "short_title": "BOUGATSADIKO THESSALONIKI & KOULOURI",
+        "subtitle": "Handgeschleuderte Filoteig-Bougatsa am Iroon-Platz & Kult-Sesamringe seit 1962",
         "district": "Psyri (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["breakfast", "food"],
-        "cat_label": "MORNING COMPASS / 2–5 MIN WALK",
-        "address": "Sarri 50 / Lepeniotou 19 / Platia Iroon 1, Psyri",
-        "walk_min": 2,
-        "walk_text": "190–450 m · 2–5 Min.!",
-        "hours_short": "Usurum ab 07:30 · Minu ab 08:30 · Bäcker ab 06:30",
-        "food_status": "FULL BREAKFAST",
-        "food_note": "Specialty Coffee, Eggs Benedict, ofenheiße Bougatsa & Schafsjoghurt",
-        "signature": "Minu 'Happy Egg Bowl', Usurum 'Shakshuka & Bloody Mary' oder heiße Bougatsa auf die Hand",
-        "insider": "Da das Apartment kein Frühstück hat, stolpert ihr aus der Korinnis 11 in 2 Minuten direkt zu Minu (Sarri 50) oder Usurum (Lepeniotou 19).",
-        "lat": 37.97925,
-        "lng": 23.72318,
+        "cat_label": "TRADITIONAL BAKERY / AB 06:30",
+        "address": "Platia Iroon 1 & Karaiskaki 27, 105 54 Psyri",
+        "walk_min": 4,
+        "walk_text": "350 m · 4 Min.",
+        "hours_short": "Tägl. ab 06:30 / 07:00 Uhr",
+        "food_status": "AUTHENTIC STREET BREAKFAST",
+        "food_note": "Ofenheiße Bougatsa (2,80–4,20 €) & frische Sesamringe (ab 0,70 €)",
+        "signature": "Bougatsa mit Hackfleisch (Kima), Feta oder süßer Grießcreme + dampfendes Koulouri nebenan",
+        "insider": "Im Bougatsadiko an der Platia Iroon 1 wird der Filoteig live durch die Luft geschleudert · 50 m weiter auf der Karaiskaki 27 backt 'To Koulouri tou Psyrri' seit 1962.",
+        "lat": 37.97810,
+        "lng": 23.72485,
+    },
+    34: {
+        "short_title": "GALAKTOPOLEIO I STANI (seit 1931)",
+        "subtitle": "Athens letztes historisches Molkerei-Frühstückshaus aus dem Jahr 1931",
+        "district": "Omonia / Psyri-Nord",
+        "district_tag": "psyri",
+        "cats": ["breakfast", "food"],
+        "cat_label": "1931 DAIRY TRADITION / BREAKFAST",
+        "address": "Marikas Kotopouli 10, 104 32 Omonia",
+        "walk_min": 5,
+        "walk_text": "500 m · 5 Min.",
+        "hours_short": "Mo–Sa 07:00–22:30 · So 07:30–22:30",
+        "food_status": "TRADITIONAL DAIRY & PIES",
+        "food_note": "Stichfester Schafsjoghurt, Frischrahm, Käsepasteten & warme Honigbällchen",
+        "signature": "Schafsjoghurt mit dicker Rahmhaut (Tsanaka), Thymianhonig & Walnüssen + heiße Loukoumades",
+        "insider": "Seit 1931 in 3. Generation von Familie Karageorgos geführt (Milch direkt aus den Bergen von Korinth) — echtes 1930er-Jahre-Athen zum Frühstück!",
+        "lat": 37.98410,
+        "lng": 23.72690,
     }
 }
 
@@ -715,8 +859,8 @@ def parse_all_dossiers():
         gmaps_links = []
         for gm in re.finditer(r'\[([^\]]+)\]\((https://www\.google\.com/maps[^\)]+)\)', raw):
             label, url = gm.group(1).strip(), gm.group(2).strip()
-            # Skip apartment link in dossier 26 as primary if others exist
-            if num == 26 and "ATHINUM" in label:
+            # Skip apartment link as primary if others exist
+            if "ATHINUM" in label:
                 continue
             gmaps_links.append({"label": label, "url": url})
 
@@ -773,7 +917,7 @@ def generate_kml(spots):
         desc = (
             f"<b>{s['cat_label']} — {s['district']}</b><br/>"
             f"<b>Adresse:</b> {s['address']} ({s['walk_text']} ab Apartment)<br/>"
-            f"<b>Zeiten:</b> {s['hours_short']}<br/>"
+            f"<b>Voraussichtliche Zeiten:</b> {s['hours_short']}<br/>"
             f"<b>Essen:</b> {s['food_status']} ({s['food_note']})<br/>"
             f"<b>Bestellung:</b> {s['signature']}<br/>"
             f"<b>Insider:</b> {s['insider']}<br/>"
@@ -789,7 +933,7 @@ def generate_kml(spots):
     kml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 26 Dossiers + Home Base)</name>
+    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 34 Dossiers + Home Base)</name>
     <description>Kuratierter Athen-Kompass der Ochos (05.11.–08.11.2026)</description>
     {''.join(placemarks)}
   </Document>
@@ -1393,7 +1537,7 @@ def build_html(spots, master_html):
     }}
     .spec-row {{
       display: grid;
-      grid-template-columns: 92px 1fr;
+      grid-template-columns: 112px 1fr;
       gap: 8px;
       align-items: baseline;
       border-bottom: 1px dotted var(--border-subtle);
@@ -2018,7 +2162,7 @@ def build_html(spots, master_html):
       </div>
 
       <div class="status-strip">
-        <span id="resultsCountLabel">ZEIGE 26 VON 26 DOSSIERS</span>
+        <span id="resultsCountLabel">ZEIGE 34 VON 34 DOSSIERS</span>
         <span>HOME-PIN: ATHINUM 1 (KORINNIS 11)</span>
       </div>
 
@@ -2031,12 +2175,12 @@ def build_html(spots, master_html):
     <section id="view-map" class="view-section">
       <div class="map-toolbar">
         <div>
-          <strong>GPS RADAR //</strong> <span id="gpsStatus">Klicke auf einen Pin (#01–#26) für Details oder [HOME] für Korinnis 11.</span>
+          <strong>GPS RADAR //</strong> <span id="gpsStatus">Klicke auf einen Pin (#01–#34) für Details oder [HOME] für Korinnis 11.</span>
         </div>
         <div class="map-toolbar-btns">
           <button class="sharp-btn" onclick="focusHomeBase()">[00] HOME BASE (KORINNIS 11)</button>
           <button class="sharp-btn" onclick="locateUser()">MEIN GPS-STANDORT</button>
-          <button class="sharp-btn" onclick="fitAllMarkers()">ALLE 26 PINS ZEIGEN</button>
+          <button class="sharp-btn" onclick="fitAllMarkers()">ALLE 34 PINS ZEIGEN</button>
         </div>
       </div>
       <div id="athen-map"></div>
@@ -2189,7 +2333,7 @@ def build_html(spots, master_html):
       const q = (document.getElementById('searchInput').value || '').trim().toLowerCase();
       let list = SPOTS.filter(s => {{
         if (activeCat !== 'all' && !s.cats.includes(activeCat)) return false;
-        if (activeDist !== 'all' && s.district_tag !== activeDist) return false;
+        if (activeDist !== 'all' && s.district_tag !== activeDist && !(activeDist === 'petralona' && s.district_tag === 'west')) return false;
         if (q) {{
           const hay = (s.title + ' ' + s.subtitle + ' ' + s.district + ' ' + s.address + ' ' + s.signature + ' ' + s.insider + ' ' + s.search_text).toLowerCase();
           if (!hay.includes(q)) return false;
@@ -2236,7 +2380,7 @@ def build_html(spots, master_html):
                 <span class="spec-val"><strong>${{s.walk_text}}</strong> ab Apartment · ${{s.address}}</span>
               </div>
               <div class="spec-row">
-                <span class="spec-key">ZEITEN</span>
+                <span class="spec-key">VORAUSSICHTLICHE ÖFFNUNGSZEITEN</span>
                 <span class="spec-val">${{s.hours_short}}</span>
               </div>
               <div class="spec-row">
@@ -2310,7 +2454,7 @@ def build_html(spots, master_html):
             <div class="dq-val">${{s.address}} (${{s.walk_text}})</div>
           </div>
           <div class="dq-cell">
-            <div class="dq-label">ÖFFNUNGSZEITEN</div>
+            <div class="dq-label">VORAUSSICHTLICHE ÖFFNUNGSZEITEN</div>
             <div class="dq-val">${{s.hours_short}}</div>
           </div>
           <div class="dq-cell">
@@ -2433,7 +2577,7 @@ def build_html(spots, master_html):
       `);
       markersById['home'] = homeM;
 
-      // All 26 Spot Markers
+      // All 34 Spot Markers
       SPOTS.forEach(s => {{
         const icon = L.divIcon({{
           className: 'ocho-pin',
