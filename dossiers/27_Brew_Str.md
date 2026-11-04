@@ -14,9 +14,9 @@
 - **Fr & Sa:** 12:00 – 02:00 Uhr
 - **So:** 17:00 – 23:30 Uhr
 
-## 🍺 Vibe, Auswahl & Taktischer Einsatz
-- **Auswahl:** Rotierende Zapfhähne mit frisch gezapftem griechischem und internationalem Craft Beer sowie prall gefüllte Kühlschränke mit Dosen und Flaschen griechischer Mikrobrauereien (*Strange Brew*, *Seven Islands*, *Kykao*, *Noctua* u. a.) zum Direkttrinken vor Ort oder zum Mitnehmen.
-- **Wann sinnvoll?** Wenn ihr tagsüber von der Akropolis oder durch die Plaka Richtung Syntagma lauft und Lust auf ein schnelles, eiskalt gezapftes Craft-Bier im Stehen oder auf dem Gehweg habt — ideal kombinierbar mit einem Abstecher ins direkt benachbarte *Warehouse CO2* (`Ypereidou 1 & Nikis 21`).
+## 🍺 Vibe, Auswahl & Taktischer Einsatz für die Ochos
+- **Auswahl (Flüssige Munition):** Rotierende Zapfhähne mit frisch gezapftem griechischem und internationalem Craft Beer sowie prall gefüllte Kühlschränke mit Dosen und Flaschen der besten griechischen Mikrobrauereien (*Strange Brew*, *Seven Islands*, *Kykao*, *Noctua* u. a.) – perfekt zum direkten Vernichten vor Ort oder zum Einsacken als Kühlschrank-Reserve für unser Apartment in der Korinnis.
+- **Wann schlagen wir hier auf?** Wenn wir uns tagsüber von der Akropolis runterrollen oder durch die Plaka Richtung Syntagma marschieren und plötzlich akute Unterhopfung droht. Hier gibt es kein steifes Kellner-Ballett, sondern ein schnelles, eiskalt gezapftes Starkbier direkt im Stehen oder an der frischen Luft auf dem Gehweg. Wer danach noch Durst auf edle Bläschen hat: Das *Warehouse CO2* (`Ypereidou 1 & Nikis 21`) liegt buchstäblich eine Hausnummer weiter (120 m) für den nahtlosen Doppel-Boxenstopp!
 
 ## 📸 Bilder
 - ![Brew Str Athens Beer Shop Innenraum](../images/brew_str_interior.jpg)

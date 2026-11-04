@@ -14,9 +14,9 @@
 - **Sa:** 14:00 – 02:00 Uhr
 - **So:** 14:00 – 01:00 Uhr
 
-## 🍺 Biere, Vibe & Taktischer Einsatz
-- **Die Brauerei & Klassiker am Hahn:** Heimat von Athens bekanntester unabhängiger Craft-Brauerei rund um den Klassiker *Jasmine IPA* (6,2 % – gebraut mit echten Jasminblüten), das *Dr. Haze* (Double NEIPA), *Uncle Jam’s* sowie wechselnde Small-Batch-Sude und Gastbiere an 10 Zapfhähnen.
-- **Wann sinnvoll?** Extra nur für ein Bier ab der Korinnis dorthin laufen müsst ihr nicht (da ihr die *Strange-Brew*-Biere auch 8 Min. vom Apartment bei *Tales of Ales* bekommt). **Aber:** Falls ihr am Freitag oder Samstag nach der **Akropolis / dem Akropolismuseum** südlich durch das lebendige Viertel Koukaki schlendert, ist dieser Taproom mit seinen 10 eigenen Zapfhähnen der perfekte Stopp!
+## 🍺 Biere, Vibe & Taktischer Einsatz für unsere Truppe
+- **Das Hauptquartier des Hopfens:** Hier sitzen wir direkt an der Quelle von Athens bekanntester unabhängiger Brauerei. Aus 10 Zapfhähnen fließt das legendäre *Jasmine IPA* (6,2 % – gebraut mit echten Jasminblüten, ballert herrlich rund), das trübe Schwergewicht *Dr. Haze* (Double NEIPA), *Uncle Jam’s* sowie wechselnde Small-Batch-Sude und Gastbiere. Gedrunken wird völlig tiefenentspannt an der Theke oder draußen auf dem Bürgersteig mit den Einheimischen.
+- **Wann machen wir den Schlenker?** Ehrlich unter uns: Extra nur für ein einziges Glas von unserem Apartment in der Korinnis die 26 Minuten hier runterzulatschen, wäre unnötige Kalorienverschwendung (zumal wir die *Strange-Brew*-Biere auch 8 Minuten von unserer Haustür bei *Tales of Ales* gezapft kriegen). **Aber:** Wenn wir uns am Freitag oder Samstag die **Akropolis und das Akropolismuseum** gegeben haben und mit staubiger Kehle auf der Südseite durch das geile Nachbarschaftsviertel Koukaki schlendern, ist dieser Taproom mit seinen 10 Hähnen der absolute Pflicht-Boxenstopp zur Elektrolyt-Zufuhr!
 
 ## 📸 Bilder
 - ![Strange Brew Taproom & Bottleshop Koukaki](../images/strange_brew_taproom1.jpg)

@@ -30,613 +30,613 @@ HOME_BASE = {
 SPOT_META = {
     1: {
         "short_title": "BIOS",
-        "subtitle": "Industrial-Kulturzentrum & Unprätentiöses Akropolis-Rooftop",
+        "subtitle": "Legendäre Dachterrasse mit unverbautem Akropolis-Blick & ehrlichen Drinks im Liegestuhl",
         "district": "Psyri / West",
         "district_tag": "psyri",
-        "cats": ["rooftop", "late", "drinks"],
-        "cat_label": "ROOFTOP / LATE NIGHT",
+        "cats": ["rooftop", "late", "cocktails"],
+        "cat_label": "ROOFTOP / SPÄTNACHT & DRINKS",
         "address": "Pireos 84, 104 35 Athen",
         "walk_min": 5,
         "walk_text": "400 m · 5 Min.",
         "hours_short": "Tägl. 10:00–02:00 (Fr/Sa bis 03:00)",
         "food_status": "SNACKS ONLY",
-        "food_note": "Reine Bar — kein Abendessen (nur Bar-Snacks)",
-        "signature": "Papoto-Slush (Eis am Stiel im Cocktailglas) & kaltes Fassbier",
-        "insider": "Eingang um die Ecke auf der Salaminos 13 nutzen · Aufzug direkt in den 2. Stock / aufs Dach · Liegestühle mit unverbautem Blick auf die beleuchtete Akropolis.",
+        "food_note": "Reine Tränke für den Durst — die Grundlage schaffen wir uns vorher im Kiez!",
+        "signature": "Eiskalter Papoto-Slush (mit echtem Eis am Stiel im Glas!) & frisch gezapftes Fassbier",
+        "insider": "Wir nehmen den Seiteneingang auf der Salaminos 13 und fahren direkt hoch aufs Dach: 5 Minuten vorm Bett noch ein letztes Glas mit beleuchteter Akropolis vor der Nase.",
         "lat": 37.97918,
         "lng": 23.71915,
     },
     2: {
         "short_title": "UPUPA EPOPS",
-        "subtitle": "Theatrale Vintage-Cocktailbar & Begrünter 1930er-Innenhof",
+        "subtitle": "Prachtvoller 1930er-Innenhof für den ersten großen Durst & handgemachte Bar-Küche",
         "district": "Petralona",
         "district_tag": "petralona",
-        "cats": ["cocktails", "daydrinking", "food"],
-        "cat_label": "COCKTAILS / HOF & BARFOOD",
+        "cats": ["cocktails", "daydrinking"],
+        "cat_label": "COCKTAILS / HOF & DAYDRINKING",
         "address": "Alkminis 7, 118 54 Kato Petralona",
         "walk_min": 20,
         "walk_text": "1,6 km · 20 Min.",
         "hours_short": "Tägl. 10:00–02:00 (Fr/Sa bis 03:00)",
         "food_status": "BARFOOD / PIZZA",
-        "food_note": "Starkes Barfood & Sauerteig-Pizza (Küche bis 00:30)",
-        "signature": "Upupa Epops Signature Cocktail & Trüffel-Pilz-Pinsa",
-        "insider": "Drei zusammengefügte 1930er-Steinhäuser · Perfekt als Start der Donnerstag-West-Linie vor Line Athens (nur 400 m weiter).",
+        "food_note": "Deftiges Barfood & knusprige Sauerteig-Pizza bis nach Mitternacht (00:30 Uhr)",
+        "signature": "Upupa Epops Haus-Cocktail im großen Kelch & Trüffel-Pilz-Pinsa zum Teilen",
+        "insider": "Drei zusammengebaute 1930er-Steinhäuser voller Charakter: Unser perfekter Auftakt auf der West-Route, bevor wir 400 Meter weiter ins Line Athens marschieren.",
         "lat": 37.97152,
         "lng": 23.71184,
     },
     3: {
         "short_title": "LINE ATHENS",
-        "subtitle": "Weltklasse-Avantgarde-Bar (#6 World's 50 Best Bars) & In-House-Fermentation",
+        "subtitle": "Weltklasse-Barhandwerk (#6 World's 50 Best Bars) mit eigener Braukunst & hoher Trinkkultur",
         "district": "Petralona",
         "district_tag": "petralona",
-        "cats": ["cocktails", "food", "late"],
-        "cat_label": "WORLD'S 50 BEST / AVANTGARDE",
+        "cats": ["50best", "cocktails", "late"],
+        "cat_label": "EU'S 50 BEST / HIGH-END BAR",
         "address": "Agathodaimonos 37, 118 53 Kato Petralona",
         "walk_min": 22,
         "walk_text": "1,7 km · 22 Min.",
         "hours_short": "Mo–Do 17:00–02:00 · Fr 17:00–03:00 · Sa/So ab 10:30",
         "food_status": "GASTRO BARFOOD",
-        "food_note": "Hauseigene Sauerteig-Bäckerei & Zero-Waste-Gerichte",
-        "signature": "Hauseigene Fruchtweine ('Why Not' Erdbeer/Feige/Granatapfel) & 'Line's Hot Dog'",
-        "insider": "Ehemalige Kunstgalerie in alter Fabrik · Ab 21:30 Uhr legt der DJ auf · 5 Min. Fußweg von Upupa Epops.",
+        "food_note": "Hauseigene Sauerteig-Bäckerei & handgemachte Bar-Klassiker auf Spitzenniveau",
+        "signature": "Hausgemachte Fruchtweine ('Why Not' Erdbeer/Feige/Granatapfel) & der legendäre 'Line's Hot Dog'",
+        "insider": "Riesige historische Werkhalle mit ordentlich Wumms: Ab 21:30 Uhr dreht der DJ auf, und wir stehen goldrichtig an der langen Tafel.",
         "lat": 37.96885,
         "lng": 23.70995,
     },
     4: {
         "short_title": "TAF (THE ART FOUNDATION)",
-        "subtitle": "Versteckter Hinterhof von 1870, Kunstgalerie & Kult-Bar",
+        "subtitle": "Versteckter historischer Innenhof von 1870 & urige Traditions-Bar mitten im Trubel",
         "district": "Monastiraki / Psyri",
         "district_tag": "monastiraki",
         "cats": ["daydrinking", "cocktails", "late"],
-        "cat_label": "HIDDEN COURTYARD / ART BAR",
+        "cat_label": "HISTORISCHER HOF / KULT-BAR",
         "address": "Normanou 5, 105 55 Monastiraki",
         "walk_min": 10,
         "walk_text": "800 m · 10 Min.",
         "hours_short": "Mo–Do 11:00–02:00 · Fr/Sa bis 03:00",
         "food_status": "DRINKS ONLY",
-        "food_note": "Reine Bar & Café — vorab in Psyri essen!",
-        "signature": "Freddo Espresso tagsüber · Klassische Highballs & Gin-Drinks nachts",
-        "insider": "Durch den dunklen Torbogen auf der Flohmarktgasse Normanou 5 gehen · Couleur Locale ist direkt im Gebäude daneben (Normanou 3)!",
+        "food_note": "Hier wird flüssig ernährt — gegessen haben wir vorher ordentlich in Psyri!",
+        "signature": "Starker Freddo Espresso am Nachmittag · Eiskalte Highballs & ehrliche Gin-Tonics bei Nacht",
+        "insider": "Einfach durch den unscheinbaren Torbogen auf der Flohmarktgasse Normanou 5 schlüpfen — und falls wir Höhenluft wollen, liegt Couleur Locale direkt Haus an Haus auf der Nr. 3!",
         "lat": 37.97622,
         "lng": 23.72438,
     },
     5: {
         "short_title": "COULEUR LOCALE",
-        "subtitle": "Verstecktes Panorama-Rooftop mit Frontalblick auf die Akropolis",
+        "subtitle": "Sonniges Panorama-Dach mit Postkartenblick auf die Akropolis & besten Sundowner-Drinks",
         "district": "Monastiraki",
         "district_tag": "monastiraki",
         "cats": ["rooftop", "daydrinking", "cocktails"],
-        "cat_label": "ROOFTOP / SUNSET VIEW",
+        "cat_label": "ROOFTOP / SUNDOWNER & DRINKS",
         "address": "Normanou 3, 105 55 Monastiraki",
         "walk_min": 10,
         "walk_text": "800 m · 10 Min.",
         "hours_short": "Tägl. 09:30–02:00 (Fr/Sa bis 03:00)",
         "food_status": "BRUNCH & BARFOOD",
-        "food_note": "Brunch bis 18:00, danach Burger/Pinsa/Fingerfood",
-        "signature": "Mediterranean Mule & Akropolis-Sundowner um 17:00 Uhr",
-        "insider": "In die unscheinbare Ladenpassage Normanou 3 hineingehen und den Aufzug in den 3. Stock nehmen · Im November mit Glas-Windschutz & Heizstrahlern.",
+        "food_note": "Solide Stärkung mit Burgern, Pinsa & Fingerfood direkt zum Glas",
+        "signature": "Erfrischender Mediterranean Mule & die volle Ladung Akropolis-Abendsonne um 17:00 Uhr",
+        "insider": "Rein in die Ladenpassage Normanou 3 und mit dem Aufzug in den 3. Stock: Dank Windschutz und Heizstrahlern sitzen wir hier auch im November wie die Könige.",
         "lat": 37.97628,
         "lng": 23.72452,
     },
     6: {
         "short_title": "360 COCKTAIL BAR",
-        "subtitle": "Mehrstöckiger Industrial-Dachgarten direkt über dem Monastiraki-Platz",
+        "subtitle": "Riesiger Dachgarten direkt über dem Monastiraki-Platz für die große Herrenrunde",
         "district": "Monastiraki",
         "district_tag": "monastiraki",
         "cats": ["rooftop", "cocktails", "daydrinking"],
-        "cat_label": "ROOFTOP GARDEN / BAR",
+        "cat_label": "ROOFTOP-GARTEN / PANORAMA-BAR",
         "address": "Ifestou 2, 105 55 Monastiraki",
         "walk_min": 10,
         "walk_text": "820 m · 10 Min.",
         "hours_short": "Tägl. 09:00–03:00 (Fr/Sa bis 04:00)",
         "food_status": "FULL RESTAURANT",
-        "food_note": "Vollwertige Küche, Sushi & Barfood",
-        "signature": "360 Passion & Mastiha-Cocktails an der zentralen 360°-Insel-Theke",
-        "insider": "Für 8 Personen nach den langen Hochtischen an der offenen Bar fragen (ohne Restaurant-Reservierungszwang).",
+        "food_note": "Warme Küche und handfeste Bar-Snacks für den kleinen oder großen Hunger zwischendurch",
+        "signature": "360 Passion & würzige Mastiha-Cocktails direkt an der runden 360°-Insel-Theke",
+        "insider": "Mit 8 Mann steuern wir ohne Umwege die langen Hochtische an der offenen Bar an — kein Reservierungsstress, beste Aussicht, volle Gläser.",
         "lat": 37.97621,
         "lng": 23.72548,
     },
     7: {
         "short_title": "THE CLUMSIES",
-        "subtitle": "Neoklassizistische Weltklasse-All-Day-Bar (#60 World's 50 Best)",
+        "subtitle": "Legendäre All-Day-Herrenhaus-Bar aus den internationalen Top-Rankings mit Vollgas-Gastfreundschaft",
         "district": "Zentrum / Psyri",
         "district_tag": "zentrum",
-        "cats": ["cocktails", "daydrinking", "late"],
-        "cat_label": "WORLD'S 50 BEST / HOUSE PARTY",
+        "cats": ["50best", "cocktails", "daydrinking", "late"],
+        "cat_label": "EU'S 50 BEST / HERRENHAUS-BAR",
         "address": "Praxitelous 30, 105 61 Athen",
         "walk_min": 9,
         "walk_text": "750 m · 9 Min.",
         "hours_short": "Tägl. 10:00–02:00 (Fr/Sa bis 04:00)",
         "food_status": "BRUNCH & BARFOOD",
-        "food_note": "Starker Brunch & gehobenes Barfood (Küche bis 23:30)",
-        "signature": "Aegean Negroni (mit Fenchel, Mastiha & Diktamos) & Popeye Smash",
-        "insider": "Donnerstagabend (19–21:30 Uhr) entspannt ohne Türsteher-Schlange · Im überdachten Innenhof oder an der langen Holztheke stehen.",
+        "food_note": "Erstklassiges Barfood bis 23:30 Uhr, falls der Magen beim zweiten Negroni knurrt",
+        "signature": "Aegean Negroni (mit Fenchel, Mastiha & Diktamos) & Popeye Smash — da bleibt kein Auge trocken",
+        "insider": "Donnerstagabend zwischen 19:00 und 21:30 Uhr marschieren wir hier ganz entspannt ohne Wochenend-Schlange rein und kapern die lange Holztheke oder den warmen Innenhof.",
         "lat": 37.97896,
         "lng": 23.72942,
     },
     8: {
         "short_title": "BABA AU RUM",
-        "subtitle": "Athens Rum- & Tiki-Tempel (#14 Europe's 50 Best Bars 2026)",
+        "subtitle": "Athens oberster Rum- & Tiki-Tempel (#14 Europe's 50 Best Bars) für hochprozentige Seefahrer-Laune",
         "district": "Zentrum",
         "district_tag": "zentrum",
-        "cats": ["cocktails", "late"],
-        "cat_label": "EUROPE'S 50 BEST / RUM & TIKI",
+        "cats": ["50best", "cocktails", "late"],
+        "cat_label": "EU'S 50 BEST / RUM & TIKI",
         "address": "Klitiou 6, 105 60 Athen",
         "walk_min": 11,
         "walk_text": "850 m · 11 Min.",
         "hours_short": "So–Fr 19:00–03:00 · Sa 19:00–03:30",
         "food_status": "DRINKS ONLY",
-        "food_note": "Reine Cocktailbar (nur Nüsse/Oliven)",
-        "signature": "Baba Zombie, Mai Tai nach 1944er-Originalrezept & Spicy Baba",
-        "insider": "Bei 8 Leuten stellt man sich abends lässig an die Stehtische auf der Fußgängerzone Klitiou · Nur 90 m neben The Bar in Front of the Bar!",
+        "food_note": "Reine Edel-Tränke mit Nüssen und Oliven — der Rum hat hier das alleinige Sagen",
+        "signature": "Baba Zombie (Vorsicht, Umdrehungen!), Mai Tai nach 1944er-Originalrezept & Spicy Baba",
+        "insider": "Mit unserer 8er-Truppe stellen wir uns abends standesgemäß an die Stehtische auf der Fußgängerzone Klitiou — und bis zur Bar in Front of the Bar sind es nur 90 Meter!",
         "lat": 37.97748,
         "lng": 23.72985,
     },
     9: {
         "short_title": "THE BAR IN FRONT OF THE BAR",
-        "subtitle": "Street-Cocktail-Phänomen & Speakeasy (#2 Europe's 50 Best Bars 2026)",
+        "subtitle": "Legendäre Straßenbar & verstecktes Speakeasy (#2 Europe's 50 Best Bars) mit täglich wechselnder Karte",
         "district": "Zentrum",
         "district_tag": "zentrum",
-        "cats": ["cocktails", "late"],
-        "cat_label": "#2 EUROPE'S 50 BEST / STREET BAR",
+        "cats": ["50best", "cocktails", "late"],
+        "cat_label": "#2 EU'S 50 BEST / STREET BAR",
         "address": "Petraki 1, 105 63 Athen",
         "walk_min": 12,
         "walk_text": "950 m · 12 Min.",
         "hours_short": "Tägl. 18:00–02:00/03:00",
         "food_status": "DRINKS ONLY",
-        "food_note": "Reine Cocktailbar — Street-Drinking-Konzept",
-        "signature": "Jeden Tag komplett neue 8-Drinks-Karte aus auf -24 °C gefrosteten Gläsern",
-        "insider": "2-in-1-Spot: Vorne auf der Fußgängerzone Petraki für große Gruppen perfekt im Stehen · Hinter der verspiegelten Tür versteckt sich das Speakeasy 'Rumble in the Jungle'.",
+        "food_note": "Hier zählt nur das flüssige Handwerk direkt auf der Gasse",
+        "signature": "Täglich komplett neue 8-Drinks-Karte, serviert in auf -24 °C tiefgefrorenen Gläsern",
+        "insider": "Zwei Fliegen mit einer Klappe: Vorne auf der Fußgängerzone Petraki perfektes Stehtrinken für 8 Mann, und hinter der Spiegeltür wartet die Geheimbar 'Rumble in the Jungle'.",
         "lat": 37.97654,
         "lng": 23.73162,
     },
     10: {
         "short_title": "BARRO NEGRO",
-        "subtitle": "Athens 1. Tequilaria, Mezcaleria & Paloma Embassy (#13 Europe's 50 Best)",
+        "subtitle": "Athens erste Adresse für Tequila, Mezcal & Weltklasse-Palomas (#13 Europe's 50 Best Bars)",
         "district": "Zentrum",
         "district_tag": "zentrum",
-        "cats": ["cocktails", "late"],
-        "cat_label": "EUROPE'S 50 BEST / AGAVE & PALOMA",
+        "cats": ["50best", "cocktails", "late"],
+        "cat_label": "EU'S 50 BEST / AGAVE & PALOMA",
         "address": "Ioannou Paparrigopoulou 15, 105 61 Athen",
         "walk_min": 10,
         "walk_text": "800 m · 10 Min.",
         "hours_short": "Mo–Do 18:00–02:00 · Fr 18:00–03:00 · Sa/So ab 16:00",
         "food_status": "DRINKS ONLY",
-        "food_note": "Reine Agaven-Cocktailbar",
-        "signature": "Barro Negro Paloma (11 €), Mezcal Negroni & Michelada (7 €)",
-        "insider": "Direkt neben Black Duck Garden und nur 100 m von The Clumsies — ideal für ein schnelles Cocktail-Hopping.",
+        "food_note": "Reine Agaven-Botschaft — hier wird der Durst mexikanisch-griechisch gelöscht",
+        "signature": "Barro Negro Paloma (11 €), rauchiger Mezcal Negroni & würzige Michelada (7 €)",
+        "insider": "Liegt direkt neben dem Black Duck Garden und nur 100 Meter vom Clumsies entfernt — ideal für einen strammen Boxenstopp auf unserer Zentrum-Runde.",
         "lat": 37.97938,
         "lng": 23.73082,
     },
     11: {
         "short_title": "BLACK DUCK GARDEN",
-        "subtitle": "Geheimer Palmen-Innenhof von 1836 im Museum der Stadt Athen",
+        "subtitle": "Versteckter Palmen-Innenhof von 1836 für den gepflegten ersten Anstoß nach der Landung",
         "district": "Zentrum",
         "district_tag": "zentrum",
         "cats": ["daydrinking", "food", "cocktails"],
-        "cat_label": "GARDEN OASIS / BISTRO & BAR",
+        "cat_label": "PALMEN-HOF / BISTRO & DRINKS",
         "address": "Ioannou Paparrigopoulou 5–7, 105 61 Athen",
         "walk_min": 10,
         "walk_text": "820 m · 10 Min.",
         "hours_short": "Tägl. 10:00–01:00 (Fr/Sa bis 02:00)",
         "food_status": "BISTRO & PLATTERS",
-        "food_note": "All-Day-Bistro, Käse-/Charcuterie-Platten & Brunch",
-        "signature": "Wein-/Käseplatte unter dem historischen Königin-Amalia-Palmenbaum",
-        "insider": "Perfekter erster Landeplatz am Donnerstagnachmittag (16:30 Uhr) zum Runterkommen nach dem Flug.",
+        "food_note": "Deftige Käse- und Wurstplatten sowie warme Bistro-Küche unter freiem Himmel",
+        "signature": "Große Wein- und Käseplatte für die ganze Tafel unterm historischen Palmenbaum von Königin Amalia",
+        "insider": "Unser perfekter erster Landeplatz am Donnerstagnachmittag um 16:30 Uhr: Ankommen, Gläser heben und den Reisestaub runterspülen.",
         "lat": 37.97912,
         "lng": 23.73118,
     },
     12: {
         "short_title": "TALES OF ALES",
-        "subtitle": "10 rotierende Craft-Beer-Taps & 170+ griechische Mikrobrauerei-Dosen",
+        "subtitle": "Ehrliche Hopfen-Oase mit 10 frisch gezapften Fassbieren & über 170 griechischen Brauerei-Dosen",
         "district": "Commercial Triangle / Syntagma",
         "district_tag": "zentrum",
         "cats": ["beer", "daydrinking", "late"],
-        "cat_label": "CRAFT BEER / TAPROOM & BOTTLE SHOP",
+        "cat_label": "CRAFT BEER / ZAPFHAHN & FLASCHEN",
         "address": "Miltiadou 19, 105 60 Athen",
         "walk_min": 8,
         "walk_text": "750 m · 8 Min.",
         "hours_short": "Mo–Do 14:00–01:00 · Fr/Sa 14:00–02:00 · So 17:00–01:00",
         "food_status": "STREETFOOD NEXT DOOR",
-        "food_note": "Gegenüber auf Miltiadou 22 heißes 'Feta Me Meli' im Filo-Hörnchen holen!",
-        "signature": "Strange Brew 'Jasmine IPA', Seven Islands & Kykao vom Fass",
-        "insider": "Liegt mitten im Bermudadreieck zwischen Clumsies (90 m) und Baba au Rum (140 m) — der beste Zwischenstopp für ein ehrliches IPA.",
+        "food_note": "Genialer Schachzug: Gegenüber auf der Nr. 22 heißes 'Feta Me Meli' im knusprigen Filo-Hörnchen zum Bier holen!",
+        "signature": "Frisch gezapftes Strange Brew 'Jasmine IPA', Seven Islands & Kykao direkt vom Hahn",
+        "insider": "Sitzt mitten im Bermudadreieck zwischen Clumsies (90 m) und Baba au Rum (140 m) — wenn wir zwischen zwei Cocktails mal ein ehrliches Herrenpils brauchen, sind wir hier daheim.",
         "lat": 37.97765,
         "lng": 23.72940,
     },
     13: {
         "short_title": "AVLI PSYRRI",
-        "subtitle": "Verstecktes weiß-blaues Hinterhof-Kafeneio (seit 1985 unter Herr Takis)",
+        "subtitle": "Uriges weiß-blaues Hinterhof-Kafeneio seit 1985 — wie eine geheime griechische Insel mitten in Psyri",
         "district": "Psyri (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["food", "daydrinking"],
-        "cat_label": "HIDDEN COURTYARD / MEZEDOPOLEIO",
+        "cat_label": "URIGER HINTERHOF / MEZEDOPOLEIO",
         "address": "Agiou Dimitriou 12, 105 54 Psyri",
         "walk_min": 5,
         "walk_text": "550 m · 5 Min.",
         "hours_short": "Mi–Mo 13:00–02:00 (Di geschlossen)",
         "food_status": "FULL MEZE TABLE",
-        "food_note": "Ehrliche Pfannen-Meze für 4–7 € pro Teller!",
-        "signature": "Tigania (Schweinefleisch aus der Gusseisenpfanne), Keftedes & Tsipouro",
-        "insider": "WICHTIG: Eingang durch die schmale blaue Eisentür auf der Agiou Dimitriou 12 (nicht Agion Anargyron!) · Keine Reservierung, Cash mitnehmen.",
+        "food_note": "Handfeste Pfannen-Meze für schlanke 4–7 € pro Teller — hier wird der ganze Tisch vollgepackt!",
+        "signature": "Brutzelnde Tigania (Schweinefleisch aus der Gusseisenpfanne), würzige Keftedes & Tsipouro auf Eis",
+        "insider": "Aufgepasst beim Eingang: Wir müssen durch die schmale blaue Eisentür auf der Agiou Dimitriou 12 (nicht Agion Anargyron!). Keine Reservierung, Bares in die Tasche und rein ins Glück.",
         "lat": 37.97815,
         "lng": 23.72555,
     },
     14: {
         "short_title": "AMA LACHEI (STIS NEFELIS)",
-        "subtitle": "Modern-Greek-Mezedopoleio im begrünten Pausenhof einer alten Grundschule",
+        "subtitle": "Herrliches Meze-Gelage im begrünten Pausenhof einer alten Grundschule",
         "district": "Exarchia",
         "district_tag": "exarchia",
         "cats": ["food", "daydrinking"],
-        "cat_label": "MEZE / SCHOOLYARD GARDEN",
+        "cat_label": "MEZE-TAFEL / SCHULHOF-GARTEN",
         "address": "Kallidromiou 69, 106 83 Exarchia",
         "walk_min": 22,
         "walk_text": "1,9 km · 22 Min. (6 Min. Uber)",
         "hours_short": "Mo–Mi 12:00–23:30 · Do–So 12:00–00:00",
         "food_status": "FULL MEZE FEAST",
-        "food_note": "Große griechisch-kretische Sharing-Tafel (auch innen in den alten Klassenzimmern)",
-        "signature": "Mastelo-Grillkäse mit Tomatenmarmelade, Apaki & geschmortes Lamm",
-        "insider": "Pflicht-Stopp nach dem Samstagsmarkt auf der Kallidromiou · Für 8 Personen am Wochenende kurz telefonisch reservieren (+30 210 3845978).",
+        "food_note": "Üppige griechisch-kretische Sharing-Tafel — draußen unterm Blätterdach oder drinnen in den alten Klassenzimmern",
+        "signature": "Geschmolzener Mastelo-Grillkäse mit Tomatenmarmelade, geräuchertes Apaki & butterzartes Schmorfleisch",
+        "insider": "Nachsitzen war noch nie so schön: Unser Pflicht-Stopp nach dem Samstagsmarkt auf der Kallidromiou. Für 8 hungrige Ochos rufen wir kurz vorher durch (+30 210 3845978).",
         "lat": 37.98692,
         "lng": 23.73815,
     },
     15: {
         "short_title": "PHARAOH",
-        "subtitle": "Michelin Bib Gourmand Holzfeuer-Küche, 400+ Naturweine & Vinyl-HiFi-Bar",
+        "subtitle": "Archaische Holzfeuer-Küche (Michelin Bib Gourmand), 400+ Weine & satter Vinyl-Sound",
         "district": "Exarchia",
         "district_tag": "exarchia",
-        "cats": ["food", "wine", "late"],
-        "cat_label": "WOODFIRE / NATURAL WINE & VINYL",
+        "cats": ["food", "wine"],
+        "cat_label": "HOLZFEUER-KÜCHE / WEIN & VINYL",
         "address": "Solomou 54, 106 82 Exarchia",
         "walk_min": 13,
         "walk_text": "1,2 km · 13 Min.",
         "hours_short": "Mo–Do 17:30–02:00 · Fr/Sa 13:30–02:00 (So zu!)",
         "food_status": "MICHELIN WOODFIRE",
-        "food_note": "Alles über offenem Olivenholzfeuer & in Holzöfen gegart",
-        "signature": "Sauerteigbrot mit geräucherter Butter, Hortopita aus dem Holzofen & griechischer Naturwein",
-        "insider": "Falls Tische ausgebucht sind: Ab 21:30 Uhr Walk-in an der breiten Edelstahl-Theke direkt vor dem Vinyl-DJ und dem offenen Feuer!",
+        "food_note": "Hier wird ohne Strom und Gas ausschließlich über offenem Olivenholzfeuer und im Holzofen gekocht",
+        "signature": "Warmes Sauerteigbrot mit geräucherter Butter, knusprige Hortopita aus dem Ofen & charakterstarker griechischer Wein",
+        "insider": "Selbst wenn die Tische voll sind: Ab 21:30 Uhr kapern wir einfach als Walk-in die breite Edelstahl-Theke direkt vor dem offenen Feuer und der Plattensammlung!",
         "lat": 37.98542,
         "lng": 23.72995,
     },
     16: {
         "short_title": "TANINI AGAPI MOU",
-        "subtitle": "Unprätentiöse Griechische Naturwein-Bar (100+ Weine offen & Wine on Tap)",
+        "subtitle": "Herzliche, bodenständige griechische Weinbar mit über 100 offenen Tropfen & Fasswein",
         "district": "Exarchia",
         "district_tag": "exarchia",
-        "cats": ["wine", "daydrinking", "late"],
-        "cat_label": "NATURAL WINE BAR / ZERO SNOBBERY",
+        "cats": ["wine", "daydrinking"],
+        "cat_label": "WEINBAR / 100+ OFFENE WEINE",
         "address": "Ippokratous 91 & Methonis, 106 80 Exarchia",
         "walk_min": 22,
         "walk_text": "1,9 km · 22 Min.",
         "hours_short": "So–Do 17:00–01:00 · Fr/Sa 17:00–02:00",
         "food_status": "PINSA & PLATTERS",
-        "food_note": "Knusprige Sauerteig-Pinsa & griechische Käse-/Wurstplatten",
-        "signature": "Orange Wine vom Fass (6,50 €), Xinomavro-Flight & Trüffel-Pinsa",
-        "insider": "Jede der 100+ Flaschen wird auch glasweise ausgeschenkt! Unten im Gewölbekeller gibt es einen Vinyl-Listening-Raum.",
+        "food_note": "Ofenfrische Sauerteig-Pinsa und reich beladene griechische Käse- und Wurstbretter",
+        "signature": "Süffiger Orange Wine vom Fass (6,50 €), kräftige Xinomavro-Runde & Trüffel-Pinsa",
+        "insider": "Null Wein-Snobismus, 100 % Trinkfreude: Jede einzelne der über 100 Flaschen machen sie uns auch glasweise auf!",
         "lat": 37.98562,
         "lng": 23.73992,
     },
     17: {
         "short_title": "ROZALIA EXARCHIA",
-        "subtitle": "Kult-Taverne seit 1978 mit 16er-Vorspeisen-Tablett & überdachtem Gartenhof",
+        "subtitle": "Legendäre Traditions-Taverne seit 1978 mit dem berühmten 16er-Vorspeisen-Silbertablett",
         "district": "Exarchia",
         "district_tag": "exarchia",
-        "cats": ["food", "late"],
-        "cat_label": "CLASSIC TAVERNA / MEZE TRAY",
+        "cats": ["food"],
+        "cat_label": "TRADITIONS-TAVERNE / MEZE-TABLETT",
         "address": "Valtetsiou 54–59, 106 81 Exarchia",
         "walk_min": 19,
         "walk_text": "1,7 km · 19 Min.",
         "hours_short": "Tägl. 12:00–01:00 (Fr/Sa bis 02:00)",
         "food_status": "FULL TAVERNA",
-        "food_note": "Küche bis nach Mitternacht — perfekt für 8 hungrige Männer",
-        "signature": "Vorspeisen-Auswahl direkt vom großen 16-Teller-Silbertablett am Tisch + Lamm im Pergament",
-        "insider": "Belegt auf der Fußgängerzone Valtetsiou beide Straßenseiten · Nur 60 m neben strakastrüka und 140 m neben Warehouse Exarchia!",
+        "food_note": "Warme Hausmannskost bis tief in die Nacht — wie geschaffen für acht hungrige Männer",
+        "signature": "Einmal quer übers große 16-Teller-Vorspeisentablett zeigen + butterweiches Lamm im Pergamentpapier",
+        "insider": "Auf der belebten Fußgängerzone Valtetsiou gehört Rozalia quasi die halbe Straße — und zum Nachspülen liegt strakastrüka nur 60 Meter weiter!",
         "lat": 37.98578,
         "lng": 23.73512,
     },
     18: {
         "short_title": "STRAKASTRÜKA",
-        "subtitle": "Rock- & Alternative-Music-Joint mit 9 griechischen Craft-Beer-Taps",
+        "subtitle": "Ehrliche Rock-Kneipe mit 9 griechischen Craft-Beer-Hähnen im lebendigen Ausgehviertel",
         "district": "Exarchia",
         "district_tag": "exarchia",
-        "cats": ["beer", "late", "cocktails"],
-        "cat_label": "CRAFT BEER / ROCK JOINT",
+        "cats": ["beer", "late"],
+        "cat_label": "CRAFT BEER / ROCK-KNEIPE",
         "address": "Andrea Metaxa 19, 106 81 Exarchia",
         "walk_min": 19,
         "walk_text": "1,7 km · 19 Min.",
         "hours_short": "Di–Do 18:00–01:00 · Fr/Sa 16:00–03:00 · So 16:00–01:00 (Mo zu)",
         "food_status": "HOT DOGS & BARFOOD",
-        "food_note": "Legendärer 'Straka Hot Dog' im Brioche-Bun & knusprige Bar-Pizza",
-        "signature": "9 rotierende griechische Craft-Taps (Voreia Stout, Jasmine IPA, Kyria Toula) & Straka Hot Dog",
-        "insider": "Sitzt auf der Andrea Metaxa 19 direkt an der Ecke zur Fußgängerzone Valtetsiou (nur 60 m neben Rozalia) · Überdachte Stehplätze vor der Front.",
+        "food_note": "Handfester 'Straka Hot Dog' im Brioche-Brötchen & knusprige Bar-Pizza zum Bier",
+        "signature": "Frisch Gezapftes von 9 griechischen Hähnen (Voreia Stout, Jasmine IPA, Kyria Toula) + Straka Hot Dog",
+        "insider": "Liegt direkt am Eck zur Fußgängerzone Valtetsiou, keine 60 Meter neben Rozalia: Nach dem Tavernen-Festmahl rollen wir hier direkt an die Zapfhähne.",
         "lat": 37.98542,
         "lng": 23.73510,
     },
     19: {
         "short_title": "KLIMATARIA",
-        "subtitle": "Historische Weinfass-Taverne seit 1927 mit Gastra-Schmortöpfen & Live-Rembetiko",
+        "subtitle": "Urige Weinfass-Taverne seit 1927 mit schweren Schmortöpfen & handgemachter Live-Musik",
         "district": "Psyri / Markt (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["food", "wine"],
-        "cat_label": "1927 TAVERNA / LIVE REMBETIKO",
+        "cat_label": "WEINFASS-TAVERNE / LIVE-MUSIK",
         "address": "Platia Theatrou 2, 105 52 Athen",
         "walk_min": 2,
         "walk_text": "180 m · 2 Min.!",
         "hours_short": "Di–So 12:00–01:00/02:00 (Mo geschlossen)",
         "food_status": "FULL FEAST / GASTRA",
-        "food_note": "Stundenlang geschmorte Schweinshaxe & Lamm aus dem Gastra-Topf",
-        "signature": "Kotsi (Schweinshaxe) & Lamm mit Zitronenkartoffeln + Fasswein zwischen riesigen Holzfässern",
-        "insider": "Nur 180 Meter von eurer Haustür! Komplett überdachter & beheizter Hof · Do/Fr/Sa Abend & So Mittag Live-Bouzouki-Musik.",
+        "food_note": "Stundenlang geschmorte Schweinshaxe und Lammkeule aus dem traditionellen Gastra-Schmortopf",
+        "signature": "Kotsi (riesige Schweinshaxe) & Lamm mit Zitronenkartoffeln + kühler Fasswein zwischen den alten Holzfässern",
+        "insider": "Lächerliche 180 Meter von unserem Apartment entfernt! Wetterfester, beheizter Hof, Live-Bouzouki und am Ende nur zwei Minuten Heimweg ins Bett.",
         "lat": 37.98042,
         "lng": 23.72485,
     },
     20: {
         "short_title": "DIPORTO",
-        "subtitle": "Legendäre schilderlose Untergrund-Kellertaverne von 1887 (Nur tagsüber!)",
+        "subtitle": "Legendäre schilderlose Kellertaverne von 1887 — authentischer geht Athen nicht!",
         "district": "Psyri / Markt (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["food", "daydrinking"],
-        "cat_label": "1887 CELLAR CULT / LUNCH ONLY",
+        "cat_label": "KELLER-LEGENDE VON 1887 / MITTAGS",
         "address": "Sokratous 9 & Theatrou, 105 52 Athen",
         "walk_min": 2,
         "walk_text": "200 m · 2 Min.!",
         "hours_short": "Mo–Sa ca. 10:00–18:00 (So geschlossen)",
         "food_status": "NO-MENU LUNCH",
-        "food_note": "Keine Karte: Es kommt auf den Tisch, was morgens gekocht wurde",
-        "signature": "Revithia (Kichererbseneintopf), gebratene Sardinen, Fava & kühler Fass-Retsina im Blechkrug",
-        "insider": "Durch eine der zwei unbeschilderten Holztüren die steile Steintreppe in den Keller hinabsteigen · Cash only · Perfekter Mittags-Quickie!",
+        "food_note": "Keine Speisekarte, kein Schnickschnack: Es kommt heiß auf den Tisch, was morgens im Kessel schmort",
+        "signature": "Deftiger Kichererbseneintopf (Revithia), krosse Sardinen, Fava & eiskalter Fass-Retsina aus dem Blechkrug",
+        "insider": "Zwei Minuten ab Haustür die steile Steintreppe in den historischen Weinkeller hinabsteigen, Bargeld bereithalten und den besten Mittags-Boxenstopp der Stadt feiern.",
         "lat": 37.98035,
         "lng": 23.72512,
     },
     21: {
         "short_title": "TA KARAMANLIDIKA TOU FANI",
-        "subtitle": "Byzantinisch-Anatolisches Feinkost-Mezedopolio & Pastirma-Himmel",
+        "subtitle": "Paradies für Pfannen-Meze, luftgetrockneten Pastirma-Schinken & edle Tropfen direkt ums Eck",
         "district": "Psyri / Markt (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["food", "daydrinking", "wine"],
-        "cat_label": "BYZANTINE DELI & MEZEDOPOLIO",
+        "cat_label": "FEINKOST-TAVERNE & PFANNEN-MEZE",
         "address": "Sokratous 1 & Evripidou 52 (+ Ermou 119)",
         "walk_min": 4,
         "walk_text": "300 m · 4 Min.",
         "hours_short": "Sokratous: Mo–Sa 12–23 · Ermou 119: Mo–So 12–23!",
         "food_status": "FULL MEZE & DELI",
-        "food_note": "Gusseisenpfannen, gereifte Würste, Käse & Gratis-Karottenhalva",
-        "signature": "Sahanaki Karamanlidiko (Pastirma, Sudjuk & Bio-Spiegeleier in der Pfanne) + gereifter Tsipouro",
-        "insider": "Stammhaus Sokratous 1 ist sonntags zu, aber das Schwesterhaus 'Ergastiri' auf der Ermou 119 (350 m ab Apartment) hat auch sonntags offen!",
+        "food_note": "Heiße Gusseisenpfannen, würzige Reifewürste, Bergkäse & zum Abschied Karottenhalva aufs Haus",
+        "signature": "Sahanaki Karamanlidiko (Pastirma, Sudjuk & Spiegeleier brutzeln in der Pfanne) + gereifter Tsipouro",
+        "insider": "Keine 4 Minuten vom Apartment: Wenn das Stammhaus Sokratous 1 am Sonntag pausiert, hat das Schwesterhaus 'Ergastiri' auf der Ermou 119 trotzdem für uns offen!",
         "lat": 37.98018,
         "lng": 23.72615,
     },
     22: {
         "short_title": "FEYROUZ",
-        "subtitle": "Levantinisch-Anatolischer Streetfood-Kult (Handgerolltes Steinofen-Lahmacun)",
+        "subtitle": "Handgerolltes Steinofen-Lahmacun — unsere schnellste und beste Grundlage vor der Bar-Tour",
         "district": "Zentrum / Monastiraki",
         "district_tag": "zentrum",
         "cats": ["food", "daydrinking"],
-        "cat_label": "LEVANTINE STREETFOOD / BAKERY",
+        "cat_label": "STEINOFEN-STREETFOOD / HANDGEMACHT",
         "address": "Karori 23 & Agathonos 1, 105 51 Athen",
         "walk_min": 8,
         "walk_text": "650 m · 8 Min.",
         "hours_short": "Mo–Do 12:00–22:00 · Fr/Sa 12:00–23:00 (So zu)",
         "food_status": "BEST STREETFOOD",
-        "food_note": "Perfekte schnelle Unterlage (5,50–5,80 €) vor den Cocktailbars",
-        "signature": "Feyrouz Lahmacun (mit geräuchertem Babaganoush!), Pastirma-Peinirli & heißes Künefe gegenüber",
-        "insider": "Liegt nur 160 m neben The Clumsies & Tales of Ales — ideal als 20-Minuten-Boxenstopp vor der großen Cocktailrunde.",
+        "food_note": "Unschlagbare 15-Minuten-Unterlage (ca. 5,50 €) direkt auf die Hand, bevor es an die großen Theken geht",
+        "signature": "Feyrouz Lahmacun mit geräuchertem Babaganoush, Pastirma-Peinirli (Teigschiffchen) & heißes Künefe",
+        "insider": "Liegt nur 160 Meter neben The Clumsies und Tales of Ales — hier tanken wir in Rekordzeit auf, damit später kein Ocho bei den Cocktails schwächelt.",
         "lat": 37.97762,
         "lng": 23.72812,
     },
     23: {
         "short_title": "BOLIVAR BEACH CLUB",
-        "subtitle": "Palmen-Landzunge & Strandpromenade an der Athener Riviera (Alimos)",
+        "subtitle": "Weitläufige Palmen-Landzunge an der Athener Riviera für Seeluft & den ersten Drink am Meer",
         "district": "Riviera (Alimos)",
         "district_tag": "riviera",
-        "cats": ["riviera", "daydrinking", "food"],
-        "cat_label": "RIVIERA PENINSULA / BEACH WALK",
+        "cats": ["daydrinking", "food"],
+        "cat_label": "RIVIERA-LANDZUNGE / STRAND-DRINKS",
         "address": "Akti tou Iliou, 174 55 Alimos",
         "walk_min": 14,
         "walk_text": "10,6 km · 14 Min. Uber",
         "hours_short": "So–Do 08:00–20:00 · Fr/Sa 08:00–05:00",
         "food_status": "BEACH RESTAURANT",
-        "food_note": "Überdachter Holz-Pavillon mit Meeresfrüchten, Burger & Sushi",
-        "signature": "Spaziergang über die Landzunge + Freddo Cappuccino oder erster Cocktail direkt am Meer",
-        "insider": "Im November kein Badewetter: Erst im Bolivar bei Herbstsonne über die Landzunge schlendern, dann zum Sunset 250 m weiter ins wetterfeste Peñarrubia!",
+        "food_note": "Überdachter Holz-Pavillon mit Meeresfrüchten, saftigen Burgern & kühlen Getränken direkt am Strand",
+        "signature": "Runde über die Landzunge drehen + eiskalter Freddo Cappuccino oder das erste Helle mit Wellenblick",
+        "insider": "Im November lassen wir die Badehose im Koffer: Erst hier bei Herbstsonne die Meeresbrise schnuppern und dann zum Sonnenuntergang 250 Meter weiter ins Peñarrubia ziehen!",
         "lat": 37.90785,
         "lng": 23.71312,
     },
     24: {
         "short_title": "PEÑARRUBIA LOUNGE",
-        "subtitle": "365-Tage-Riviera-Flaggschiff mit Sunset-Holzdeck & beheizter Tropen-Lounge",
+        "subtitle": "Wetterfestes Riviera-Flaggschiff mit großem Holzdeck direkt über der Brandung",
         "district": "Riviera (Alimos)",
         "district_tag": "riviera",
-        "cats": ["riviera", "daydrinking", "food", "cocktails"],
-        "cat_label": "RIVIERA SUNSET DECK / ALL-WEATHER",
+        "cats": ["daydrinking", "food", "cocktails"],
+        "cat_label": "RIVIERA SUNSET DECK / ALL-DAY LOUNGE",
         "address": "Leof. Poseidonos 20/43, 174 55 Alimos",
         "walk_min": 14,
         "walk_text": "10,4 km · 14 Min. Uber",
         "hours_short": "365 Tage/Jahr · Tägl. 08:30–02:00 (0 € Eintritt)",
         "food_status": "FULL ALL-DAY MENU",
-        "food_note": "Brunch bis 14:00, danach Black-Angus-Burger, Pinsa, Steaks & Sushi",
-        "signature": "Sunset-Drinks um 17:20 Uhr auf dem Holzdeck direkt über den Wellen",
-        "insider": "Euer 100 % wetterfester Küsten-Anker im November (voll verglaster & beheizter Innenbereich falls Seewind aufkommt) · Auf dem Rückweg beim SNFCC halten!",
+        "food_note": "Durchgehend warme Küche mit Black-Angus-Burgern, Pinsa, Steaks & Sushi",
+        "signature": "Sundowner-Cocktails um Schlag 17:20 Uhr auf dem Holzdeck, wenn die Sonne im Saronischen Golf versinkt",
+        "insider": "Unser 100 % wetterfester Küsten-Anker an 365 Tagen im Jahr: Selbst wenn im November eine steife Brise weht, sitzen wir hier hinter Glas und unterm Heizstrahler in der ersten Reihe.",
         "lat": 37.90969,
         "lng": 23.71106,
     },
     25: {
         "short_title": "WAREHOUSE EXARCHIA",
-        "subtitle": "Industrial All-Day Specialty-Coffee-, Wein- & Cocktailbar (80+ offene Weine)",
+        "subtitle": "Lebendige Eck-Institution für starken Kaffee, über 80 offene Weine & erstklassige Bistro-Teller",
         "district": "Exarchia",
         "district_tag": "exarchia",
-        "cats": ["wine", "cocktails", "food", "daydrinking"],
-        "cat_label": "WINE GIANT / ALL-DAY BISTRO",
+        "cats": ["wine", "food", "daydrinking"],
+        "cat_label": "WEIN-INSTITUTION / ALL-DAY BISTRO",
         "address": "Valtetsiou 21 & Mavromichali 41, 106 80 Exarchia",
         "walk_min": 18,
         "walk_text": "1,6 km · 18 Min.",
         "hours_short": "Tägl. 09:00–02:30 (Küche bis 23:30)",
         "food_status": "GASTRO BISTRO",
-        "food_note": "Vollwertige Bistro-Küche: Burrata mit Avgotaracho, Striftoudia-Pasta & Steaks",
-        "signature": "Weinverkostung nach Glas (80+ offene Positionen), Burrata-Avgotaracho & Wisecup Freddo Espresso",
-        "insider": "Ehemaliges Verlagshaus direkt am Eingang der Fußgängerzone Valtetsiou (140 m vor Rozalia & strakastrüka) mit den legendären ΔΕΗ-Kabeltrommel-Tischen.",
+        "food_note": "Feine, handfeste Bistro-Küche von Burrata mit Avgotaracho bis zu frischer Pasta und Steaks",
+        "signature": "Wein-Runde nach Glas (über 80 offene Positionen!), Burrata-Avgotaracho & starker Freddo Espresso",
+        "insider": "Ehemaliges Verlagshaus direkt am Eingang der Fußgängerzone Valtetsiou: Wir schnappen uns draußen die urigen Holzkabeltrommel-Tische und beobachten das bunte Treiben.",
         "lat": 37.98455,
         "lng": 23.73475,
     },
     26: {
         "short_title": "MINU",
-        "subtitle": "Urban Jungle Café & Hinterhof-Brunch, 2 Min. ab Apartment",
+        "subtitle": "Grüne Hof-Oase & erstklassiger Kater-Brunch, nur 2 Minuten Stolperdistanz vom Apartment",
         "district": "Psyri (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["breakfast", "daydrinking", "food"],
-        "cat_label": "URBAN JUNGLE / BRUNCH & CAFÉ",
+        "cat_label": "HOF-BRUNCH & KAFFEE / DIREKT UMS ECK",
         "address": "Sarri 50, 105 53 Psyri",
         "walk_min": 2,
         "walk_text": "190 m · 2 Min.!",
         "hours_short": "Tägl. 08:30–21:30",
         "food_status": "FULL BRUNCH & CAFÉ",
-        "food_note": "Specialty Coffee, Pochierte Eier, Rührei auf Sauerteig, Katsu Sando & Kuchen",
-        "signature": "'Happy Egg Bowl' (Pochierte Eier & Avocado), 'Scrambleness', Pork Katsu Sando & Freddo Cappuccino",
-        "insider": "Nur 2 Minuten ab Apartment einmal quer über den Platz · Drinnen sitzt ihr unter hunderten Monstera- & Kaktuspflanzen, hinten wartet ein ruhiger Innenhof-Garten.",
+        "food_note": "Rettung am Morgen: Pochierte Eier, Rührei auf Sauerteig, saftiges Katsu Sando & starker Kaffee",
+        "signature": "'Happy Egg Bowl', 'Scrambleness' auf Sauerteig, deftiges Pork Katsu Sando & doppelter Freddo Cappuccino",
+        "insider": "Einmal aus der Haustür über den Platz fallen und wir sitzen im grünen Innenhof: Perfekt, um nach einer langen Nacht die Lebensgeister der Ochos wieder hochzufahren.",
         "lat": 37.97945,
         "lng": 23.72295,
     },
     27: {
         "short_title": "BREW STR",
-        "subtitle": "Athens Beer Shop & Craft-Tap-Stopp am Übergang von Syntagma und Plaka",
+        "subtitle": "Ehrlicher Craft-Beer-Boxenstopp mit Zapfhähnen am Übergang von Plaka und Syntagma",
         "district": "Syntagma / Plaka",
         "district_tag": "zentrum",
         "cats": ["beer", "daydrinking"],
-        "cat_label": "CRAFT BEER SHOP & BAR",
+        "cat_label": "CRAFT BEER BAR & BOTTLE SHOP",
         "address": "Nikis 50, 105 58 Syntagma / Plaka",
         "walk_min": 15,
         "walk_text": "1,35 km · 15 Min.",
         "hours_short": "Mo–Mi 12:00–23:30 · Do bis 01:00 · Fr/Sa bis 02:00 · So 17:00–23:30",
         "food_status": "BEER SNACKS ONLY",
-        "food_note": "Fokus auf frisch gezapftes Craft Beer & gekühlte Dosen/Flaschen",
-        "signature": "Frisch gezapfte griechische IPAs & Pale Ales im Stehen auf dem Gehweg der Nikis",
-        "insider": "Idealer Boxenstopp auf dem Weg von der Akropolis oder Plaka Richtung Syntagma · Nur 120 m neben Warehouse CO2 und 5 Min. von The Bar in Front of the Bar.",
+        "food_note": "Hier geht es ums flüssige Gold vom Fass und aus den Kühlschränken (kleine Snacks zum Bier)",
+        "signature": "Frisch gezapfte griechische IPAs & Pale Ales direkt im Stehen auf dem Gehweg der Nikis-Straße",
+        "insider": "Genau der richtige Durstlöscher nach dem Akropolis-Spaziergang — und falls jemand in der Gruppe lieber Schaumwein trinkt, liegt Warehouse CO2 nur 120 Meter weiter.",
         "lat": 37.97360,
         "lng": 23.73360,
     },
     28: {
         "short_title": "STRANGE BREW TAPROOM",
-        "subtitle": "Offizieller Taproom & Bottleshop der Athener Kult-Brauerei mit 10 Zapfhähnen",
-        "district": "Koukaki",
-        "district_tag": "riviera",
+        "subtitle": "Offizielles Wohnzimmer der legendären Athener Brauerei mit 10 frischen Zapfhähnen",
+        "district": "Koukaki / Süd-Zentrum",
+        "district_tag": "zentrum",
         "cats": ["beer"],
-        "cat_label": "BREWERY TAPROOM / 10 TAPS",
+        "cat_label": "BRAUEREI-TAPROOM / 10 ZAPFHÄHNE",
         "address": "Falirou 86, 117 41 Koukaki",
         "walk_min": 26,
         "walk_text": "2,3 km · 26 Min.",
         "hours_short": "Mo–Do 17:30–01:00 · Fr 17:30–02:00 · Sa 14:00–02:00 · So 14:00–01:00",
         "food_status": "TAPROOM SNACKS",
-        "food_note": "Reiner Brauerei-Taproom & Bottleshop (Snacks zum Bier)",
-        "signature": "Hausgebrautes 'Jasmine IPA' (6,2 %), 'Dr. Haze' Double NEIPA & 'Uncle Jam's' frisch vom Hahn",
-        "insider": "Liegt südlich der Akropolis mitten im Koukaki-Kiez — perfekt kombinierbar mit einem Rundgang um die Akropolis oder auf dem Weg Richtung Süden.",
+        "food_note": "Ehrlicher Brauerei-Ausschank mit Knabbereien zum frisch gezapften Hopfen",
+        "signature": "Das berühmte hausgebraute 'Jasmine IPA' (6,2 %), 'Dr. Haze' Double NEIPA & 'Uncle Jam's' direkt ab Quelle",
+        "insider": "Überall in Athen trinken wir ihr Jasmine IPA — hier in Koukaki südlich der Akropolis stehen wir direkt an den 10 Hähnen der Braumeister!",
         "lat": 37.96340,
         "lng": 23.72480,
     },
     29: {
         "short_title": "TO SPIRTO & KOLETTI-ACHSE",
-        "subtitle": "Unprätentiöse Exarchia-Spätnacht-Kneipe bis 5 Uhr früh & die Koletti-Straßenbar-Meile",
+        "subtitle": "Ehrliche Kneipenkultur bis 5 Uhr früh & lebendige Straßenbar-Meile für die letzte Runde",
         "district": "Exarchia",
         "district_tag": "exarchia",
         "cats": ["late"],
-        "cat_label": "LATE NIGHT / ROCK & STREET BARS",
+        "cat_label": "SPÄTNACHT-KNEIPEN / BIS 05:00 UHR",
         "address": "Tzavella 9–13 & Koletti 25–42, 106 81 Exarchia",
         "walk_min": 18,
         "walk_text": "1,6 km · 18 Min.",
         "hours_short": "Mo–Do 12:00–03:00 · Fr/Sa 13:00–05:00 · So 15:00–03:00",
         "food_status": "DRINKS ONLY",
-        "food_note": "Klassische Spätnacht-Kneipen (vorab bei Rozalia oder strakastrüka essen)",
-        "signature": "Ehrliche Longdrinks (6–7 €) & Bier im 'to Spirto', Street-Drinks vor der 'Revolt Bar' & Blues an der 12-m-Theke im 'Mavros Gatos'",
-        "insider": "Am Wochenende bis 05:00 Uhr morgens offen · Liegt auf der Fußgängerzone Tzavella gegenüber vom Navarinou-Park, nur 2–3 Min. von strakastrüka und Warehouse Exarchia.",
+        "food_note": "Klassische Nachtkneipen — die feste Nahrung haben wir vorher bei Rozalia und strakastrüka erledigt",
+        "signature": "Anständige Longdrinks (6–7 €) & kaltes Bier im 'to Spirto' oder Blues an der 12-Meter-Holztheke im 'Mavros Gatos'",
+        "insider": "Wenn überall sonst schon die Stühle hochgestellt werden, brennt hier am Wochenende bis 05:00 Uhr morgens noch das Licht — keine 3 Minuten vom strakastrüka entfernt.",
         "lat": 37.98485,
         "lng": 23.73365,
     },
     30: {
         "short_title": "SPIRTOKOUTO BAR",
-        "subtitle": "Kultige 80s/90s-Retro-Trash- & Rock-Bar voller Musikkassetten & Popkultur-Relikte",
+        "subtitle": "Urige 80er/90er-Rock-Kneipe voller Musikkassetten & ehrlicher Tresenkultur bis tief in die Nacht",
         "district": "Kato Petralona",
-        "district_tag": "west",
+        "district_tag": "petralona",
         "cats": ["late"],
-        "cat_label": "RETRO ROCK / LATE NIGHT CULT",
+        "cat_label": "RETRO-ROCK-KNEIPE / SPÄTNACHT-KULT",
         "address": "Keiriadon 15, 118 54 Kato Petralona",
         "walk_min": 20,
         "walk_text": "1,6 km · 20 Min.",
         "hours_short": "So–Do 18:00–02:00 · Fr/Sa 18:00–04:00",
         "food_status": "DRINKS ONLY",
-        "food_note": "Reine Spätnacht-Bar (vorab im Upupa Epops oder Line Athens essen)",
-        "signature": "Kalte Biere, Straight Drinks & Shots zwischen Musikkassetten-Wänden zu 80s/90s-Rock & Alternative",
-        "insider": "Benannt nach dem griechischen Kultfilm 'Spirtokouto' (2003) · Liegt nur 150 m (2 Min.) neben Upupa Epops — perfekter wilder Absacker auf der Petralona-West-Linie!",
+        "food_note": "Reine Spätnacht-Kneipe — gegessen wird vorher im Upupa Epops oder Line Athens",
+        "signature": "Eiskaltes Bier, ehrliche Kurze & geradeaus gemixte Longdrinks zwischen tausenden alten Musikkassetten",
+        "insider": "Liegt nur 150 Meter neben dem Upupa Epops: Wenn uns auf der West-Route nach Mitternacht noch nach Gitarrenmusik und einem herzhaften Absacker ist, fallen wir hier ein.",
         "lat": 37.97620,
         "lng": 23.71150,
     },
     31: {
         "short_title": "WAREHOUSE CO2",
-        "subtitle": "Urbaner Sparkling-Wine-, Pet-Nat- & Specialty-Coffee-Corner unter Platanen",
+        "subtitle": "Spritzige Wein- & Schaumwein-Bar unter großen Platanen für den gepflegten Nachmittags-Durst",
         "district": "Syntagma / Plaka",
         "district_tag": "zentrum",
         "cats": ["wine", "daydrinking"],
-        "cat_label": "BUBBLES & PET-NAT / APERITIVO",
+        "cat_label": "SCHAUMWEIN & WEINBAR / PLATANEN-ECKE",
         "address": "Ypereidou 1 & Nikis 21, 105 58 Syntagma / Plaka",
         "walk_min": 16,
         "walk_text": "1,4 km · 16 Min.",
         "hours_short": "Tägl. 08:30–01:00",
         "food_status": "DELI PLATTERS & BITES",
-        "food_note": "Kalte Feinkost-Platten, Bruschettas, Rinder-Carpaccio & Burrata",
-        "signature": "Griechische Pet-Nats & Grower-Schaumweine im Glas (29+ offene Bubbles) + Burrata mit Avgotaracho",
-        "insider": "Der auf Bubbles spezialisierte kleine Bruder des Warehouse Exarchia unter großen Platanen · Liegt nur 120 m neben dem Craft-Beer-Spot Brew Str (Nikis 50).",
+        "food_note": "Feinkost-Platten, Rinder-Carpaccio, Bruschetta & frische Burrata zum Glas",
+        "signature": "Griechische Pet-Nats & Winzer-Schaumweine im offenen Ausschank (29+ Sorten!) + Burrata mit Avgotaracho",
+        "insider": "Der kleine Bruder des Warehouse Exarchia unter schattigen Platanen — und für die Biertrinker unter uns liegt Brew Str nur 120 Meter die Straße runter.",
         "lat": 37.97425,
         "lng": 23.73380,
     },
     32: {
         "short_title": "USURUM BRUNCH & COCKTAILS",
-        "subtitle": "Großer begrünter Garten-Innenhof & Vollgas-Kater-Brunch schon ab 07:30 Uhr",
+        "subtitle": "Großer begrünter Garten-Innenhof & herzhafter Kater-Brunch schon ab 07:30 Uhr morgens",
         "district": "Psyri (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["breakfast", "daydrinking", "food"],
-        "cat_label": "EARLY BRUNCH COURTYARD / AB 07:30",
+        "cat_label": "KATER-BRUNCH IM HOF / AB 07:30 UHR",
         "address": "Lepeniotou 19, 105 54 Psyri",
         "walk_min": 3,
         "walk_text": "280 m · 3 Min.",
         "hours_short": "Mo–Fr 07:30–18:00 · Sa/So 07:30–19:00 (Küche bis 17:00)",
         "food_status": "FULL HANGOVER BRUNCH",
-        "food_note": "Warme Brunch-Küche durchgehend von 07:30 bis 17:00 Uhr",
-        "signature": "Shakshuka Eggs, Buttermilk Chicken Waffle, Eggs Benedict auf Sauerteig & Bloody Mary",
-        "insider": "Öffnet schon um 07:30 Uhr morgens für Frühaufsteher · Walk-ins only mit großem Innenhof, ideal für 8 Personen ohne Reservierung.",
+        "food_note": "Durchgehend warme Frühstücks- und Brunch-Küche von 07:30 bis 17:00 Uhr für angeschlagene Matrosen",
+        "signature": "Würzige Shakshuka-Pfanne, Buttermilk Chicken Waffle, Eggs Benedict auf Sauerteig & eine scharfe Bloody Mary",
+        "insider": "Nur 3 Minuten vom Apartment: Sperrt schon um 07:30 Uhr für die Frühaufsteher auf und hat im großen Innenhof immer Platz für unsere komplette 8er-Mannschaft.",
         "lat": 37.97820,
         "lng": 23.72360,
     },
     33: {
         "short_title": "BOUGATSADIKO THESSALONIKI & KOULOURI",
-        "subtitle": "Handgeschleuderte Filoteig-Bougatsa am Iroon-Platz & Kult-Sesamringe seit 1962",
+        "subtitle": "Handgeschleuderte Filoteig-Bougatsa am Iroon-Platz & ofenwarme Sesamringe seit 1962",
         "district": "Psyri (Home-Kiez)",
         "district_tag": "psyri",
         "cats": ["breakfast", "food"],
-        "cat_label": "TRADITIONAL BAKERY / AB 06:30",
+        "cat_label": "HANDWERKS-BÄCKEREI / AB 06:30 UHR",
         "address": "Platia Iroon 1 & Karaiskaki 27, 105 54 Psyri",
         "walk_min": 4,
         "walk_text": "350 m · 4 Min.",
         "hours_short": "Tägl. ab 06:30 / 07:00 Uhr",
         "food_status": "AUTHENTIC STREET BREAKFAST",
-        "food_note": "Ofenheiße Bougatsa (2,80–4,20 €) & frische Sesamringe (ab 0,70 €)",
-        "signature": "Bougatsa mit Hackfleisch (Kima), Feta oder süßer Grießcreme + dampfendes Koulouri nebenan",
-        "insider": "Im Bougatsadiko an der Platia Iroon 1 wird der Filoteig live durch die Luft geschleudert · 50 m weiter auf der Karaiskaki 27 backt 'To Koulouri tou Psyrri' seit 1962.",
+        "food_note": "Dampfend heiße Bougatsa aus dem Blech (2,80–4,20 €) & knusprige Sesamringe für ein paar Cent",
+        "signature": "Deftige Bougatsa mit Hackfleisch (Kima) oder Feta + süße Grießcreme-Bougatsa & frisches Koulouri nebenan",
+        "insider": "Hier fliegt der handgemachte Filoteig morgens noch live durch die Backstube — und 50 Meter weiter auf der Karaiskaki 27 holen wir uns die besten Sesamringe seit 1962.",
         "lat": 37.97810,
         "lng": 23.72485,
     },
     34: {
         "short_title": "GALAKTOPOLEIO I STANI (seit 1931)",
-        "subtitle": "Athens letztes historisches Molkerei-Frühstückshaus aus dem Jahr 1931",
+        "subtitle": "Athens letztes historisches Molkerei-Frühstückshaus von 1931 — gelebte Tradition pur",
         "district": "Omonia / Psyri-Nord",
         "district_tag": "psyri",
         "cats": ["breakfast", "food"],
-        "cat_label": "1931 DAIRY TRADITION / BREAKFAST",
+        "cat_label": "TRADITIONS-MOLKEREI SEIT 1931 / FRÜHSTÜCK",
         "address": "Marikas Kotopouli 10, 104 32 Omonia",
         "walk_min": 5,
         "walk_text": "500 m · 5 Min.",
         "hours_short": "Mo–Sa 07:00–22:30 · So 07:30–22:30",
         "food_status": "TRADITIONAL DAIRY & PIES",
-        "food_note": "Stichfester Schafsjoghurt, Frischrahm, Käsepasteten & warme Honigbällchen",
-        "signature": "Schafsjoghurt mit dicker Rahmhaut (Tsanaka), Thymianhonig & Walnüssen + heiße Loukoumades",
-        "insider": "Seit 1931 in 3. Generation von Familie Karageorgos geführt (Milch direkt aus den Bergen von Korinth) — echtes 1930er-Jahre-Athen zum Frühstück!",
+        "food_note": "Stichfester Schafsjoghurt, goldene Käsepasteten (Tiropita) & warme Honigbällchen wie vor 90 Jahren",
+        "signature": "Schafsjoghurt mit dicker Rahmhaut, Thymianhonig & Walnüssen + frisch ausgebackene Loukoumades",
+        "insider": "Seit 1931 in dritter Familiengeneration geführt: Wer morgens in 5 Minuten Fußweg echtes, unverfälschtes Alt-Athen schmecken will, setzt sich hier an die Marmortische.",
         "lat": 37.98410,
         "lng": 23.72690,
     }
@@ -646,41 +646,41 @@ ROUTES_DATA = [
     {
         "id": "do-a",
         "day": "DONNERSTAG · 05.11.",
-        "title": "OPTION A — ZENTRUM & PSYRI ACHSE",
-        "subtitle": "Kurze Wege ab Apartment · Touchdown, Weltklasse-Drinks & Hinterhof-Finale",
+        "title": "OPTION A — ZENTRUM & PSYRI-HERRENRUNDE",
+        "subtitle": "Kurze Wege ab Basecamp · Ankommen, ehrliche Hof-Drinks, Weltklasse-Tresen & krönender Abschluss",
         "stops": [
             {
                 "time": "16:00",
                 "name": "TOUCHDOWN @ ATHINUM 1 (KORINNIS 11)",
-                "desc": "Check-in im Basecamp. Taschen abwerfen, frisch machen. Optionaler 2-Minuten-Snack bei Feyrouz oder Karamanlidika.",
+                "desc": "Einrücken im Hauptquartier! Taschen in die Ecke werfen, kurz frisch machen und bei Bedarf 2 Minuten ums Eck bei Karamanlidika oder Feyrouz den ersten Happen schnappen.",
                 "dist": "START · 0 m",
                 "spot_id": None
             },
             {
                 "time": "16:30 – 19:00",
                 "name": "BLACK DUCK GARDEN",
-                "desc": "Ankommen im versteckten Palmen-Innenhof des Stadtmuseums. Erste Runde Bier, Wein & Platten unter freiem Himmel.",
+                "desc": "Feucht-fröhlicher Auftakt im versteckten Palmen-Innenhof von 1836: Wir stoßen unter freiem Himmel mit den ersten kühlen Gläsern und großen Käse-/Wurstplatten auf Athen an.",
                 "dist": "820 m · 10 Min. Fußweg ab Apartment",
                 "spot_id": 11
             },
             {
                 "time": "19:00 – 21:30",
                 "name": "THE CLUMSIES (+ BARRO NEGRO / TALES OF ALES)",
-                "desc": "Donnerstags entspannter Einlass ohne Wochenend-Schlange. Aegean Negroni an der Holztheke oder im Innenhof (Barro Negro & Tales of Ales liegen 90 m daneben).",
+                "desc": "Donnerstags spazieren wir ohne Wochenend-Schlange direkt ins Herrenhaus: Aegean Negroni an der Holztheke, und wer zwischendurch ein frisch gezapftes IPA oder eine Paloma will, hat Tales of Ales und Barro Negro direkt nebenan.",
                 "dist": "180 m · 2 Min. Fußweg",
                 "spot_id": 7
             },
             {
                 "time": "21:30 – 23:15",
                 "name": "AVLI PSYRRI ODER KLIMATARIA",
-                "desc": "Ehrliches Abendessen: Entweder durch die blaue Tür in den weiß-blauen Hof der Avli Psyrri (Pfannen-Meze) oder in die Weinfass-Taverne Klimataria bei Live-Rembetiko.",
+                "desc": "Deftige Grundlage für acht Männer: Entweder durch die blaue Eisentür in den urigen Hinterhof der Avli Psyrri (heiße Pfannen-Meze & Tsipouro) oder zwischen die riesigen Weinfässer der Klimataria zu Schweinshaxe und Live-Musik.",
                 "dist": "350 m · 4 Min. Fußweg",
                 "spot_id": 13
             },
             {
                 "time": "23:15 – 02:30",
-                "name": "TAF (THE ART FOUNDATION) & COULEUR LOCALE",
-                "desc": "Finale im historischen Hinterhof von 1870 bei DJ-Sets (oder ein Stockwerk höher auf dem Couleur-Locale-Dach mit beleuchteter Akropolis).",
+                "name": "TAF & COULEUR LOCALE",
+                "desc": "Starker Ausklang im historischen Kopfsteinpflaster-Hof von 1870 oder direkt nebenan mit dem Aufzug aufs Dach von Couleur Locale — beleuchtete Akropolis inklusive.",
                 "dist": "350 m · 4 Min. Fußweg (danach 10 Min. heim)",
                 "spot_id": 4
             }
@@ -689,27 +689,27 @@ ROUTES_DATA = [
     {
         "id": "do-b",
         "day": "DONNERSTAG · 05.11.",
-        "title": "OPTION B — WEST-LINIE (PETRALONA & INDUSTRIAL)",
-        "subtitle": "Warehouse-Vibe, Fermentation & Akropolis-Nachtblick auf dem Heimweg",
+        "title": "OPTION B — WEST-ROUTE (PETRALONA & BAR-GIGANTEN)",
+        "subtitle": "Charakterstarke Höfe, große Handwerkskunst im Glas & ein letzter Absacker über den Dächern",
         "stops": [
             {
                 "time": "18:00 – 20:30",
                 "name": "UPUPA EPOPS (PETRALONA)",
-                "desc": "Start im farbenfrohen 1930er-Innenhof. Starke Signature-Cocktails plus Sauerteig-Pizza & Barfood als Grundlage.",
+                "desc": "Wir starten im prächtigen 1930er-Innenhof: Erstklassige Cocktails und ofenfrische Sauerteig-Pinsa schaffen die perfekte Basis für den Abend.",
                 "dist": "1,6 km · 20 Min. Fußweg oder 5 Min. Uber",
                 "spot_id": 2
             },
             {
                 "time": "20:30 – 00:30",
                 "name": "LINE ATHENS (#6 WORLD'S 50 BEST)",
-                "desc": "5 Minuten weiter in die ehemalige Kunstgalerie. Hauseigene Fruchtweine, 'Line's Hot Dog' und ab 21:30 Uhr DJ-Set.",
+                "desc": "5 Minuten weiter in die hohe Backsteinhalle: Wir testen uns durch die hausgemachten Fruchtweine, bestellen den berühmten 'Line's Hot Dog' und feiern ab 21:30 Uhr zum DJ-Set.",
                 "dist": "400 m · 5 Min. Fußweg",
                 "spot_id": 3
             },
             {
                 "time": "00:30 – 02:00",
                 "name": "BIOS ROOFTOP (PIREOS 84)",
-                "desc": "Liegt exakt auf dem Rückweg zum Apartment: Letzter Papoto-Slush oder kaltes Bier in den Liegestühlen mit Frontalblick auf die Akropolis.",
+                "desc": "Liegt goldrichtig auf dem Heimweg zum Basecamp: Ein letzter eiskalter Papoto-Slush oder ein frisch Gezapftes im Liegestuhl mit freiem Blick auf die Akropolis.",
                 "dist": "1,3 km Richtung Apartment (danach 5 Min. ins Bett)",
                 "spot_id": 1
             }
@@ -718,41 +718,41 @@ ROUTES_DATA = [
     {
         "id": "fr-riviera",
         "day": "FREITAG · 06.11.",
-        "title": "MARKT, KÜSTEN-SUNSET (ALIMOS) & COCKTAIL-MEILE",
-        "subtitle": "Kater-Brunch in Psyri, Meerblick ohne Badewetter & Europe's 50 Best Bars bei Nacht",
+        "title": "KELLER-KULT, RIVIERA-SUNSET & GROSSE COCKTAIL-MEILE",
+        "subtitle": "Starker Kater-Brunch, ehrlicher Mittags-Retsina, Sundowner am Meer & Athens beste Theken bei Nacht",
         "stops": [
             {
                 "time": "09:30 – 11:30",
                 "name": "KATER-BRUNCH: MINU ODER USURUM (PSYRI)",
-                "desc": "2–3 Minuten aus der Haustür: Specialty Coffee & Eggs im Pflanzen-Hof von Minu (Sarri 50) oder ab 07:30 Uhr im Usurum (Lepeniotou 19).",
+                "desc": "Keine 3 Minuten aus den Federn: Doppelter Freddo Cappuccino, Shakshuka und Eier-Gerichte im grünen Hof vom Minu oder schon ab 07:30 Uhr im Usurum.",
                 "dist": "190 m · 2 Min. ab Apartment",
                 "spot_id": 26
             },
             {
                 "time": "12:30 – 14:15",
                 "name": "DIPORTO ODER TA KARAMANLIDIKA TOU FANI",
-                "desc": "Mittags-Kult direkt neben dem Apartment: Entweder Kichererbsensuppe & Fass-Retsina im 1887er-Keller Diporto oder Pastirma-Pfanne & Tsipouro bei Karamanlidika.",
+                "desc": "Legendäres Mittagsprogramm ums Eck: Entweder Kichererbseneintopf & Fass-Retsina im 1887er-Weinkeller Diporto oder heiße Pastirma-Pfanne mit Tsipouro bei Karamanlidika.",
                 "dist": "200 m · 2 Min. ab Apartment",
                 "spot_id": 20
             },
             {
                 "time": "15:00 – 16:30",
                 "name": "BOLIVAR BEACH CLUB (ALIMOS RIVIERA)",
-                "desc": "14 Min. per Uber ans Meer. Spaziergang über die Palmen-Landzunge und erster Nachmittags-Drink direkt am Wasser.",
+                "desc": "In 14 Minuten per Uber ans Meer: Wir vertreten uns die Beine auf der Palmen-Landzunge und genehmigen uns den ersten Nachmittags-Drink direkt am Wasser.",
                 "dist": "10,6 km · 14 Min. Uber (ca. 12–15 €)",
                 "spot_id": 23
             },
             {
                 "time": "16:30 – 19:30",
                 "name": "PEÑARRUBIA LOUNGE (SUNSET UM 17:20 UHR)",
-                "desc": "250 m am Strand entlang zum 100 % wetterfesten Riviera-Flaggschiff. Sundowner auf dem Holzdeck über der Brandung & Comfort Food.",
+                "desc": "250 Meter weiter am Strand ins wetterfeste Riviera-Flaggschiff: Sundowner-Drinks auf dem großen Holzdeck über den Wellen und deftige Burger als Stärkung.",
                 "dist": "250 m · 3 Min. zu Fuß am Wasser",
                 "spot_id": 24
             },
             {
                 "time": "21:30 – 03:00",
                 "name": "COCKTAIL-DREIECK: BABA AU RUM & BAR IN FRONT OF THE BAR",
-                "desc": "Zurück im Zentrum (optional nach Steinofen-Lahmacun bei Feyrouz): Rum-Klassiker im Baba au Rum (#14 Europa) und Street-Drinks vor The Bar in Front of the Bar (#2 Europa).",
+                "desc": "Zurück im Zentrum (gerne nach schnellem Steinofen-Lahmacun bei Feyrouz): Hochprozentige Rum-Klassiker im Baba au Rum und eiskalte Street-Drinks vor The Bar in Front of the Bar.",
                 "dist": "90 m zwischen beiden Bars",
                 "spot_id": 9
             }
@@ -761,48 +761,48 @@ ROUTES_DATA = [
     {
         "id": "sa-exarchia",
         "day": "SAMSTAG · 07.11.",
-        "title": "EXARCHIA DAY & NIGHT (MARKT, HÖFE, NATURWEIN & ROCK)",
-        "subtitle": "Vom berühmten Samstagsmarkt über den Grundschul-Hof bis zum Absacker um 4 Uhr früh",
+        "title": "EXARCHIA KOMPLETT (WOCHENMARKT, SCHULHOF-MEZE, WEIN & ZAPFHAHN)",
+        "subtitle": "Vom bunten Samstagsmarkt über die große Meze-Tafel bis zum ehrlichen Kneipen-Finale",
         "stops": [
             {
                 "time": "11:00 – 13:30",
                 "name": "KALLIDROMIOU SAMSTAGSMARKT (LAIKI AGORA)",
-                "desc": "Durch den legendären Wochenmarkt von Exarchia schlendern; erster Tsipouro oder Kaffee in der Herbstsonne.",
+                "desc": "Wir schlendern mitten durch den berühmten Wochenmarkt auf der Kallidromiou-Straße, probieren uns durch Oliven und Käse und heben den ersten Tsipouro in der Herbstsonne.",
                 "dist": "1,9 km ab Apartment (oder nach dem Nationalmuseum)",
                 "spot_id": 14
             },
             {
                 "time": "13:30 – 16:30",
                 "name": "AMA LACHEI (SCHULHOF-MEZE)",
-                "desc": "Direkt an der Marktstraße (Kallidromiou 69): Große griechisch-kretische Sharing-Tafel im begrünten ehemaligen Grundschulhof.",
+                "desc": "Direkt an der Marktstraße (Kallidromiou 69): Wir lassen den Tisch im begrünten alten Grundschulhof mit Grillkäse, Apaki und geschmortem Lamm volldecken.",
                 "dist": "Direkt an der Kallidromiou 69",
                 "spot_id": 14
             },
             {
                 "time": "16:45 – 18:00",
-                "name": "STREFI-HÜGEL (SUNSET WEGBIER) ODER WAREHOUSE EXARCHIA",
-                "desc": "Entweder 5 Min. hoch auf den felsigen Strefi-Hügel für den Blick bis zur Akropolis — oder direkt auf die Fußgängerzone Valtetsiou ins Warehouse.",
+                "name": "STREFI-HÜGEL (WEGBIER MIT AUSSICHT) ODER WAREHOUSE EXARCHIA",
+                "desc": "Entweder 5 Minuten hoch auf den felsigen Strefi-Hügel für den Blick bis zur Akropolis — oder direkt an die Holzkabeltrommeln vorm Warehouse auf der Fußgängerzone Valtetsiou.",
                 "dist": "300 m · 4 Min. Fußweg",
                 "spot_id": 25
             },
             {
                 "time": "18:30 – 21:30",
                 "name": "TANINI AGAPI MOU ODER PHARAOH",
-                "desc": "100+ offene griechische Naturweine & Sauerteig-Pinsa bei Tanini Agapi Mou (Ippokratous 91) oder Holzfeuer & Vinyl im Pharaoh (Solomou 54).",
+                "desc": "Große Weinrunde: Über 100 offene griechische Weine und knusprige Pinsa bei Tanini Agapi Mou oder offenes Olivenholzfeuer und satte Vinyl-Klänge an der Theke im Pharaoh.",
                 "dist": "450 m · 5 Min. Fußweg",
                 "spot_id": 16
             },
             {
                 "time": "21:30 – 23:30",
                 "name": "ROZALIA EXARCHIA (16-TELLER-TABLETT)",
-                "desc": "Spätes Tavernen-Festmahl im winterfest überdachten Gartenhof auf der Valtetsiou 59.",
+                "desc": "Zünftiges Abendmahl in der Traditions-Taverne seit 1978: Das große Silbertablett mit 16 Vorspeisen fährt vor, dazu Lamm im Pergamentpapier.",
                 "dist": "450 m · 5 Min. Fußweg",
                 "spot_id": 17
             },
             {
                 "time": "23:30 – 04:00",
                 "name": "STRAKASTRÜKA (ANDREA METAXA 19) & SPIRTO",
-                "desc": "60 m neben Rozalia: 9 Craft-Beer-Taps & Straka Hot Dog vor dem strakastrüka, danach letzter Absacker auf der Koletti-/Tzavella-Achse im Spirto.",
+                "desc": "Keine 60 Meter neben Rozalia warten 9 frische Craft-Beer-Hähne und der Straka Hot Dog, bevor wir auf der Koletti- und Tzavella-Achse im Spirto die Lichter ausmachen.",
                 "dist": "60 m · 1 Min. Fußweg",
                 "spot_id": 18
             }
@@ -1245,64 +1245,27 @@ def build_html(spots, master_html):
       }}
     }}
 
-    /* CONTROL BAR (SEARCH + FILTERS) */
+    /* CONTROL BAR (RESET + FILTERS) */
     .controls-panel {{
       background: var(--surface);
       border-bottom: 1px solid var(--border);
     }}
 
-    .search-row {{
-      display: grid;
-      grid-template-columns: 1fr auto auto;
-      border-bottom: 1px solid var(--border-subtle);
-    }}
-
-    .search-input-wrap {{
-      display: flex;
-      align-items: center;
-      padding: 0 16px;
-      gap: 10px;
-    }}
-
-    .search-prefix {{
+    .reset-full-btn {{
+      background: var(--inv-bg);
+      color: var(--inv-fg);
+      width: 100%;
+      padding: 14px 20px;
+      border: none;
+      border-bottom: 1px solid var(--border);
       font-family: 'JetBrains Mono', monospace;
       font-size: 12px;
       font-weight: 700;
-      color: var(--fg-muted);
-      user-select: none;
-    }}
-
-    .search-input {{
-      width: 100%;
-      border: none;
-      background: transparent;
-      color: var(--fg);
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 13px;
-      padding: 13px 0;
-      outline: none;
-    }}
-    .search-input::placeholder {{
-      color: var(--fg-subtle);
-    }}
-
-    .ctrl-btn {{
-      background: var(--surface);
-      color: var(--fg);
-      border: none;
-      border-left: 1px solid var(--border-subtle);
-      padding: 0 16px;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       cursor: pointer;
-      white-space: nowrap;
-    }}
-    .ctrl-btn:hover, .ctrl-btn.active {{
-      background: var(--inv-bg);
-      color: var(--inv-fg);
+      display: block;
+      text-align: center;
     }}
 
     .filter-strip {{
@@ -1889,23 +1852,29 @@ def build_html(spots, master_html):
       color: var(--inv-fg);
       border-bottom: 1px solid var(--border);
       padding: 0;
-      min-height: 48px;
+      min-height: 58px;
       flex-shrink: 0;
     }}
     .drawer-top-actions {{
       display: flex;
-      height: 48px;
+      width: 100%;
+      height: 58px;
     }}
     .drawer-close-btn {{
       background: var(--inv-bg);
       color: var(--inv-fg);
+      width: 100%;
+      height: 58px;
       border: none;
-      border-left: 1px solid var(--border-subtle);
       padding: 0 22px;
       font-family: 'JetBrains Mono', monospace;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 700;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.12em;
+      text-align: center;
+      justify-content: center;
+      display: flex;
+      align-items: center;
       text-transform: uppercase;
       cursor: pointer;
     }}
@@ -2121,18 +2090,7 @@ def build_html(spots, master_html):
          ====================================================================== -->
     <section id="view-dossiers" class="view-section active">
       <div class="controls-panel">
-        <div class="search-row">
-          <div class="search-input-wrap">
-            <span class="search-prefix">SUCHE //</span>
-            <input type="search" id="searchInput" class="search-input" placeholder="Spot, Drink, Gericht, Straße (z.B. Pastirma, Negroni, Rooftop, Walk-in)..." oninput="renderSpots()">
-          </div>
-          <button class="ctrl-btn" id="sortWalkBtn" onclick="toggleSortWalk()" title="Nach Entfernung zum Apartment sortieren">
-            SORT: STANDARD
-          </button>
-          <button class="ctrl-btn" onclick="resetFilters()">
-            RESET
-          </button>
-        </div>
+        <button class="reset-full-btn" onclick="resetFilters()">RESET FILTER</button>
 
         <!-- SITUATION FILTER -->
         <div class="filter-strip" id="catFilterStrip">
@@ -2141,9 +2099,10 @@ def build_html(spots, master_html):
           <button class="filter-chip" data-cat="breakfast" onclick="setCatFilter('breakfast')">FRÜHSTÜCK / BRUNCH</button>
           <button class="filter-chip" data-cat="daydrinking" onclick="setCatFilter('daydrinking')">DAYDRINKING &amp; HÖFE</button>
           <button class="filter-chip" data-cat="food" onclick="setCatFilter('food')">ESSEN / MEZE / TAVERNEN</button>
-          <button class="filter-chip" data-cat="cocktails" onclick="setCatFilter('cocktails')">EU'S 50 BEST BARS</button>
+          <button class="filter-chip" data-cat="50best" onclick="setCatFilter('50best')">EU'S 50 BEST BARS</button>
+          <button class="filter-chip" data-cat="cocktails" onclick="setCatFilter('cocktails')">COCKTAILS &amp; BARS</button>
           <button class="filter-chip" data-cat="rooftop" onclick="setCatFilter('rooftop')">ROOFTOPS</button>
-          <button class="filter-chip" data-cat="wine" onclick="setCatFilter('wine')">NATURWEIN</button>
+          <button class="filter-chip" data-cat="wine" onclick="setCatFilter('wine')">WEINBARS</button>
           <button class="filter-chip" data-cat="beer" onclick="setCatFilter('beer')">CRAFT BEER</button>
           <button class="filter-chip" data-cat="late" onclick="setCatFilter('late')">SPÄTNACHT / ABSACKER</button>
         </div>
@@ -2309,41 +2268,20 @@ def build_html(spots, master_html):
       renderSpots();
     }}
 
-    function toggleSortWalk() {{
-      sortByWalk = !sortByWalk;
-      const btn = document.getElementById('sortWalkBtn');
-      btn.textContent = sortByWalk ? 'SORT: ENTFERNUNG ↑' : 'SORT: STANDARD';
-      btn.classList.toggle('active', sortByWalk);
-      renderSpots();
-    }}
-
     function resetFilters() {{
       activeCat = 'all';
       activeDist = 'all';
-      sortByWalk = false;
-      document.getElementById('searchInput').value = '';
-      document.getElementById('sortWalkBtn').textContent = 'SORT: STANDARD';
-      document.getElementById('sortWalkBtn').classList.remove('active');
       document.querySelectorAll('#catFilterStrip .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.cat === 'all'));
       document.querySelectorAll('#distFilterStrip .filter-chip').forEach(c => c.classList.toggle('active', c.dataset.dist === 'all'));
       renderSpots();
     }}
 
     function renderSpots() {{
-      const q = (document.getElementById('searchInput').value || '').trim().toLowerCase();
-      let list = SPOTS.filter(s => {{
+      const list = SPOTS.filter(s => {{
         if (activeCat !== 'all' && !s.cats.includes(activeCat)) return false;
-        if (activeDist !== 'all' && s.district_tag !== activeDist && !(activeDist === 'petralona' && s.district_tag === 'west')) return false;
-        if (q) {{
-          const hay = (s.title + ' ' + s.subtitle + ' ' + s.district + ' ' + s.address + ' ' + s.signature + ' ' + s.insider + ' ' + s.search_text).toLowerCase();
-          if (!hay.includes(q)) return false;
-        }}
+        if (activeDist !== 'all' && s.district_tag !== activeDist) return false;
         return true;
       }});
-
-      if (sortByWalk) {{
-        list = [...list].sort((a, b) => a.walk_min - b.walk_min || a.id - b.id);
-      }}
 
       document.getElementById('resultsCountLabel').textContent = `ZEIGE ${{list.length}} VON ${{SPOTS.length}} DOSSIERS`;
 

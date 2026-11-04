@@ -10,21 +10,21 @@
 ---
 
 ## 1. Architektur, Platz-Atmosphäre & Vibe
-- **Urbaner Corner-Spot unter Platanen:** Kompakter, charmanter Eckladen an einem leicht abfallenden kleinen Fußgängerplatz unter großen Platanen am Übergang zwischen Syntagma und Plaka.
-- **Design & Publikum:** Warmes Industrial-Bistro-Design mit raumhoher Champagner-/Schaumwein-Wand und sehr entspannter Straßen-Bestuhlung. „Gepflegt unprätentiös“ (*„προσεγμένα ατημέλητο“*) mit nahbarem Service — vom morgendlichen Specialty Coffee bis zum abendlichen Schaumwein-Aperitivo.
+- **Urbaner Corner-Spot unter Platanen:** Kompakter, extrem charmanter Eckladen an einem leicht abfallenden kleinen Fußgängerplatz unter großen Platanen am Übergang zwischen Syntagma und Plaka.
+- **Design & Publikum:** Warmes Industrial-Bistro-Design mit raumhoher Champagner-/Schaumwein-Wand und herrlich tiefenentspannter Straßen-Bestuhlung. Hier gilt das Motto „gepflegt unprätentiös“ (*„προσεγμéνα ατημέλητο“*) — wir müssen also nicht den kleinen Finger abspreizen, sondern kriegen vom morgendlichen Reparatur-Espresso bis zum abendlichen Schaumwein-Gelage erstklassigen Stoff ohne Stock im Arsch.
 
 ---
 
 ## 2. Getränke: Bubbles, Pet-Nat & Specialty Coffee
-- **Schaumwein-Pionier in Athen:** Spezialisiert auf **Schaumweine, Pet-Nat, Crémant, Franciacorta, Cava, Grower-Champagner und griechische Bubbles** (z. B. *Amalia Vintage Brut / Rosé* aus Mantineia, *Paranga Sparkling* oder *Karanika Brut* aus Xinomavro) — **über 29 Schaumweine offen im Glas (ca. 6,00 – 17,00 €)** und über 55 Flaschen sowie ausgewählte stille Weine!
+- **Schaumwein-Pionier in Athen:** Spezialisiert auf **Schaumweine, Pet-Nat, Crémant, Franciacorta, Cava, Grower-Champagner und griechische Bubbles** (z. B. *Amalia Vintage Brut / Rosé* aus Mantineia, *Paranga Sparkling* oder *Karanika Brut* aus Xinomavro) — **über 29 Schaumweine offen im Glas (ca. 6,00 – 17,00 €)** und über 55 Flaschen sowie ausgewählte stille Weine! Perfekt, wenn wir uns zwischendurch mal wie korrupte Reeder fühlen wollen.
 - **Specialty Coffee (Eigene Rösterei *Wisecup Coffee Roasters*):** Single-Origin-Espressos und Filterkaffees aus Lateinamerika & Afrika, inklusive eines eigenen *Luxurious Coffee Tasting Set* mit seltenen Panama-Gesha-Röstungen. *Freddo Espresso / Cappuccino:* **ca. 4,00 – 4,80 €**.
 - **Aperitivo & Low-ABV-Drinks:** Saisonale Wermut-Twists und Spritz-Variationen (**ca. 9,00 – 13,00 €**).
 
 ---
 
 ## 3. Essen: Kalte Deli-Platten, Bruschettas & Sharing-Bites
-Das *Warehouse CO2* ist auf feine, kalte Deli-Teller, Bruschettas, Carpaccio, Burrata und Sous-Vide-Bites zum Wein spezialisiert:
-- **Burrata mit Ladolemono (Olivenöl-Zitronen-Emulsion) & geriebenem griechischem Bottarga (*Avgotaracho* aus Messolonghi):** **ca. 10,00 – 13,50 €** *(Signature-Dish!)*
+Das *Warehouse CO2* ist unser Spot, wenn wir zum Wein die Tischmitte mit edlen, kalten Deli-Tellern, Bruschettas, Carpaccio, Burrata und Sous-Vide-Bites vollknallen wollen:
+- **Burrata mit Ladolemono (Olivenöl-Zitronen-Emulsion) & geriebenem griechischem Bottarga (*Avgotaracho* aus Messolonghi):** **ca. 10,00 – 13,50 €** *(Signature-Dish – salziges Umami-Brett zum kaltem Sprudel!)*
 - **Rinder-Carpaccio mit schwarzem Trüffel bzw. wildem Rucola, Kirschtomaten & Graviera-Käse aus Samothraki:** **ca. 13,00 – 15,50 €**
 - **Kartoffelsalat mit geräucherter Hering-Einlage, Frühlingszwiebeln, Radieschen & Ladolemono:** **ca. 8,50 – 10,00 €**
 - **Rote Bete mit Forellenkaviar & Frischkäsecreme** oder **Frisches Ceviche:** **ca. 10,00 – 13,50 €**
@@ -32,9 +32,9 @@ Das *Warehouse CO2* ist auf feine, kalte Deli-Teller, Bruschettas, Carpaccio, Bu
 
 ---
 
-## 4. Taktischer Einsatz für eure Gruppe
+## 4. Taktischer Einsatz für uns Ochos
 - **Der „Bubbles & Aperitivo“-Boxenstopp im Zentrum (`Ypereidou 1`):**
-  - Wenn ihr tagsüber durch Plaka/Syntagma Richtung Akropolis lauft oder nachmittags bei *Brew Str (`Nikis 50`)* Craft Beer schaut, liegt das *Warehouse CO2* direkt an der Ecke für ein kaltes Glas griechischen Pet-Nat oder Crémant unter den Platanen.
+  - Wenn wir tagsüber von unserem Apartment in der Korinnis durch Plaka/Syntagma Richtung Akropolis ziehen oder nachmittags 120 Meter weiter bei *Brew Str (`Nikis 50`)* schon das erste Craft Beer verhaftet haben, setzen wir uns hier direkt an der Ecke unter die Platanen und lassen zum Nachspülen eiskalten griechischen Pet-Nat, Crémant und eine Burrata-Platte auffahren.
 
 ---
 
