@@ -55,10 +55,10 @@
   - *Fig the Duck (12,00 €):* Whiskey, Limette, grüner Apfel & 3Cents Feigenblatt-Soda.
 
 ## 🎯 Beste Uhrzeit & Taktischer Einsatz für unsere Runde
-- **1. Der entspannte Nachmittags-/Sundowner-Anker im Zentrum (Do, Fr oder Sa zwischen 15:00 und 19:30 Uhr):**
-  - Das Black Duck Garden ist **perfekt für den Donnerstag-, Freitag- oder Samstagnachmittag**: Wenn wir nach der Landung oder beim Streifzug durchs Zentrum vor dem Wahnsinn der Cocktailmeile in Ruhe im grünen Königshof zwei, drei Flaschen griechischen Wein (ab 22 €!) und ein paar *Pulled Pork Sliders* / *Käseplatten* vernichten wollen.
-- **2. Das perfekte Warm-up direkt neben Barro Negro & Clumsies (18:00 – 20:30 Uhr):**
-  - Wir sitzen hier **30 Sekunden von Barro Negro** und **60 Sekunden vom Clumsies** entfernt. Ideal, um in Ruhe eine solide Grundlage (Schweinebäckchen, Rib-Eye oder Pinsa) zu schaffen, bevor wir uns nebenan an die Theken der Top-50-Bars stürzen!
+- **1. Der entspannte Nachmittags-/Sundowner-Anker im Zentrum (Fr oder Sa zwischen 14:00 und 19:30 Uhr):**
+  - Da wir am Donnerstag erst um 18:00 Uhr landen (Check-in im Apartment gegen 19:45 Uhr), ist der sonnige Gartenhof des Black Duck Garden **perfekt für den Freitag- oder Samstagnachmittag**: Wenn wir beim Streifzug durchs Zentrum vor dem Wahnsinn der Cocktailmeile in Ruhe im grünen Königshof zwei, drei Flaschen griechischen Wein (ab 22 €!) und ein paar *Pulled Pork Sliders* / *Käseplatten* vernichten wollen.
+- **2. Das perfekte Abend-Warm-up direkt neben Barro Negro & Clumsies (Do ab 20:00 Uhr oder Fr/Sa 18:30 – 21:30 Uhr):**
+  - Da die Küche bis 23:30 Uhr und die Bar bis 01:00/02:00 Uhr geöffnet hat (inkl. warmem Indoor-Patio), sitzen wir hier **30 Sekunden von Barro Negro** und **60 Sekunden vom Clumsies** entfernt. Ideal, um in Ruhe eine solide Grundlage (Schweinebäckchen, Rib-Eye oder Pinsa) zu schaffen, bevor wir uns nebenan an die Theken der Top-50-Bars stürzen!
 
 ## 📸 Bilder
 - ![Black Duck Garden Historischer Museumshof & Palme](../images/black_duck_garden_hero.jpg)

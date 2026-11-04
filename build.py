@@ -210,7 +210,7 @@ SPOT_META = {
     },
     11: {
         "short_title": "BLACK DUCK GARDEN",
-        "subtitle": "Versteckter Palmen-Innenhof von 1836 für den gepflegten ersten Anstoß nach der Landung",
+        "subtitle": "Versteckter Palmen-Innenhof von 1836 für entspanntes Daydrinking mit Wein & Platten mitten im Zentrum",
         "district": "Zentrum",
         "district_tag": "zentrum",
         "cats": ["daydrinking", "food", "cocktails"],
@@ -222,7 +222,7 @@ SPOT_META = {
         "food_status": "BISTRO & PLATTERS",
         "food_note": "Deftige Käse- und Wurstplatten sowie warme Bistro-Küche unter freiem Himmel",
         "signature": "Große Wein- und Käseplatte für die ganze Tafel unterm historischen Palmenbaum von Königin Amalia",
-        "insider": "Unser perfekter erster Landeplatz am Donnerstagnachmittag um 16:30 Uhr: Ankommen, Gläser heben und den Reisestaub runterspülen.",
+        "insider": "Perfekter grüner Rückzugsort für einen entspannten Nachmittag unter Palmen: Durchatmen, Gläser heben und mitten im Zentrum im Hof sitzen.",
         "lat": 37.97912,
         "lng": 23.73118,
     },
@@ -644,167 +644,224 @@ SPOT_META = {
 
 ROUTES_DATA = [
     {
-        "id": "do-a",
-        "day": "DONNERSTAG · 05.11.",
-        "title": "OPTION A — ZENTRUM & PSYRI-HERRENRUNDE",
-        "subtitle": "Kurze Wege ab Basecamp · Ankommen, ehrliche Hof-Drinks, Weltklasse-Tresen & krönender Abschluss",
+        "id": "do-1",
+        "day_key": "do",
+        "day": "DONNERSTAG · 05.11. (LANDUNG 18:00 UHR)",
+        "title": "VORSCHLAG 1 — DIREKT UMS ECK: TAVERNEN-START, CLUMSIES & ROOFTOP",
+        "subtitle": "Null Anfahrtsstress nach dem 18-Uhr-Flug · Alles in 2 bis 8 Minuten zu Fuß rund ums Apartment",
         "stops": [
             {
-                "time": "16:00",
+                "time": "19:45",
                 "name": "TOUCHDOWN @ ATHINUM 1 (KORINNIS 11)",
-                "desc": "Einrücken im Hauptquartier! Taschen in die Ecke werfen, kurz frisch machen und bei Bedarf 2 Minuten ums Eck bei Karamanlidika oder Feyrouz den ersten Happen schnappen.",
-                "dist": "START · 0 m",
+                "desc": "Taschen ins Apartment pfeffern, kurz frisch machen und direkt vor die Tür treten.",
+                "dist": "START · Landung 18:00 Uhr -> Check-in",
                 "spot_id": None
             },
             {
-                "time": "16:30 – 19:00",
-                "name": "BLACK DUCK GARDEN",
-                "desc": "Feucht-fröhlicher Auftakt im versteckten Palmen-Innenhof von 1836: Wir stoßen unter freiem Himmel mit den ersten kühlen Gläsern und großen Käse-/Wurstplatten auf Athen an.",
-                "dist": "820 m · 10 Min. Fußweg ab Apartment",
-                "spot_id": 11
+                "time": "20:15 – 22:15",
+                "name": "KLIMATARIA ODER TA KARAMANLIDIKA TOU FANI",
+                "desc": "Deftige Grundlage direkt im Kiez: Entweder butterzarte Schweinshaxe aus dem Schmortopf zwischen riesigen Weinfässern in der Klimataria (ab 21:30 Uhr mit Live-Musik!) oder brutzelnde Pastirma-Pfannen & Tsipouro bei Karamanlidika.",
+                "dist": "180 m – 300 m · 2–4 Min. Fußweg",
+                "spot_id": 19
             },
             {
-                "time": "19:00 – 21:30",
-                "name": "THE CLUMSIES (+ BARRO NEGRO / TALES OF ALES)",
-                "desc": "Donnerstags spazieren wir ohne Wochenend-Schlange direkt ins Herrenhaus: Aegean Negroni an der Holztheke, und wer zwischendurch ein frisch gezapftes IPA oder eine Paloma will, hat Tales of Ales und Barro Negro direkt nebenan.",
-                "dist": "180 m · 2 Min. Fußweg",
+                "time": "22:15 – 00:30",
+                "name": "THE CLUMSIES (+ TALES OF ALES / BARRO NEGRO)",
+                "desc": "Donnerstags spazieren wir ohne Wochenend-Schlange direkt ins berühmte Herrenhaus an die Holztheke — und wer zwischendurch ein frisch gezapftes IPA oder einen Tequila-Drink will, hat Tales of Ales (#12) und Barro Negro (#10) direkt vor der Tür.",
+                "dist": "450 m · 6 Min. Fußweg",
                 "spot_id": 7
             },
             {
-                "time": "21:30 – 23:15",
-                "name": "AVLI PSYRRI ODER KLIMATARIA",
-                "desc": "Deftige Grundlage für acht Männer: Entweder durch die blaue Eisentür in den urigen Hinterhof der Avli Psyrri (heiße Pfannen-Meze & Tsipouro) oder zwischen die riesigen Weinfässer der Klimataria zu Schweinshaxe und Live-Musik.",
-                "dist": "350 m · 4 Min. Fußweg",
-                "spot_id": 13
-            },
-            {
-                "time": "23:15 – 02:30",
-                "name": "TAF & COULEUR LOCALE",
-                "desc": "Starker Ausklang im historischen Kopfsteinpflaster-Hof von 1870 oder direkt nebenan mit dem Aufzug aufs Dach von Couleur Locale — beleuchtete Akropolis inklusive.",
-                "dist": "350 m · 4 Min. Fußweg (danach 10 Min. heim)",
-                "spot_id": 4
+                "time": "00:30 – 02:30",
+                "name": "COULEUR LOCALE, TAF ODER BIOS ROOFTOP",
+                "desc": "Zum Ausklang noch ein Drink mit beleuchteter Akropolis auf dem Dach von Couleur Locale (oder im Hof von TAF #04) — oder auf dem Heimweg 5 Minuten vorm Bett noch ein Absacker im Liegestuhl auf dem BIOS Rooftop (#01).",
+                "dist": "400 m · 5 Min. Fußweg",
+                "spot_id": 5
             }
         ]
     },
     {
-        "id": "do-b",
-        "day": "DONNERSTAG · 05.11.",
-        "title": "OPTION B — WEST-ROUTE (PETRALONA & BAR-GIGANTEN)",
-        "subtitle": "Charakterstarke Höfe, große Handwerkskunst im Glas & ein letzter Absacker über den Dächern",
+        "id": "do-2",
+        "day_key": "do",
+        "day": "DONNERSTAG · 05.11. (LANDUNG 18:00 UHR)",
+        "title": "VORSCHLAG 2 — WEST-RUNDE: HOF-DINNER & WELTKLASSE-BAR IN PETRALONA",
+        "subtitle": "Kurzer Hüpfer nach Kato Petralona · Bunter 1930er-Innenhof, #3 Europe's Best Bar & Rock-Absacker",
         "stops": [
             {
-                "time": "18:00 – 20:30",
-                "name": "UPUPA EPOPS (PETRALONA)",
-                "desc": "Wir starten im prächtigen 1930er-Innenhof: Erstklassige Cocktails und ofenfrische Sauerteig-Pinsa schaffen die perfekte Basis für den Abend.",
-                "dist": "1,6 km · 20 Min. Fußweg oder 5 Min. Uber",
+                "time": "19:45",
+                "name": "TOUCHDOWN @ ATHINUM 1 (KORINNIS 11)",
+                "desc": "Kurz einchecken und in 5 Minuten per Uber/Taxi (oder 20 Min. zu Fuß) rüber nach Kato Petralona.",
+                "dist": "START · Landung 18:00 Uhr -> Check-in",
+                "spot_id": None
+            },
+            {
+                "time": "20:15 – 22:15",
+                "name": "UPUPA EPOPS (KATO PETRALONA)",
+                "desc": "Perfekte Ankunfts-Basis im stimmungsvoll beleuchteten 1930er-Innenhof: Ofenfrische Sauerteig-Pinsa, saftige Smash-Burger und starke erste Cocktails.",
+                "dist": "1,6 km · 5 Min. Uber oder 20 Min. Fußweg",
                 "spot_id": 2
             },
             {
-                "time": "20:30 – 00:30",
-                "name": "LINE ATHENS (#6 WORLD'S 50 BEST)",
-                "desc": "5 Minuten weiter in die hohe Backsteinhalle: Wir testen uns durch die hausgemachten Fruchtweine, bestellen den berühmten 'Line's Hot Dog' und feiern ab 21:30 Uhr zum DJ-Set.",
+                "time": "22:15 – 00:45",
+                "name": "LINE ATHENS (#3 EUROPE'S 50 BEST BARS)",
+                "desc": "5 Minuten weiter in die hohe Backsteinhalle: Wir bestellen den legendären Wagyu-Hotdog, gezapfte Line Palomas und feiern zum DJ-Set an der langen Theke.",
                 "dist": "400 m · 5 Min. Fußweg",
                 "spot_id": 3
             },
             {
-                "time": "00:30 – 02:00",
-                "name": "BIOS ROOFTOP (PIREOS 84)",
-                "desc": "Liegt goldrichtig auf dem Heimweg zum Basecamp: Ein letzter eiskalter Papoto-Slush oder ein frisch Gezapftes im Liegestuhl mit freiem Blick auf die Akropolis.",
-                "dist": "1,3 km Richtung Apartment (danach 5 Min. ins Bett)",
-                "spot_id": 1
+                "time": "00:45 – 02:30",
+                "name": "SPIRTOKOUTO (PETRALONA) ODER BIOS ROOFTOP",
+                "desc": "Entweder 3 Minuten ums Eck ins Spirtokouto für ehrlichen 90er-Rock und eiskaltes Bier — oder auf dem Rückweg zum Apartment noch aufs Dach vom BIOS (#01).",
+                "dist": "250 m · 3 Min. Fußweg",
+                "spot_id": 30
             }
         ]
     },
     {
-        "id": "fr-riviera",
+        "id": "fr-1",
+        "day_key": "fr",
         "day": "FREITAG · 06.11.",
-        "title": "KELLER-KULT, RIVIERA-SUNSET & GROSSE COCKTAIL-MEILE",
-        "subtitle": "Starker Kater-Brunch, ehrlicher Mittags-Retsina, Sundowner am Meer & Athens beste Theken bei Nacht",
+        "title": "VORSCHLAG 1 — KELLER-KULT, RIVIERA-SUNSET AM MEER & COCKTAIL-DREIECK",
+        "subtitle": "Brunch ums Eck, 1887er-Weinkeller, Nachmittags-Ausflug ans Meer & Athens große Bar-Meile",
         "stops": [
             {
-                "time": "09:30 – 11:30",
-                "name": "KATER-BRUNCH: MINU ODER USURUM (PSYRI)",
-                "desc": "Keine 3 Minuten aus den Federn: Doppelter Freddo Cappuccino, Shakshuka und Eier-Gerichte im grünen Hof vom Minu oder schon ab 07:30 Uhr im Usurum.",
+                "time": "10:00 – 11:30",
+                "name": "FRÜHSTÜCK UMS ECK: MINU ODER USURUM (PSYRI)",
+                "desc": "Doppelter Freddo Cappuccino, Shakshuka und Rührei direkt vor unserer Haustür im Minu oder schon ab 07:30 Uhr im Usurum (#32).",
                 "dist": "190 m · 2 Min. ab Apartment",
                 "spot_id": 26
             },
             {
-                "time": "12:30 – 14:15",
-                "name": "DIPORTO ODER TA KARAMANLIDIKA TOU FANI",
-                "desc": "Legendäres Mittagsprogramm ums Eck: Entweder Kichererbseneintopf & Fass-Retsina im 1887er-Weinkeller Diporto oder heiße Pastirma-Pfanne mit Tsipouro bei Karamanlidika.",
-                "dist": "200 m · 2 Min. ab Apartment",
+                "time": "12:30 – 14:30",
+                "name": "DIPORTO (WEINKELLER) ODER ATLANTIKOS (FISCH-GASSE)",
+                "desc": "Mittags-Legende: Entweder Fisch, Kichererbsen & Fass-Retsina im unterirdischen Weinkeller Diporto oder gebratene Sardinen & eiskaltes Alfa-Bier bei Atlantikos.",
+                "dist": "200 m · 2–3 Min. ab Apartment",
                 "spot_id": 20
             },
             {
-                "time": "15:00 – 16:30",
-                "name": "BOLIVAR BEACH CLUB (ALIMOS RIVIERA)",
-                "desc": "In 14 Minuten per Uber ans Meer: Wir vertreten uns die Beine auf der Palmen-Landzunge und genehmigen uns den ersten Nachmittags-Drink direkt am Wasser.",
-                "dist": "10,6 km · 14 Min. Uber (ca. 12–15 €)",
-                "spot_id": 23
-            },
-            {
-                "time": "16:30 – 19:30",
-                "name": "PEÑARRUBIA LOUNGE (SUNSET UM 17:20 UHR)",
-                "desc": "250 Meter weiter am Strand ins wetterfeste Riviera-Flaggschiff: Sundowner-Drinks auf dem großen Holzdeck über den Wellen und deftige Burger als Stärkung.",
-                "dist": "250 m · 3 Min. zu Fuß am Wasser",
+                "time": "15:15 – 19:00",
+                "name": "RIVIERA-DOPPELPACK: BOLIVAR BEACH & PEÑARRUBIA SUNSET",
+                "desc": "Raus ans Meer nach Alimos: Erst ein kühles Helles auf der Palmen-Landzunge im Bolivar (#23), dann pünktlich vor dem Sonnenuntergang (17:20 Uhr!) 250 Meter weiter auf das große Holzdeck der Peñarrubia Lounge (#24) für Sundowner-Drinks und Burger.",
+                "dist": "10,6 km · 14 Min. Uber",
                 "spot_id": 24
             },
             {
-                "time": "21:30 – 03:00",
-                "name": "COCKTAIL-DREIECK: BABA AU RUM & BAR IN FRONT OF THE BAR",
-                "desc": "Zurück im Zentrum (gerne nach schnellem Steinofen-Lahmacun bei Feyrouz): Hochprozentige Rum-Klassiker im Baba au Rum und eiskalte Street-Drinks vor The Bar in Front of the Bar.",
-                "dist": "90 m zwischen beiden Bars",
-                "spot_id": 9
+                "time": "21:00 – 03:00",
+                "name": "FEYROUZ-GRUNDLAGE + BABA AU RUM & BAR IN FRONT OF THE BAR",
+                "desc": "Zurück in der Stadt erst eine heiße Steinofen-Lahmacun-Rolle bei Feyrouz (#22) auf die Hand, danach mitten rein ins Bar-Dreieck aus Baba au Rum (#08), The Bar in Front of the Bar (#09) und Brew Str (#27).",
+                "dist": "Zentrum · 8–12 Min. ab Apartment",
+                "spot_id": 8
             }
         ]
     },
     {
-        "id": "sa-exarchia",
+        "id": "fr-2",
+        "day_key": "fr",
+        "day": "FREITAG · 06.11.",
+        "title": "VORSCHLAG 2 — 100 % ZU FUSS: HINTERHOF-MEZE, PALMEN-GARTEN & DÄCHER",
+        "subtitle": "Kein einziges Taxi nötig · Durchgehend kurze Wege zwischen Psyri, Zentrum und Monastiraki",
+        "stops": [
+            {
+                "time": "09:30 – 11:00",
+                "name": "BOUGATSADIKO THESSALONIKI ODER STANI 1931",
+                "desc": "Handgezogener Blätterteig frisch aus dem Ofen am Platia Iroon (#33) oder stichfester Schafsjoghurt mit Honig & Walnüssen in Athens ältester Molkerei Stani (#34).",
+                "dist": "250–500 m · 3–5 Min. Fußweg",
+                "spot_id": 33
+            },
+            {
+                "time": "13:00 – 15:30",
+                "name": "AVLI PSYRRI (VERSTECKTER HINTERHOF)",
+                "desc": "Mittags kommen wir ohne Schlange durch die blaue Eisentür in den weiß getünchten Hinterhof: Kleine Pfannen-Meze, Feta im Teigmantel, kaltes Mamos-Bier und Tsipouro.",
+                "dist": "200 m · 2 Min. Fußweg",
+                "spot_id": 13
+            },
+            {
+                "time": "16:00 – 19:30",
+                "name": "BLACK DUCK GARDEN & WAREHOUSE CO2",
+                "desc": "Entspanntes Daydrinking unter Palmen im Hof von 1836 (Black Duck Garden #11), danach weiter auf ein Glas Wein oder Schaumwein an die Tische von Warehouse CO2 (#31) bei Syntagma.",
+                "dist": "600 m · 7 Min. Fußweg",
+                "spot_id": 11
+            },
+            {
+                "time": "20:30 – 03:00",
+                "name": "KARAMANLIDIKA + BARRO NEGRO, 360° & TAF",
+                "desc": "Großes Abendgelage mit heißen Pfannen bei Karamanlidika (#21), danach Drinks auf dem Dach der 360 Cocktail Bar (#06), Tequila-Cocktails im Barro Negro (#10) und Absacker im Hof von TAF (#04).",
+                "dist": "Rund um Monastiraki & Psyri",
+                "spot_id": 21
+            }
+        ]
+    },
+    {
+        "id": "sa-1",
+        "day_key": "sa",
         "day": "SAMSTAG · 07.11.",
-        "title": "EXARCHIA KOMPLETT (WOCHENMARKT, SCHULHOF-MEZE, WEIN & ZAPFHAHN)",
-        "subtitle": "Vom bunten Samstagsmarkt über die große Meze-Tafel bis zum ehrlichen Kneipen-Finale",
+        "title": "VORSCHLAG 1 — DAS GROSSE EXARCHIA-MANÖVER (MARKT, SCHULHOF, WEIN & BIER)",
+        "subtitle": "Komplett zu Fuß & 0 % Marathon-Stau · Vom legendären Samstagsmarkt bis an die 9 Zapfhähne",
         "stops": [
             {
                 "time": "11:00 – 13:30",
                 "name": "KALLIDROMIOU SAMSTAGSMARKT (LAIKI AGORA)",
-                "desc": "Wir schlendern mitten durch den berühmten Wochenmarkt auf der Kallidromiou-Straße, probieren uns durch Oliven und Käse und heben den ersten Tsipouro in der Herbstsonne.",
-                "dist": "1,9 km ab Apartment (oder nach dem Nationalmuseum)",
+                "desc": "Mitten durch den bunten Wochenmarkt auf der Kallidromiou schlendern, Oliven und Käse probieren und an den Markt-Cafés das erste Kaltgetränk in der Sonne heben.",
+                "dist": "1,9 km · 22 Min. Fußweg ab Apartment",
                 "spot_id": 14
             },
             {
                 "time": "13:30 – 16:30",
-                "name": "AMA LACHEI (SCHULHOF-MEZE)",
-                "desc": "Direkt an der Marktstraße (Kallidromiou 69): Wir lassen den Tisch im begrünten alten Grundschulhof mit Grillkäse, Apaki und geschmortem Lamm volldecken.",
+                "name": "AMA LACHEI (MEZE IM ALTEN GRUNDSCHULHOF)",
+                "desc": "Unter den Orangenbäumen im begrünten Schulhof lassen wir die Tafel mit Grillkäse, geräuchertem Schweinefilet und geschmortem Lamm volldecken.",
                 "dist": "Direkt an der Kallidromiou 69",
                 "spot_id": 14
             },
             {
-                "time": "16:45 – 18:00",
-                "name": "STREFI-HÜGEL (WEGBIER MIT AUSSICHT) ODER WAREHOUSE EXARCHIA",
-                "desc": "Entweder 5 Minuten hoch auf den felsigen Strefi-Hügel für den Blick bis zur Akropolis — oder direkt an die Holzkabeltrommeln vorm Warehouse auf der Fußgängerzone Valtetsiou.",
-                "dist": "300 m · 4 Min. Fußweg",
-                "spot_id": 25
-            },
-            {
-                "time": "18:30 – 21:30",
-                "name": "TANINI AGAPI MOU ODER PHARAOH",
-                "desc": "Große Weinrunde: Über 100 offene griechische Weine und knusprige Pinsa bei Tanini Agapi Mou oder offenes Olivenholzfeuer und satte Vinyl-Klänge an der Theke im Pharaoh.",
-                "dist": "450 m · 5 Min. Fußweg",
+                "time": "17:00 – 20:30",
+                "name": "STREFI-HÜGEL, WAREHOUSE EXARCHIA & TANINI AGAPI MOU",
+                "desc": "Zum 17:20-Uhr-Sunset kurz auf den Strefi-Hügel schauen, dann an die Kabeltrommeln vorm Warehouse (#25) und weiter zu den 100 offenen griechischen Weinen bei Tanini Agapi Mou (#16).",
+                "dist": "300–450 m · 4–5 Min. Fußweg",
                 "spot_id": 16
             },
             {
-                "time": "21:30 – 23:30",
-                "name": "ROZALIA EXARCHIA (16-TELLER-TABLETT)",
-                "desc": "Zünftiges Abendmahl in der Traditions-Taverne seit 1978: Das große Silbertablett mit 16 Vorspeisen fährt vor, dazu Lamm im Pergamentpapier.",
-                "dist": "450 m · 5 Min. Fußweg",
+                "time": "21:00 – 03:30",
+                "name": "ROZALIA ODER PHARAOH + STRAKASTRÜKA & TO SPIRTO",
+                "desc": "Zünftiges 16-Teller-Vorspeisentablett bei Rozalia (#17) oder Holzfeuer & Vinyl im Pharaoh (#15) — und danach 60 Meter weiter an die 9 Craft-Beer-Hähne bei strakastrüka (#18) und auf die Kneipenmeile am to Spirto (#29).",
+                "dist": "400 m · 5 Min. Fußweg",
                 "spot_id": 17
+            }
+        ]
+    },
+    {
+        "id": "sa-2",
+        "day_key": "sa",
+        "day": "SAMSTAG · 07.11.",
+        "title": "VORSCHLAG 2 — CRAFT-BEER-SAFARI, HOLZFEUER & MONASTIRAKI-NACHT",
+        "subtitle": "Ausgeschlafener Start in Psyri · Taproom-Hopping, große Samstags-Tafel & volle Bar-Dröhnung",
+        "stops": [
+            {
+                "time": "10:00 – 12:00",
+                "name": "KATER-BRUNCH: USURUM ODER MINU (PSYRI)",
+                "desc": "Erstmal mit Eggs Benedict, Pancakes und doppeltem Freddo Espresso im Usurum (#32) die Lebensgeister wecken.",
+                "dist": "250 m · 3 Min. ab Apartment",
+                "spot_id": 32
             },
             {
-                "time": "23:30 – 04:00",
-                "name": "STRAKASTRÜKA (ANDREA METAXA 19) & SPIRTO",
-                "desc": "Keine 60 Meter neben Rozalia warten 9 frische Craft-Beer-Hähne und der Straka Hot Dog, bevor wir auf der Koletti- und Tzavella-Achse im Spirto die Lichter ausmachen.",
-                "dist": "60 m · 1 Min. Fußweg",
-                "spot_id": 18
+                "time": "13:30 – 16:00",
+                "name": "ATLANTIKOS ODER TA KARAMANLIDIKA TOU FANI",
+                "desc": "Ehrlicher Samstagslunch in Psyri mit frittiertem Fisch und griechischem Salat bei Atlantikos (#20) oder heißen Pfannen-Meze bei Karamanlidika (#21).",
+                "dist": "250 m · 3 Min. Fußweg",
+                "spot_id": 20
+            },
+            {
+                "time": "16:30 – 19:30",
+                "name": "CRAFT-BEER-RUNDE: STRANGE BREW TAPROOM & BREW STR",
+                "desc": "Wir zapfen uns durch Athens beste Brauereien: Erst der Strange Brew Taproom (#28) in Koukaki (mit Smash-Burger-Pop-up!), danach weiter zur Brew Str (#27) oder Tales of Ales (#12).",
+                "dist": "Koukaki -> Syntagma",
+                "spot_id": 28
+            },
+            {
+                "time": "20:30 – 03:00",
+                "name": "PHARAOH ODER KLIMATARIA + CLUMSIES & BAR IN FRONT OF THE BAR",
+                "desc": "Großes Samstags-Festmahl am offenen Olivenholzfeuer im Pharaoh (#15) oder bei Live-Musik in der Klimataria (#19), bevor wir an den Theken von The Clumsies (#07) und The Bar in Front of the Bar (#09) das Finale einläuten.",
+                "dist": "Zentrum / Psyri",
+                "spot_id": 15
             }
         ]
     }
@@ -1672,6 +1729,58 @@ def build_html(spots, master_html):
     }}
 
     /* ROUTES TIMELINE SECTION */
+    .route-day-tabs {{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }}
+    .route-day-tab {{
+      appearance: none;
+      font-family: 'Space Grotesk', sans-serif;
+      font-weight: 700;
+      font-size: 12px;
+      padding: 13px 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      border: none;
+      border-right: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--fg);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      transition: background 0.1s, color 0.1s;
+    }}
+    .route-day-tab:last-child {{
+      border-right: none;
+    }}
+    .route-day-tab.active {{
+      background: var(--inv-bg);
+      color: var(--inv-fg);
+      outline: 1px solid var(--inv-fg);
+      outline-offset: -1px;
+    }}
+    .route-day-tab:hover:not(.active) {{
+      background: var(--surface-alt);
+    }}
+    @media (max-width: 640px) {{
+      .route-day-tab {{
+        font-size: 11px;
+        padding: 11px 4px;
+      }}
+    }}
+    .route-intro-note {{
+      padding: 12px 20px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      color: var(--fg-muted);
+      border-bottom: 1px solid var(--border-subtle);
+      background: var(--bg);
+    }}
     .routes-wrap {{
       padding: 24px 20px 48px;
       display: grid;
@@ -2219,13 +2328,15 @@ def build_html(spots, master_html):
     </section>
 
     <!-- ======================================================================
-         VIEW 03: TACTICAL ROUTES (DO OPTION A/B, FR KÜSTE, SA EXARCHIA)
+         VIEW 03: TACTICAL ROUTES (DO, FR, SA — JE 2 VORSCHLÄGE)
          ====================================================================== -->
     <section id="view-routes" class="view-section">
-      <div class="status-strip">
-        <span>GEPLANTE ROUTEN-OPTIONEN (DO – SA)</span>
-        <span>TIPPE AUF EINEN STOPP FÜR DAS VOLLE DOSSIER</span>
+      <div class="route-day-tabs">
+        <button class="route-day-tab active" data-rday="do" onclick="setRouteDay('do')">DONNERSTAG (AB 19:45)</button>
+        <button class="route-day-tab" data-rday="fr" onclick="setRouteDay('fr')">FREITAG</button>
+        <button class="route-day-tab" data-rday="sa" onclick="setRouteDay('sa')">SAMSTAG</button>
       </div>
+      <div class="route-intro-note">LOCKERE IDEEN &amp; BAUKASTEN-VORSCHLÄGE (KEIN FIXER FAHRPLAN) — TIPPE AUF EINEN STOPP FÜR DAS DOSSIER</div>
       <div class="routes-wrap" id="routesContainer"></div>
     </section>
 
@@ -2283,6 +2394,7 @@ def build_html(spots, master_html):
     let activeCat = 'all';
     let activeDist = 'all';
     let sortByWalk = false;
+    let activeRouteDay = 'do';
     let currentView = 'dossiers';
     let currentSpotId = null;
     let lightboxImages = [];
@@ -2590,9 +2702,18 @@ def build_html(spots, master_html):
     }}
 
     // ROUTES RENDERING
+    function setRouteDay(dayKey) {{
+      activeRouteDay = dayKey;
+      document.querySelectorAll('.route-day-tab').forEach(btn => {{
+        btn.classList.toggle('active', btn.getAttribute('data-rday') === dayKey);
+      }});
+      renderRoutes();
+    }}
+
     function renderRoutes() {{
       const container = document.getElementById('routesContainer');
-      container.innerHTML = ROUTES.map(r => `
+      const dayRoutes = ROUTES.filter(r => r.day_key === activeRouteDay);
+      container.innerHTML = dayRoutes.map(r => `
         <div class="route-block">
           <div class="route-header">
             <div class="route-day">${{r.day}}</div>

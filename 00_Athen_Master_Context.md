@@ -1,5 +1,5 @@
 ---
-project: Ochos Herrentour Athen (05.11.2026 bis 08.11.2026, Abflug FRA 14:25)
+project: Ochos Herrentour Athen (05.11.2026 bis 08.11.2026, Landung ATH Do 18:00 Uhr, Check-in Apartment ca. 19:45 Uhr)
 base_location: ATHINUM 1 | by Valenci, Korinnis 11 (Κορίννης 11, Ecke Platia Eleftherias / Koumoundourou), 105 53 Athen (Psyri)
 base_coordinates: 37.9806698, 23.7225669
 group_profile: Ochos-Truppe (Herrentour)
@@ -12,7 +12,10 @@ vibe_preferences:
 
 # 🏛️🍻 OCHOS HERRENTOUR — ATHEN MASTER-BRIEFING (05.11.–08.11.2026)
 
-Männer, schnallt euch an: Dieses Master-Briefing ist unser zentrales Kommandohandbuch für unser Athen-Wochenende! **Wichtige Wochenend-Logik vorab:** Da wir am **Sonntagmorgen (08.11.) schon sehr zeitig zum Flughafen müssen**, spielt der Sonntag (außer für den frühen Flughafentransfer) kulinarisch und für Unternehmungen keine Rolle. Unser volles Programm läuft also mit maximaler Schlagzahl von **Donnerstagabend (05.11.) über den ganzen Freitag (06.11.) bis tief in die Samstagnacht (07.11.)** — vom ersten eiskalten *Freddo Espresso*, wenn wir freitags und samstags leicht verknittert aus den Federn kriechen, über ausgedehnte Meze- und Tsipouro-Gelage in der Nachmittagssonne bis zum letzten ehrlichen Rock-Absacker um vier Uhr früh.
+Männer, schnallt euch an: Dieses Master-Briefing ist unser zentrales Kommandohandbuch für unser Athen-Wochenende! **Wichtige Wochenend- & Routen-Logik vorab:**
+* **Ankunft Donnerstag (05.11.):** Wir **landen am Donnerstag um 18:00 Uhr in Athen** und schlagen nach Gepäck und Fahrt gegen **19:30 / 19:45 Uhr in unserem Apartment (`Korinnis 11`)** auf — pünktlich, um die Taschen in die Ecke zu werfen und direkt ins erste Athener Abend- und Nachtprogramm zu starten!
+* **Abflug Sonntag (08.11.):** Da wir am **Sonntagmorgen schon sehr zeitig zum Flughafen müssen**, spielt der Sonntag (außer für den frühen Flughafentransfer) kulinarisch und für Unternehmungen keine Rolle. Unser volles Programm läuft also mit maximaler Schlagzahl von **Donnerstagabend (ab ca. 19:45 Uhr) über den ganzen Freitag (06.11.) bis tief in die Samstagnacht (07.11.)**.
+* **Alle Routen sind reine Ideen & Baukasten-Vorschläge (keineswegs fix!):** Nichts davon ist in Stein gemeißelt. Für jeden Tag (Donnerstagabend, Freitag, Samstag) haben wir **jeweils zwei durchdachte Routen-Beispiele (Vorschlag 1 & Vorschlag 2)** vorbereitet, aus denen wir vor Ort komplett spontan nach Lust, Laune, Wetter, Hunger und Pegel auswählen oder frei kombinieren können!
 
 ---
 
@@ -135,7 +138,7 @@ Damit wir uns nicht wie blutige Pauschal-Touristen anstellen, die um 18:30 Uhr e
 * **Baba au Rum (`Klitiou 6`, Zentrum):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Baba+au_Rum+Athens&query_place_id=ChIJFVsBjjy9oRQR7XnarON2k94) | So–Fr 19:00–03:00 Uhr, Sa 19:00–03:30 Uhr | Platz 14 *Europe's 50 Best Bars* — Rum-Tempel & Cocktail-Institution, bei der sich die Meute abends mit dem Glas in der Hand auf die Fußgängerzone ergießt.
 * **The Bar in Front of the Bar (`Petraki 1`, Zentrum):** [Google Maps](https://www.google.com/maps/search/?api=1&query=The+Bar+in+Front+of+the+Bar+Petraki+1+Athens) | Täglich ab 17:00/18:00 Uhr bis 02:00/03:00 Uhr | **Platz 2 Europe's 50 Best Bars!** Vorne lässige Street-Bar in der Fußgängerzone mit auf -24 °C gefrosteten Gläsern; dahinter drinnen die versteckte Lounge *Rumble in the Jungle*.
 * **Barro Negro (`Ioannou Paparrigopoulou 15`, Zentrum):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Barro+Negro+Athens) | Täglich ab 18:00/19:00 Uhr | **Platz 13 Europe's 50 Best Bars!** Direkt neben dem *Black Duck Garden* und 1 Min. von *The Clumsies* — Athens Paloma- & Mezcal-Botschaft für druckvolle Agaven-Drinks.
-* **Black Duck Garden (`Ioannou Paparrigopoulou 5–7`, Zentrum):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Black+Duck+Garden+Athens&query_place_id=ChIJQUQvvju9oRQRkefGT4htGAA) | Täglich 10:00–01:00 Uhr (Fr/Sa bis 02:00 Uhr) | Grüne Garten-Oase unter Palmen im Innenhof des Stadtmuseums — unser perfekter erster Landeplatz am Donnerstagnachmittag.
+* **Black Duck Garden (`Ioannou Paparrigopoulou 5–7`, Zentrum):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Black+Duck+Garden+Athens&query_place_id=ChIJQUQvvju9oRQRkefGT4htGAA) | Täglich 10:00–01:00 Uhr (Fr/Sa bis 02:00 Uhr) | Grüne Garten-Oase unter Palmen im Innenhof des ersten Königspalastes — perfekt für ein entspanntes Wein- und Bistro-Warm-up am Freitag- oder Samstagnachmittag direkt neben *Barro Negro* und *The Clumsies*.
 * **Tales of Ales (`Miltiadou 19`, Zentrum) & Brew Str (`Nikis 50`, Syntagma) & Strange Brew Taproom (`Falirou 86`, Koukaki):** Unsere drei Craft-Beer-Festungen! *Tales of Ales* (8 Min. ab Apartment in einer vollen Bar-Gasse), *Brew Str* (direkt neben *Warehouse CO2* für ein kaltes Fassbier und Dosen-Proviant fürs Apartment) und der *Strange Brew Taproom* (10 Hähne in Koukaki südlich der Akropolis, inkl. dem legendären *Jasmine IPA*).
 * **Warehouse CO2 (`Ypereidou 1 & Nikis 21`, Syntagma/Plaka):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Warehouse+CO2+Athens&query_place_id=ChIJfy1l7z29oRQRIu7ioDJs2Bs) | Täglich 08:30–01:00 Uhr | 29+ offene Schaumweine, Pet-Nats & Crémants im Glas plus kalte Deli-Platten (*Burrata mit Bottarga*, *Trüffel-Carpaccio*) unter den Platanen.
 * **Avli Psyrri (`Agiou Dimitriou 12`, Psyri):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Avli+Psyrri+Agiou+Dimitriou+12+Athens) | Mi–Mo 13:00–02:00 Uhr (Di zu) | **5 Min. ab Apartment!** Versteckter, weiß getünchter Hinterhof hinter einer schmalen blauen Tür — karierte Tischdecken, ehrliche Meze-Berge und eiskalter Fasswein (Bargeld einstecken!).
@@ -177,22 +180,54 @@ Damit wir uns nicht wie blutige Pauschal-Touristen anstellen, die um 18:30 Uhr e
 
 ---
 
-## 🧭 5. Unsere bewährten Schlachtpläne & Routen-Optionen
+## 🧭 5. Unsere Routen-Ideen & Baukasten-Vorschläge (Je 2 Beispiele für Do, Fr & Sa — 100 % flexibel!)
 
-### Donnerstag (Ankunft am Nachmittag) – Option A: Zentrum-Achse (Kurze Wege zu Fuß)
-1. **16:30–19:00 Uhr:** Einchecken in der Korinnis, kurzes Durchatmen und erster Lande-Drink unter den Palmen im Innenhof vom **Black Duck Garden** (oder 1 Min. weiter ein Mezcal-Paloma-Start im **Barro Negro**).
-2. **19:00–21:30 Uhr:** 3 Minuten weiter ins **The Clumsies** (donnerstags kommen wir mit unserer Truppe noch viel entspannter rein als am Wochenende).
-3. **21:30–23:00 Uhr:** Durch die Gassen von **Psyri** schlendern und die Tischmitte im weiß getünchten Hinterhof der **Avli Taverne** oder bei geschmorter Haxe und Live-Rembetiko in der **Klimataria** (2 Min. vorm Apartment) vollknallen.
-4. **Ab 23:00–03:00 Uhr:** Finale im beleuchteten historischen Innenhof von **TAF (The Art Foundation)** oder vor der Ausschank-Luke von **The Bar in Front of the Bar**.
+> **Wichtiger Grundsatz für unsere Runde:** Alle folgenden Routen sind **lockere Ideen und unverbindliche Vorschläge — keineswegs ein fixer Stundenplan!** Da alle Locations in Clustern dicht beieinander liegen, entscheiden wir jeden Tag spontan nach Lust, Laune, Hunger, Wetter und Pegel, auf welche Richtung wir Bock haben oder wie wir die Spots untereinander mischen.
 
-### Donnerstag (Ankunft am Nachmittag) – Option B: West-Linie (Petralona & Akropolis-Dach)
-1. **18:00–20:30 Uhr:** Start im großen, bunt gefliesten Vintage-Hof von **Upupa Epops** in Petralona (inkl. Steinofen-Pizza & Barfood als Grundlage).
-2. **20:30–00:30 Uhr:** 5 Minuten zu Fuß weiter in die Backsteinhalle von **Line Athens** für Weltklasse-Drinks, eigene Fruchtweine und fetten DJ-Sound.
-3. **Ab 00:30–03:00 Uhr:** Entweder 150 Meter nebenan in die 80s/90s-Rock-Kneipe **Spirtokouto Bar** oder auf dem Rückweg noch ein Absacker auf der Industrial-Dachterrasse vom **Bios** mit direktem Nachtblick auf die beleuchtete Akropolis.
+---
 
-### Samstag – Das große Exarchia-Manöver (Tag & Nacht komplett zu Fuß — null Marathon-Stau!)
-1. **Vormittag / Mittag:** Nach dem Kater-Frühstück ums Apartment spazieren wir zum **Archäologischen Nationalmuseum** oder direkt mitten rein in das Getümmel auf dem **Samstagsmarkt in der Kallidromiou-Straße** (erster Tsipouro in der Mittagssonne!).
-2. **Nachmittag (ab 14:00 Uhr):** Große Parea-Meze-Schlacht mit karaffenweise Tsipouro und Wein im grünen Schulhof vom **Ama Lachei**.
-3. **Sonnenuntergang (17:20 Uhr):** Kurzer Aufstieg mit einem kalten Wegbier auf den **Strefi-Hügel** direkt hinter der Kallidromiou.
-4. **Abend:** Offene griechische Naturweine im **Tanini Agapi Mou** / **Warehouse Exarchia** oder Holzfeuer-Küche & Vinyl-Sound im **Pharaoh** (oder ein zünftiger Tavernen-Abend bei **Rozalia**).
-5. **Späte Nacht (bis 05:00 Uhr):** Erst gezapftes Craft Beer und Hot Dog vor dem **strakastrüka**, danach 250 Meter weiter zum legendären Rock- & Kneipen-Endspurt ins **to Spirto** und auf die **Koletti-Meile** (*Revolt Street Bar* & *Mavros Gatos*)!
+### 🛬 DONNERSTAG (05.11. — Landung 18:00 Uhr, Start ab Apartment ca. 19:45 Uhr)
+
+#### Donnerstag – Vorschlag 1: Heimatrevier Psyri & Weltklasse-Tresen (Kurze Wege zu Fuß ab Haustür)
+1. **19:30 / 19:45 Uhr (Touchdown @ ATHINUM 1, `Korinnis 11`):** Einchecken im Basecamp, Koffer in die Ecke werfen, kurz frisch machen.
+2. **20:00 – 22:00 Uhr (Deftige Grundlage direkt ums Eck):** Entweder **2 Min. zu Fuß in die Klimataria** (geschmorte Schweinshaxe im warmen Weinfass-Hof & Live-Rembetiko ab 21:30 Uhr), **4 Min. zu Ta Karamanlidika tou Fani** (heiße Pastirma-Pfanne & Tsipouro) oder **5 Min. durch die schmale blaue Tür in den Hinterhof der Avli Psyrri** (Pfannen-Meze & Fasswein).
+3. **22:00 – 00:00 Uhr (Ohne Wochenend-Schlange in die Top-50-Bars):** 5–8 Minuten rüber ins **The Clumsies** (*Aegean Negroni* an der langen Holztheke oder im Innenhof) — und wer direkt daneben noch eine Weltklasse-Paloma oder ein frisch gezapftes IPA will, steht in 60 Sekunden im **Barro Negro** oder bei **Tales of Ales**.
+4. **Ab 00:00 – 02:30 Uhr (Nacht-Finale):** Absacker im beleuchteten historischen Kopfsteinpflaster-Hof von **TAF (The Art Foundation)**, auf dem Dach von **Couleur Locale** oder bei der Donnerstags-Partyreihe vor der Ausschank-Luke von **The Bar in Front of the Bar**.
+
+#### Donnerstag – Vorschlag 2: West-Linie (Akropolis-Touchdown, Petralona-Höfe & Bar-Giganten)
+1. **19:45 – 20:20 Uhr (Optionaler 5-Min.-Touchdown-Drink):** Nach dem Check-in entweder 5 Minuten die Straße runter aufs Dach vom **Bios (`Pireos 84`)** für das erste schnelle Bier mit direktem Blick auf die beleuchtete Akropolis — oder direkt per 5-Min.-Uber / 20-Min.-Spaziergang rüber nach Petralona.
+2. **20:15 – 22:15 Uhr (Dinner & Drinks im 1930er-Hof):** Einkehr im großen, bunt gefliesten Vintage-Innenhof von **Upupa Epops** in Petralona — Steinofen-Pizza, Smash Burger und starke Cocktails als perfekte Grundlage nach dem Flug.
+3. **22:15 – 01:00 Uhr (Warehouse-Vibes & Weltklasse-Drinks):** 5 Minuten zu Fuß weiter in die hohe Backsteinhalle von **Line Athens (#6 World's 50 Best Bars)** für eigene Fruchtweine (*Why-ins*), den legendären *Line's Hot Dog* und fetten DJ-Sound an der langen Tafel.
+4. **Ab 01:00 – 02:30 Uhr (Rock-Absacker oder Rooftop-Heimweg):** Entweder 150 Meter neben *Upupa Epops* in die kultige 80s/90s-Rock-Kneipe **Spirtokouto Bar** oder auf dem Heimweg noch ein letztes Glas im Liegestuhl auf der Dachterrasse vom **Bios** (von dort nur 5 Min. ins Bett!).
+
+---
+
+### 🌊 FREITAG (06.11. — Ganzer Tag & lange Freitagnacht)
+
+#### Freitag – Vorschlag 1: Keller-Legende, Alimos-Riviera-Sunset am Meer & große Cocktail-Meile
+1. **Vormittag (09:30 – 11:30 Uhr – Kater-Brunch vor der Haustür):** Keine 3 Minuten ab Apartment: Doppelter *Freddo Espresso*, *Shakshuka* und *Buttermilk Chicken Waffle* im grünen Hof vom **Minu** oder **Usurum** (oder auf die Faust eine ofenheiße Filoteig-Bougatsa beim **Bougatsadiko I Thessaloniki**).
+2. **Mittag (12:30 – 14:30 Uhr – Jahrhundert-Keller ums Eck):** Nur 2 Gehminuten vom Apartment hinab in den schilderlosen 1887er-Weinkeller **Diporto** (Kichererbseneintopf, krosse Sardinen & Fass-Retsina im Kupferkrug) oder nebenan zu **Ta Karamanlidika tou Fani**.
+3. **Nachmittag & Sonnenuntergang (15:00 – 19:30 Uhr – Meerluft & Riviera-Sunset):** In 14 Minuten per Uber an die Küste nach Alimos (auf Wunsch mit kurzem Panorama-Stopp auf dem **SNFCC-Lighthouse**): Erst Strandspaziergang & kaltes Bier unter Palmen im **Bolivar Beach Club**, danach 250 Meter weiter an der Promenade in die 100 % wetterfeste **Peñarrubia Lounge** für *Peña Zombies*, Burger und den **Sonnenuntergang (17:20 Uhr)** direkt über der Brandung.
+4. **Abend & Späte Nacht (ab 21:00 – 03:30 Uhr – Das große Cocktail-Dreieck):** Zurück im Zentrum erst ein schnelles, handgerolltes Steinofen-*Lahmacun* bei **Feyrouz**, danach rein ins Epizentrum der europäischen Barkultur: **Baba au Rum** (Rum & Tiki in der Fußgängerzone), 90 Meter weiter **The Bar in Front of the Bar** (inkl. Geheimbar *Rumble in the Jungle*) und **Barro Negro**.
+
+#### Freitag – Vorschlag 2: Königsgarten, Syntagma-Schaumwein, Akropolis-Rooftop & Holzfeuer-Nacht
+1. **Vormittag (Traditions-Start):** Stichfester Schafsjoghurt mit Thymianhonig, knusprige *Tiropita* und heiße *Loukoumades* in Athens letzter Traditions-Molkerei **Galaktopoleio I Stani (seit 1931)** (5 Min. ab Apartment).
+2. **Mittag & Nachmittag (13:30 – 17:00 Uhr – Grüne Höfe, Bubbles & Craft Beer):** Entspanntes Daydrinking unter der historischen Palme von Königin Amalia im **Black Duck Garden** (Flaschenwein ab 22 € & *Pulled Pork Sliders*), danach Spaziergang Richtung Syntagma unter die Platanen vorm **Warehouse CO2** (29+ offene Schaumweine & Burrata-Platten) und direkt Tür an Tür auf ein frisch gezapftes *Jasmine IPA* ins **Brew Str** (oder Abstecher in den **Strange Brew Taproom** in Koukaki).
+3. **Sundowner (17:00 – 19:00 Uhr – Postkartenblick auf die Akropolis):** Pünktlich zum Sonnenuntergang mit dem Aufzug hoch auf die Dachterrasse von **Couleur Locale** oder in den großen Dachgarten der **360 Cocktail Bar** direkt über dem Monastiraki-Platz.
+4. **Abend & Späte Nacht (ab 20:30 – 03:30 Uhr – Offenes Feuer, Vinyl & Bar-Hopping):** Großes Abendessen über offenem Olivenholzfeuer bei **Pharaoh** (mit 400 Naturweinen und fettem Vinyl-Soundsystem) oder in einer unserer Hof-Tavernen in Psyri, gefolgt von einer langen Nacht zwischen **TAF**, **The Clumsies** oder den Petralona-Hallen (**Upupa Epops** & **Line Athens**).
+
+---
+
+### 🏃♂️🔥 SAMSTAG (07.11. — Marathon-Samstag: Komplett zu Fuß ohne Taxi-Stau!)
+
+#### Samstag – Vorschlag 1: Das große Exarchia-Manöver (Wochenmarkt, Schulhof-Meze, Naturwein & Rockkneipen bis 05:00 Uhr)
+1. **Vormittag / Mittag (11:00 – 13:30 Uhr – Samstagsmarkt in der Sonne):** Nach dem Kater-Frühstück ums Apartment spazieren wir zu Fuß (auf Wunsch mit Abstecher ins **Archäologische Nationalmuseum**) direkt mitten rein in den berühmten **Samstagsmarkt auf der Kallidromiou-Straße** (*Laiki Agora*) — Oliven probieren und den ersten Tsipouro in der Mittagssonne heben!
+2. **Nachmittag (13:30 – 16:30 Uhr – Große Schulhof-Meze-Tafel):** Direkt an der Marktstraße (`Kallidromiou 69`) lassen wir im begrünten alten Grundschulhof vom **Ama Lachei** die Tischmitte mit Grillkäse, Apaki, geschmortem Lamm, Karaffen-Tsipouro und Wein vollknallen.
+3. **Sonnenuntergang (16:45 – 18:00 Uhr – Wegbier über den Dächern):** Kurzer 5-Minuten-Aufstieg mit einem kalten Wegbier auf den felsigen **Strefi-Hügel** direkt hinter der Kallidromiou für den 17:20-Uhr-Blick bis zur Akropolis (oder direkt an die Holzkabeltrommeln vorm **Warehouse Exarchia**).
+4. **Abend (18:30 – 23:30 Uhr – Griechischer Naturwein & 16-Teller-Taverne):** Erst eine große Weinrunde durch ~100 offene griechische Weine bei **Tanini Agapi Mou** (oder Holzfeuer & Vinyl an der Theke im **Pharaoh**), danach zünftiges Abendmahl im begrünten Garten der Traditions-Taverne **Rozalia (`Valtetsiou 59`)**, wo das große Silbertablett mit 16 Vorspeisen vorfährt.
+5. **Späte Nacht (23:30 – 05:00 Uhr – Craft Beer auf der Gasse & Koletti-Endspurt):** Keine 60 Meter neben *Rozalia* erst frisch Gezapftes von 9 griechischen Hähnen und ein *Straka Hot Dog* vorm **strakastrüka (`Andrea Metaxa 19`)**, danach 250 Meter weiter zum legendären Rock- und Kneipen-Finale ins **to Spirto** (offen bis 05:00 Uhr früh!) und auf die **Koletti-Meile** (*Revolt Street Bar* & *Mavros Gatos*)!
+
+#### Samstag – Vorschlag 2: Psyri-, Markt- & Altstadt-Runde (Hinterhof-Gelage, Craft Beer, Rooftop & großes Finale)
+1. **Vormittag & Mittag (11:30 – 15:00 Uhr – Heimatrevier & Markthallen):** Alles staufrei direkt ab Apartment: Nach einer frischen *Bougatsa* und einem *Koulouri* streifen wir über die duftende Gewürzstraße *Evripidou* und kehren zum ausgedehnten Mittags-Gelage im weiß-blauen Hinterhof der **Avli Psyrri**, unter den Pastirma-Keulen bei **Ta Karamanlidika tou Fani** oder beim letzten Kessel-Samstag im **Diporto** ein.
+2. **Nachmittag & Sundowner (15:30 – 18:30 Uhr – Königsgarten, Hopfen & Akropolis-Sonne):** Entspannte Nachmittagsrunde im grünen Palmenhof vom **Black Duck Garden** oder auf ein ehrliches Fassbier samt heißem *Feta-me-Meli*-Filohörnchen bei **Tales of Ales**, bevor wir um 17:00 Uhr zum letzten großen Sundowner auf das Dach von **Couleur Locale**, **360 Cocktail Bar** oder **Bios** steigen.
+3. **Abend & Letzte Nacht (ab 20:30 – 04:00 Uhr – Weinfass-Festmahl & Best-of-Bar-Marathon):** Großes Samstagabend-Gelage mit geschmorter Schweinshaxe, Lamm und Live-Rembetiko zwischen den riesigen Weinfässern der **Klimataria** (nur 2 Min. vom Apartment — ideal für einen kurzen Boxenstopp!) und danach der krönende Abschluss-Marathon durch unsere Favoriten aus dem Zentrum (**Baba au Rum**, **The Bar in Front of the Bar**, **The Clumsies**, **TAF**) oder Petralona (**Line Athens** & **Spirtokouto**).
