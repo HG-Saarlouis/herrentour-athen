@@ -21,8 +21,8 @@ HOME_BASE = {
     "name": "ATHINUM 1 | HOME BASE",
     "subtitle": "Korinnis 11 (Ecke Platia Eleftherias / Koumoundourou)",
     "address": "Korinnis 11, 105 53 Athen",
-    "lat": 37.98067,
-    "lng": 23.72257,
+    "lat": 37.98074,
+    "lng": 23.72262,
     "gmaps": "https://www.google.com/maps/place/ATHINUM+1+%7C+by+Valenci/@37.9806589,23.7223653,61m/data=!3m1!1e3!4m6!3m5!1s0x14a1bd007b9342ff:0x8d7f2bb0512213cf!8m2!3d37.9806698!4d23.7225669!16s%2Fg%2F11xz165djq"
 }
 
@@ -43,8 +43,8 @@ SPOT_META = {
         "food_note": "Reine Tränke für den Durst — die Grundlage schaffen wir uns vorher im Kiez!",
         "signature": "Eiskalter Papoto-Slush (mit echtem Eis am Stiel im Glas!) & frisch gezapftes Fassbier",
         "insider": "Wir nehmen den Seiteneingang auf der Salaminos 13 und fahren direkt hoch aufs Dach: 5 Minuten vorm Bett noch ein letztes Glas mit beleuchteter Akropolis vor der Nase.",
-        "lat": 37.97918,
-        "lng": 23.71915,
+        "lat": 37.97982,
+        "lng": 23.71807,
     },
     2: {
         "short_title": "UPUPA EPOPS",
@@ -61,8 +61,8 @@ SPOT_META = {
         "food_note": "Deftiges Barfood & knusprige Sauerteig-Pizza bis nach Mitternacht (00:30 Uhr)",
         "signature": "Upupa Epops Haus-Cocktail im großen Kelch & Trüffel-Pilz-Pinsa zum Teilen",
         "insider": "Drei zusammengebaute 1930er-Steinhäuser voller Charakter: Unser perfekter Auftakt auf der West-Route, bevor wir 400 Meter weiter ins Line Athens marschieren.",
-        "lat": 37.97152,
-        "lng": 23.71184,
+        "lat": 37.97415,
+        "lng": 23.71027,
     },
     3: {
         "short_title": "LINE ATHENS",
@@ -79,8 +79,8 @@ SPOT_META = {
         "food_note": "Hauseigene Sauerteig-Bäckerei & handgemachte Bar-Klassiker auf Spitzenniveau",
         "signature": "Hausgemachte Fruchtweine ('Why Not' Erdbeer/Feige/Granatapfel) & der legendäre 'Line's Hot Dog'",
         "insider": "Riesige historische Werkhalle mit ordentlich Wumms: Ab 21:30 Uhr dreht der DJ auf, und wir stehen goldrichtig an der langen Tafel.",
-        "lat": 37.96885,
-        "lng": 23.70995,
+        "lat": 37.96860,
+        "lng": 23.70330,
     },
     4: {
         "short_title": "TAF (THE ART FOUNDATION)",
@@ -97,8 +97,8 @@ SPOT_META = {
         "food_note": "Hier wird flüssig ernährt — gegessen haben wir vorher ordentlich in Psyri!",
         "signature": "Starker Freddo Espresso am Nachmittag · Eiskalte Highballs & ehrliche Gin-Tonics bei Nacht",
         "insider": "Einfach durch den unscheinbaren Torbogen auf der Flohmarktgasse Normanou 5 schlüpfen — und falls wir Höhenluft wollen, liegt Couleur Locale direkt Haus an Haus auf der Nr. 3!",
-        "lat": 37.97622,
-        "lng": 23.72438,
+        "lat": 37.97651,
+        "lng": 23.72440,
     },
     5: {
         "short_title": "COULEUR LOCALE",
@@ -115,8 +115,8 @@ SPOT_META = {
         "food_note": "Solide Stärkung mit Burgern, Pinsa & Fingerfood direkt zum Glas",
         "signature": "Erfrischender Mediterranean Mule & die volle Ladung Akropolis-Abendsonne um 17:00 Uhr",
         "insider": "Rein in die Ladenpassage Normanou 3 und mit dem Aufzug in den 3. Stock: Dank Windschutz und Heizstrahlern sitzen wir hier auch im November wie die Könige.",
-        "lat": 37.97628,
-        "lng": 23.72452,
+        "lat": 37.97658,
+        "lng": 23.72442,
     },
     6: {
         "short_title": "360 COCKTAIL BAR",
@@ -133,8 +133,8 @@ SPOT_META = {
         "food_note": "Warme Küche und handfeste Bar-Snacks für den kleinen oder großen Hunger zwischendurch",
         "signature": "360 Passion & würzige Mastiha-Cocktails direkt an der runden 360°-Insel-Theke",
         "insider": "Mit 8 Mann steuern wir ohne Umwege die langen Hochtische an der offenen Bar an — kein Reservierungsstress, beste Aussicht, volle Gläser.",
-        "lat": 37.97621,
-        "lng": 23.72548,
+        "lat": 37.97644,
+        "lng": 23.72558,
     },
     7: {
         "short_title": "THE CLUMSIES",
@@ -152,7 +152,7 @@ SPOT_META = {
         "signature": "Aegean Negroni (mit Fenchel, Mastiha & Diktamos) & Popeye Smash — da bleibt kein Auge trocken",
         "insider": "Donnerstagabend zwischen 19:00 und 21:30 Uhr marschieren wir hier ganz entspannt ohne Wochenend-Schlange rein und kapern die lange Holztheke oder den warmen Innenhof.",
         "lat": 37.97896,
-        "lng": 23.72942,
+        "lng": 23.72982,
     },
     8: {
         "short_title": "BABA AU RUM",
@@ -169,8 +169,8 @@ SPOT_META = {
         "food_note": "Reine Edel-Tränke mit Nüssen und Oliven — der Rum hat hier das alleinige Sagen",
         "signature": "Baba Zombie (Vorsicht, Umdrehungen!), Mai Tai nach 1944er-Originalrezept & Spicy Baba",
         "insider": "Mit unserer 8er-Truppe stellen wir uns abends standesgemäß an die Stehtische auf der Fußgängerzone Klitiou — und bis zur Bar in Front of the Bar sind es nur 90 Meter!",
-        "lat": 37.97748,
-        "lng": 23.72985,
+        "lat": 37.97740,
+        "lng": 23.72978,
     },
     9: {
         "short_title": "THE BAR IN FRONT OF THE BAR",
@@ -187,8 +187,8 @@ SPOT_META = {
         "food_note": "Hier zählt nur das flüssige Handwerk direkt auf der Gasse",
         "signature": "Täglich komplett neue 8-Drinks-Karte, serviert in auf -24 °C tiefgefrorenen Gläsern",
         "insider": "Zwei Fliegen mit einer Klappe: Vorne auf der Fußgängerzone Petraki perfektes Stehtrinken für 8 Mann, und hinter der Spiegeltür wartet die Geheimbar 'Rumble in the Jungle'.",
-        "lat": 37.97654,
-        "lng": 23.73162,
+        "lat": 37.97546,
+        "lng": 23.73188,
     },
     10: {
         "short_title": "BARRO NEGRO",
@@ -385,8 +385,8 @@ SPOT_META = {
         "food_note": "Keine Speisekarte, kein Schnickschnack: Es kommt heiß auf den Tisch, was morgens im Kessel schmort",
         "signature": "Deftiger Kichererbseneintopf (Revithia), krosse Sardinen, Fava & eiskalter Fass-Retsina aus dem Blechkrug",
         "insider": "Zwei Minuten ab Haustür die steile Steintreppe in den historischen Weinkeller hinabsteigen, Bargeld bereithalten und den besten Mittags-Boxenstopp der Stadt feiern.",
-        "lat": 37.98035,
-        "lng": 23.72512,
+        "lat": 37.98073,
+        "lng": 23.72584,
     },
     21: {
         "short_title": "TA KARAMANLIDIKA TOU FANI",
@@ -403,8 +403,8 @@ SPOT_META = {
         "food_note": "Heiße Gusseisenpfannen, würzige Reifewürste, Bergkäse & zum Abschied Karottenhalva aufs Haus",
         "signature": "Sahanaki Karamanlidiko (Pastirma, Sudjuk & Spiegeleier brutzeln in der Pfanne) + gereifter Tsipouro",
         "insider": "Keine 4 Minuten vom Apartment: Neben dem Stammhaus an der Sokratous 1 gibt es noch das Schwesterhaus Ergastiri auf der Ermou 119 — perfekt für den großen Aufschnitt- & Pfannen-Hunger zwischendurch!",
-        "lat": 37.98018,
-        "lng": 23.72615,
+        "lat": 37.98014,
+        "lng": 23.72569,
     },
     22: {
         "short_title": "FEYROUZ",
@@ -421,8 +421,8 @@ SPOT_META = {
         "food_note": "Unschlagbare 15-Minuten-Unterlage (ca. 5,50 €) direkt auf die Hand, bevor es an die großen Theken geht",
         "signature": "Feyrouz Lahmacun mit geräuchertem Babaganoush, Pastirma-Peinirli (Teigschiffchen) & heißes Künefe",
         "insider": "Beide Seiten der Gasse gehören Feyrouz: Erst herzhafte Lahmacun-Rolle auf die Hand, dann gegenüber frisches Baklava holen — die ideale Grundlage vor den Bars!",
-        "lat": 37.97762,
-        "lng": 23.72812,
+        "lat": 37.97815,
+        "lng": 23.72774,
     },
     23: {
         "short_title": "BOLIVAR BEACH CLUB",
@@ -439,8 +439,8 @@ SPOT_META = {
         "food_note": "Überdachter Holz-Pavillon mit Meeresfrüchten, saftigen Burgern & kühlen Getränken direkt am Strand",
         "signature": "Runde über die Landzunge drehen + eiskalter Freddo Cappuccino oder das erste Helle mit Wellenblick",
         "insider": "Im November lassen wir die Badehose im Koffer: Erst hier bei Herbstsonne die Meeresbrise schnuppern und dann zum Sonnenuntergang 250 Meter weiter ins Peñarrubia ziehen!",
-        "lat": 37.90785,
-        "lng": 23.71312,
+        "lat": 37.90820,
+        "lng": 23.71467,
     },
     24: {
         "short_title": "PEÑARRUBIA LOUNGE",
@@ -457,8 +457,8 @@ SPOT_META = {
         "food_note": "Durchgehend warme Küche mit Black-Angus-Burgern, Pinsa, Steaks & Sushi",
         "signature": "Sundowner-Cocktails um Schlag 17:20 Uhr auf dem Holzdeck, wenn die Sonne im Saronischen Golf versinkt",
         "insider": "Unser 100 % wetterfester Küsten-Anker an 365 Tagen im Jahr: Selbst wenn im November eine steife Brise weht, sitzen wir hier hinter Glas und unterm Heizstrahler in der ersten Reihe.",
-        "lat": 37.90969,
-        "lng": 23.71106,
+        "lat": 37.90957,
+        "lng": 23.71111,
     },
     25: {
         "short_title": "WAREHOUSE EXARCHIA",
@@ -475,8 +475,8 @@ SPOT_META = {
         "food_note": "Feine, handfeste Bistro-Küche von Burrata mit Avgotaracho bis zu frischer Pasta und Steaks",
         "signature": "Wein-Runde nach Glas (über 80 offene Positionen!), Burrata-Avgotaracho & starker Freddo Espresso",
         "insider": "Ehemaliges Verlagshaus direkt am Eingang der Fußgängerzone Valtetsiou: Wir schnappen uns draußen die urigen Holzkabeltrommel-Tische und beobachten das bunte Treiben.",
-        "lat": 37.98455,
-        "lng": 23.73475,
+        "lat": 37.98414,
+        "lng": 23.73676,
     },
     26: {
         "short_title": "MINU",
@@ -493,8 +493,8 @@ SPOT_META = {
         "food_note": "Rettung am Morgen: Pochierte Eier, Rührei auf Sauerteig, saftiges Katsu Sando & starker Kaffee",
         "signature": "'Happy Egg Bowl', 'Scrambleness' auf Sauerteig, deftiges Pork Katsu Sando & doppelter Freddo Cappuccino",
         "insider": "Einmal aus der Haustür über den Platz fallen und wir sitzen im grünen Innenhof: Perfekt, um nach einer langen Nacht die Lebensgeister der Ochos wieder hochzufahren.",
-        "lat": 37.97945,
-        "lng": 23.72295,
+        "lat": 37.97808,
+        "lng": 23.72115,
     },
     27: {
         "short_title": "BREW STR",
@@ -511,8 +511,8 @@ SPOT_META = {
         "food_note": "Hier geht es ums flüssige Gold vom Fass und aus den Kühlschränken (kleine Snacks zum Bier)",
         "signature": "Frisch gezapfte griechische IPAs & Pale Ales direkt im Stehen auf dem Gehweg der Nikis-Straße",
         "insider": "Genau der richtige Durstlöscher nach dem Akropolis-Spaziergang — und falls jemand in der Gruppe lieber Schaumwein trinkt, liegt Warehouse CO2 nur 120 Meter weiter.",
-        "lat": 37.97360,
-        "lng": 23.73360,
+        "lat": 37.97287,
+        "lng": 23.73302,
     },
     28: {
         "short_title": "STRANGE BREW TAPROOM",
@@ -529,8 +529,8 @@ SPOT_META = {
         "food_note": "Ehrlicher Brauerei-Ausschank mit Knabbereien zum frisch gezapften Hopfen",
         "signature": "Das berühmte hausgebraute 'Jasmine IPA' (6,2 %), 'Dr. Haze' Double NEIPA & 'Uncle Jam's' direkt ab Quelle",
         "insider": "Überall in Athen trinken wir ihr Jasmine IPA — hier in Koukaki südlich der Akropolis stehen wir direkt an den 10 Hähnen der Braumeister!",
-        "lat": 37.96340,
-        "lng": 23.72480,
+        "lat": 37.96262,
+        "lng": 23.72311,
     },
     29: {
         "short_title": "TO SPIRTO & KOLETTI-ACHSE",
@@ -547,8 +547,8 @@ SPOT_META = {
         "food_note": "Klassische Nachtkneipen — die feste Nahrung haben wir vorher bei Rozalia und strakastrüka erledigt",
         "signature": "Anständige Longdrinks (6–7 €) & kaltes Bier im 'to Spirto' oder Blues an der 12-Meter-Holztheke im 'Mavros Gatos'",
         "insider": "Wenn überall sonst schon die Stühle hochgestellt werden, brennt hier am Wochenende bis 05:00 Uhr morgens noch das Licht — keine 3 Minuten vom strakastrüka entfernt.",
-        "lat": 37.98485,
-        "lng": 23.73365,
+        "lat": 37.98499,
+        "lng": 23.73453,
     },
     30: {
         "short_title": "SPIRTOKOUTO BAR",
@@ -565,8 +565,8 @@ SPOT_META = {
         "food_note": "Reine Spätnacht-Kneipe — gegessen wird vorher im Upupa Epops oder Line Athens",
         "signature": "Eiskaltes Bier, ehrliche Kurze & geradeaus gemixte Longdrinks zwischen tausenden alten Musikkassetten",
         "insider": "Liegt nur 150 Meter neben dem Upupa Epops: Wenn uns auf der West-Route nach Mitternacht noch nach Gitarrenmusik und einem herzhaften Absacker ist, fallen wir hier ein.",
-        "lat": 37.97620,
-        "lng": 23.71150,
+        "lat": 37.97354,
+        "lng": 23.71092,
     },
     31: {
         "short_title": "WAREHOUSE CO2",
@@ -583,8 +583,8 @@ SPOT_META = {
         "food_note": "Feinkost-Platten, Rinder-Carpaccio, Bruschetta & frische Burrata zum Glas",
         "signature": "Griechische Pet-Nats & Winzer-Schaumweine im offenen Ausschank (29+ Sorten!) + Burrata mit Avgotaracho",
         "insider": "Der kleine Bruder des Warehouse Exarchia unter schattigen Platanen — und für die Biertrinker unter uns liegt Brew Str nur 120 Meter die Straße runter.",
-        "lat": 37.97425,
-        "lng": 23.73380,
+        "lat": 37.97428,
+        "lng": 23.73314,
     },
     32: {
         "short_title": "USURUM BRUNCH & COCKTAILS",
@@ -601,8 +601,8 @@ SPOT_META = {
         "food_note": "Durchgehend warme Frühstücks- und Brunch-Küche von 07:30 bis 17:00 Uhr für angeschlagene Matrosen",
         "signature": "Würzige Shakshuka-Pfanne, Buttermilk Chicken Waffle, Eggs Benedict auf Sauerteig & eine scharfe Bloody Mary",
         "insider": "Nur 3 Minuten vom Apartment: Sperrt schon um 07:30 Uhr für die Frühaufsteher auf und hat im großen Innenhof immer Platz für unsere komplette 8er-Mannschaft.",
-        "lat": 37.97820,
-        "lng": 23.72360,
+        "lat": 37.97830,
+        "lng": 23.72232,
     },
     33: {
         "short_title": "BOUGATSADIKO THESSALONIKI & KOULOURI",
@@ -619,8 +619,8 @@ SPOT_META = {
         "food_note": "Dampfend heiße Bougatsa aus dem Blech (2,80–4,20 €) & knusprige Sesamringe für ein paar Cent",
         "signature": "Deftige Bougatsa mit Hackfleisch (Kima) oder Feta + süße Grießcreme-Bougatsa & frisches Koulouri nebenan",
         "insider": "Hier fliegt der handgemachte Filoteig morgens noch live durch die Backstube — und 50 Meter weiter auf der Karaiskaki 27 holen wir uns die besten Sesamringe seit 1962.",
-        "lat": 37.97810,
-        "lng": 23.72485,
+        "lat": 37.97830,
+        "lng": 23.72492,
     },
     34: {
         "short_title": "GALAKTOPOLEIO I STANI (seit 1931)",
@@ -637,8 +637,8 @@ SPOT_META = {
         "food_note": "Stichfester Schafsjoghurt, goldene Käsepasteten (Tiropita) & warme Honigbällchen wie vor 90 Jahren",
         "signature": "Schafsjoghurt mit dicker Rahmhaut, Thymianhonig & Walnüssen + frisch ausgebackene Loukoumades",
         "insider": "Überlebt seit 1931 jeden Trend: Schafsjoghurt mit Honig und Walnüssen so fest, dass der Löffel drin stehen bleibt — unsere ehrliche Kater-Rettung am Freitag- oder Samstagmorgen!",
-        "lat": 37.98410,
-        "lng": 23.72690,
+        "lat": 37.98545,
+        "lng": 23.72794,
     }
 }
 
@@ -990,7 +990,7 @@ def generate_kml(spots):
     kml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 34 Dossiers + Home Base)</name>
+    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 34 Locations + Home Base)</name>
     <description>Kuratierter Athen-Kompass der Ochos (05.11.–08.11.2026)</description>
     {''.join(placemarks)}
   </Document>
@@ -2258,7 +2258,7 @@ def build_html(spots, master_html):
     <nav class="sticky-nav">
       <div class="mode-tabs">
         <button class="mode-tab active" data-view="dossiers" onclick="switchView('dossiers')">
-          <span>DOSSIERS</span>
+          <span>LOCATIONS</span>
         </button>
         <button class="mode-tab" data-view="map" onclick="switchView('map')">
           <span>KARTE</span>
@@ -2336,7 +2336,7 @@ def build_html(spots, master_html):
         <button class="route-day-tab" data-rday="fr" onclick="setRouteDay('fr')">FREITAG</button>
         <button class="route-day-tab" data-rday="sa" onclick="setRouteDay('sa')">SAMSTAG</button>
       </div>
-      <div class="route-intro-note">LOCKERE IDEEN &amp; BAUKASTEN-VORSCHLÄGE (KEIN FIXER FAHRPLAN) — TIPPE AUF EINEN STOPP FÜR DAS DOSSIER</div>
+      <div class="route-intro-note">LOCKERE IDEEN &amp; BAUKASTEN-VORSCHLÄGE (KEIN FIXER FAHRPLAN) — TIPPE AUF EINEN STOPP FÜR DIE LOCATION</div>
       <div class="routes-wrap" id="routesContainer"></div>
     </section>
 
@@ -2485,7 +2485,7 @@ def build_html(spots, master_html):
       }});
 
       const lbl = document.getElementById('resultsCountLabel');
-      if (lbl) lbl.textContent = `ZEIGE ${{list.length}} VON ${{SPOTS.length}} DOSSIERS`;
+      if (lbl) lbl.textContent = `ZEIGE ${{list.length}} VON ${{SPOTS.length}} LOCATIONS`;
 
       const grid = document.getElementById('spotsGrid');
       if (!list.length) {{
@@ -2540,7 +2540,7 @@ def build_html(spots, master_html):
 
           <div class="card-actions">
             <button class="card-btn primary" onclick="openDrawer(${{s.id}})">
-              DOSSIER LESEN + ${{s.images.length}} FOTOS
+              LOCATION ÖFFNEN + ${{s.images.length}} FOTOS
             </button>
             <a class="card-btn" href="${{s.gmaps}}" target="_blank" rel="noopener">
               GOOGLE MAPS ↗
@@ -2578,7 +2578,7 @@ def build_html(spots, master_html):
 
       const galleryHtml = s.images.length ? `
         <div class="drawer-gallery-hint">
-          <span>FOTO-DOSSIER (${{s.images.length}} BILDER)</span>
+          <span>LOCATION-FOTOS (${{s.images.length}} BILDER)</span>
           <span>Tippen &amp; Wischen für Vollbild-Galerie →</span>
         </div>
         <div class="drawer-gallery">
@@ -2732,7 +2732,7 @@ def build_html(spots, master_html):
                   <div class="step-desc">${{st.desc}}</div>
                 </div>
                 <div class="step-action">
-                  ${{st.spot_id ? `<button class="sharp-btn" onclick="openDrawer(${{st.spot_id}})">DOSSIER #${{String(st.spot_id).padStart(2,'0')}} →</button>` : `<a class="sharp-btn" href="${{HOME_BASE.gmaps}}" target="_blank" rel="noopener">HOME PIN ↗</a>`}}
+                  ${{st.spot_id ? `<button class="sharp-btn" onclick="openDrawer(${{st.spot_id}})">LOCATION #${{String(st.spot_id).padStart(2,'0')}} →</button>` : `<a class="sharp-btn" href="${{HOME_BASE.gmaps}}" target="_blank" rel="noopener">HOME PIN ↗</a>`}}
                 </div>
               </div>
             `).join('')}}
@@ -2802,7 +2802,7 @@ def build_html(spots, master_html):
             <div style="font-size:11px;margin-bottom:6px;">${{s.walk_text}} ab Apartment · ${{s.food_status}}</div>
             <div style="font-size:11px;opacity:0.85;margin-bottom:10px;"><strong>Tipp:</strong> ${{s.signature}}</div>
             <div style="display:flex;gap:6px;">
-              <button class="sharp-btn active" style="flex:1;justify-content:center;" onclick="openDrawer(${{s.id}})">DOSSIER</button>
+              <button class="sharp-btn active" style="flex:1;justify-content:center;" onclick="openDrawer(${{s.id}})">LOCATION</button>
               <a class="sharp-btn" href="${{s.gmaps}}" target="_blank" rel="noopener">MAPS ↗</a>
             </div>
           </div>

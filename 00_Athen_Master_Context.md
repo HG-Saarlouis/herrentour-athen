@@ -79,42 +79,42 @@ Damit wir uns nicht wie blutige Pauschal-Touristen anstellen, die um 18:30 Uhr e
 
 ---
 
-## 📂 3. Alle 34 Detail-Dossiers im Direktzugriff
+## 📂 3. Alle 34 Locations im Direktzugriff
 
-1. [Dossier #1: BIOS (`dossiers/01_BIOS.md`)](dossiers/01_BIOS.md)
-2. [Dossier #2: Upupa Epops (`dossiers/02_Upupa_Epops.md`)](dossiers/02_Upupa_Epops.md)
-3. [Dossier #3: Line Athens (`dossiers/03_Line_Athens.md`)](dossiers/03_Line_Athens.md)
-4. [Dossier #4: TAF – The Art Foundation (`dossiers/04_TAF_The_Art_Foundation.md`)](dossiers/04_TAF_The_Art_Foundation.md)
-5. [Dossier #5: Couleur Locale (`dossiers/05_Couleur_Locale.md`)](dossiers/05_Couleur_Locale.md)
-6. [Dossier #6: 360 Cocktail Bar & Restaurant (`dossiers/06_360_Cocktail_Bar.md`)](dossiers/06_360_Cocktail_Bar.md)
-7. [Dossier #7: The Clumsies (`dossiers/07_The_Clumsies.md`)](dossiers/07_The_Clumsies.md)
-8. [Dossier #8: Baba au Rum (`dossiers/08_Baba_au_Rum.md`)](dossiers/08_Baba_au_Rum.md)
-9. [Dossier #9: The Bar in Front of the Bar & Rumble in the Jungle (`dossiers/09_The_Bar_in_Front_of_the_Bar.md`)](dossiers/09_The_Bar_in_Front_of_the_Bar.md)
-10. [Dossier #10: Barro Negro Athens (`dossiers/10_Barro_Negro.md`)](dossiers/10_Barro_Negro.md)
-11. [Dossier #11: Black Duck Garden – Athens City Museum Bistrot (`dossiers/11_Black_Duck_Garden.md`)](dossiers/11_Black_Duck_Garden.md)
-12. [Dossier #12: Tales of Ales (`dossiers/12_Tales_of_Ales_Craft_Beer.md`)](dossiers/12_Tales_of_Ales_Craft_Beer.md)
-13. [Dossier #13: Avli Psyrri (`dossiers/13_Avli_Psyrri.md`)](dossiers/13_Avli_Psyrri.md)
-14. [Dossier #14: Ama Lachei (`dossiers/14_Ama_Lachei.md`)](dossiers/14_Ama_Lachei.md)
-15. [Dossier #15: Pharaoh (`dossiers/15_Pharaoh.md`)](dossiers/15_Pharaoh.md)
-16. [Dossier #16: Tanini Agapi Mou (`dossiers/16_Tanini_Agapi_Mou.md`)](dossiers/16_Tanini_Agapi_Mou.md)
-17. [Dossier #17: Rozalia Exarchia (`dossiers/17_Rozalia_Exarchia.md`)](dossiers/17_Rozalia_Exarchia.md)
-18. [Dossier #18: strakastrüka Exarchia (`dossiers/18_Strakastruka_Spirto_Exarchia_Nightlife.md`)](dossiers/18_Strakastruka_Spirto_Exarchia_Nightlife.md)
-19. [Dossier #19: Klimataria (`dossiers/19_Klimataria.md`)](dossiers/19_Klimataria.md)
-20. [Dossier #20: Diporto (`dossiers/20_Diporto.md`)](dossiers/20_Diporto.md)
-21. [Dossier #21: Ta Karamanlidika tou Fani (`dossiers/21_Karamanlidika.md`)](dossiers/21_Karamanlidika.md)
-22. [Dossier #22: Feyrouz (`dossiers/22_Feyrouz.md`)](dossiers/22_Feyrouz.md)
-23. [Dossier #23: Bolivar Beach Club (`dossiers/23_Bolivar_Beach_Club.md`)](dossiers/23_Bolivar_Beach_Club.md)
-24. [Dossier #24: Peñarrubia Lounge (`dossiers/24_Penarrubia_Lounge.md`)](dossiers/24_Penarrubia_Lounge.md)
-25. [Dossier #25: Warehouse Exarchia (`dossiers/25_Warehouse.md`)](dossiers/25_Warehouse.md)
-26. [Dossier #26: Minu (`dossiers/26_Minu.md`)](dossiers/26_Minu.md)
-27. [Dossier #27: Brew Str – Athens Beer Shop & Bar (`dossiers/27_Brew_Str.md`)](dossiers/27_Brew_Str.md)
-28. [Dossier #28: Strange Brew Taproom & Bottleshop (`dossiers/28_Strange_Brew_Taproom.md`)](dossiers/28_Strange_Brew_Taproom.md)
-29. [Dossier #29: to Spirto & Koletti-Achse (`dossiers/29_To_Spirto_Exarchia.md`)](dossiers/29_To_Spirto_Exarchia.md)
-30. [Dossier #30: Spirtokouto Bar Petralona (`dossiers/30_Spirtokouto_Petralona.md`)](dossiers/30_Spirtokouto_Petralona.md)
-31. [Dossier #31: Warehouse CO2 (`dossiers/31_Warehouse_CO2.md`)](dossiers/31_Warehouse_CO2.md)
-32. [Dossier #32: Usurum Brunch & Cocktails (`dossiers/32_Usurum_Brunch.md`)](dossiers/32_Usurum_Brunch.md)
-33. [Dossier #33: Bougatsadiko I Thessaloniki & To Koulouri tou Psyrri (`dossiers/33_Bougatsadiko_Thessaloniki.md`)](dossiers/33_Bougatsadiko_Thessaloniki.md)
-34. [Dossier #34: Galaktopoleio I Stani 1931 (`dossiers/34_Stani_1931.md`)](dossiers/34_Stani_1931.md)
+1. [Location #1: BIOS (`dossiers/01_BIOS.md`)](dossiers/01_BIOS.md)
+2. [Location #2: Upupa Epops (`dossiers/02_Upupa_Epops.md`)](dossiers/02_Upupa_Epops.md)
+3. [Location #3: Line Athens (`dossiers/03_Line_Athens.md`)](dossiers/03_Line_Athens.md)
+4. [Location #4: TAF – The Art Foundation (`dossiers/04_TAF_The_Art_Foundation.md`)](dossiers/04_TAF_The_Art_Foundation.md)
+5. [Location #5: Couleur Locale (`dossiers/05_Couleur_Locale.md`)](dossiers/05_Couleur_Locale.md)
+6. [Location #6: 360 Cocktail Bar & Restaurant (`dossiers/06_360_Cocktail_Bar.md`)](dossiers/06_360_Cocktail_Bar.md)
+7. [Location #7: The Clumsies (`dossiers/07_The_Clumsies.md`)](dossiers/07_The_Clumsies.md)
+8. [Location #8: Baba au Rum (`dossiers/08_Baba_au_Rum.md`)](dossiers/08_Baba_au_Rum.md)
+9. [Location #9: The Bar in Front of the Bar & Rumble in the Jungle (`dossiers/09_The_Bar_in_Front_of_the_Bar.md`)](dossiers/09_The_Bar_in_Front_of_the_Bar.md)
+10. [Location #10: Barro Negro Athens (`dossiers/10_Barro_Negro.md`)](dossiers/10_Barro_Negro.md)
+11. [Location #11: Black Duck Garden – Athens City Museum Bistrot (`dossiers/11_Black_Duck_Garden.md`)](dossiers/11_Black_Duck_Garden.md)
+12. [Location #12: Tales of Ales (`dossiers/12_Tales_of_Ales_Craft_Beer.md`)](dossiers/12_Tales_of_Ales_Craft_Beer.md)
+13. [Location #13: Avli Psyrri (`dossiers/13_Avli_Psyrri.md`)](dossiers/13_Avli_Psyrri.md)
+14. [Location #14: Ama Lachei (`dossiers/14_Ama_Lachei.md`)](dossiers/14_Ama_Lachei.md)
+15. [Location #15: Pharaoh (`dossiers/15_Pharaoh.md`)](dossiers/15_Pharaoh.md)
+16. [Location #16: Tanini Agapi Mou (`dossiers/16_Tanini_Agapi_Mou.md`)](dossiers/16_Tanini_Agapi_Mou.md)
+17. [Location #17: Rozalia Exarchia (`dossiers/17_Rozalia_Exarchia.md`)](dossiers/17_Rozalia_Exarchia.md)
+18. [Location #18: strakastrüka Exarchia (`dossiers/18_Strakastruka_Spirto_Exarchia_Nightlife.md`)](dossiers/18_Strakastruka_Spirto_Exarchia_Nightlife.md)
+19. [Location #19: Klimataria (`dossiers/19_Klimataria.md`)](dossiers/19_Klimataria.md)
+20. [Location #20: Diporto (`dossiers/20_Diporto.md`)](dossiers/20_Diporto.md)
+21. [Location #21: Ta Karamanlidika tou Fani (`dossiers/21_Karamanlidika.md`)](dossiers/21_Karamanlidika.md)
+22. [Location #22: Feyrouz (`dossiers/22_Feyrouz.md`)](dossiers/22_Feyrouz.md)
+23. [Location #23: Bolivar Beach Club (`dossiers/23_Bolivar_Beach_Club.md`)](dossiers/23_Bolivar_Beach_Club.md)
+24. [Location #24: Peñarrubia Lounge (`dossiers/24_Penarrubia_Lounge.md`)](dossiers/24_Penarrubia_Lounge.md)
+25. [Location #25: Warehouse Exarchia (`dossiers/25_Warehouse.md`)](dossiers/25_Warehouse.md)
+26. [Location #26: Minu (`dossiers/26_Minu.md`)](dossiers/26_Minu.md)
+27. [Location #27: Brew Str – Athens Beer Shop & Bar (`dossiers/27_Brew_Str.md`)](dossiers/27_Brew_Str.md)
+28. [Location #28: Strange Brew Taproom & Bottleshop (`dossiers/28_Strange_Brew_Taproom.md`)](dossiers/28_Strange_Brew_Taproom.md)
+29. [Location #29: to Spirto & Koletti-Achse (`dossiers/29_To_Spirto_Exarchia.md`)](dossiers/29_To_Spirto_Exarchia.md)
+30. [Location #30: Spirtokouto Bar Petralona (`dossiers/30_Spirtokouto_Petralona.md`)](dossiers/30_Spirtokouto_Petralona.md)
+31. [Location #31: Warehouse CO2 (`dossiers/31_Warehouse_CO2.md`)](dossiers/31_Warehouse_CO2.md)
+32. [Location #32: Usurum Brunch & Cocktails (`dossiers/32_Usurum_Brunch.md`)](dossiers/32_Usurum_Brunch.md)
+33. [Location #33: Bougatsadiko I Thessaloniki & To Koulouri tou Psyrri (`dossiers/33_Bougatsadiko_Thessaloniki.md`)](dossiers/33_Bougatsadiko_Thessaloniki.md)
+34. [Location #34: Galaktopoleio I Stani 1931 (`dossiers/34_Stani_1931.md`)](dossiers/34_Stani_1931.md)
 
 ---
 
@@ -149,7 +149,7 @@ Damit wir uns nicht wie blutige Pauschal-Touristen anstellen, die um 18:30 Uhr e
 * **Diporto (`Sokratous 9 & Theatrou`):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Diporto+Sokratous+9+Athens) | Mo–Sa ca. 10:00–18:00 Uhr (So zu) | **200 m / 2 Min. ab Apartment** (direkt gegenüber von Klimataria). Schilderlose Keller-Legende seit 1887 unter riesigen Weinfässern, ohne Speisekarte: Kichererbsensuppe (*Revithia*), gebratene Sardinen, Fasswein/Retsina im Metallkrug, Cash only.
 * **Ta Karamanlidika tou Fani (`Sokratous 1 & Evripidou 52` + `Ermou 119`):** [Google Maps Sokratous 1](https://www.google.com/maps/search/?api=1&query=Ta+Karamanlidika+tou+Fani+Sokratous+1+Athens) / [Ermou 119](https://www.google.com/maps/search/?api=1&query=Karamanlidika+Ermou+119+Athens) | Mo–Sa 12:00–23:00 Uhr | **300 m / 4 Min. ab Apartment.** Feinkost-Mezedopolio unter hängenden Pastirma-Keulen: *Sahanaki Karamanlidiko* (Pastirma, Sudjuk & Bio-Spiegeleier in der Gusseisenpfanne), gereifter Tsipouro und Gratis-Joghurt zum Abschluss.
 * **Feyrouz (`Karori 23 & Agathonos 1`):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Feyrouz+Karori+23+Athens) | Mo–Do 12:00–22:00 Uhr, Fr & Sa 12:00–23:00 Uhr (So zu) | **650 m / 8 Min. ab Apartment** (neben *The Clumsies* & *Tales of Ales*). Handgerolltes Steinofen-*Lahmacun* mit geräuchertem Babaganoush, *Pastirma-/Sujuk-Peinirli*, Naturwein im Glas und gegenüber heißes *Künefe*.
-* **Unsere 4 Kater-Frühstücks-Retter vor der Haustür (`Dossiers #26, #32, #33, #34`):**
+* **Unsere 4 Kater-Frühstücks-Retter vor der Haustür (`Locations #26, #32, #33, #34`):**
   * **Minu (`Sarri 50`, 2 Min.):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Minu+Sarri+50+Athens) | Täglich ab 08:30/09:00 Uhr | Grünes Pflanzen-Wohnzimmer & Hof-Garten mit starkem *Freddo Espresso*, *Happy Egg Bowl* und saftigem *Pork Katsu Sando*.
   * **Usurum Brunch & Cocktails (`Lepeniotou 19`, 3 Min.):** [Google Maps](https://www.google.com/maps/search/?api=1&query=Usurum+Lepeniotou+19+Athens) | **Täglich schon ab 07:30 Uhr!** | Großer Garten-Hof (*Walk-ins only*) mit *Eggs Benedict*, *Shakshuka*, *Buttermilk Chicken Waffle* & Konter-*Bloody Marys*.
   * **Bougatsadiko I Thessaloniki (`Platia Iroon 1`) & To Koulouri tou Psyrri (`Karaiskaki 27`, 4 Min.):** [Maps Bougatsadiko](https://www.google.com/maps/search/?api=1&query=Bougatsadiko+Thessaloniki+Iroon+1+Psirri+Athens) / [Maps Koulouri](https://www.google.com/maps/search/?api=1&query=To+Koulouri+tou+Psyrri+Karaiskaki+27+Athens) | Täglich ab 06:30 Uhr | Live durch die Luft geschleuderter Filoteig (ofenheiße *Bougatsa* mit Hackfleisch, Feta oder Vanillecreme für 3–4 €) + 50 m weiter Athens kultigste Sesamringe seit 1962.

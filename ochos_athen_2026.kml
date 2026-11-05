@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 34 Dossiers + Home Base)</name>
+    <name>OCHO HERRENTOUR — ATHEN 2026 (Alle 34 Locations + Home Base)</name>
     <description>Kuratierter Athen-Kompass der Ochos (05.11.–08.11.2026)</description>
     
     <Placemark>
       <name>[00] ATHINUM 1 | HOME BASE</name>
       <description><![CDATA[<b>Korinnis 11 (Ecke Platia Eleftherias / Koumoundourou)</b><br/>Adresse: Korinnis 11, 105 53 Athen<br/><a href="https://www.google.com/maps/place/ATHINUM+1+%7C+by+Valenci/@37.9806589,23.7223653,61m/data=!3m1!1e3!4m6!3m5!1s0x14a1bd007b9342ff:0x8d7f2bb0512213cf!8m2!3d37.9806698!4d23.7225669!16s%2Fg%2F11xz165djq">Google Maps</a>]]></description>
-      <Point><coordinates>23.72257,37.98067,0</coordinates></Point>
+      <Point><coordinates>23.72262,37.98074,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[01] BIOS</name>
       <description><![CDATA[<b>ROOFTOP / SPÄTNACHT & DRINKS — Psyri / West</b><br/><b>Adresse:</b> Pireos 84, 104 35 Athen (400 m · 5 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 10:00–02:00 (Fr/Sa bis 03:00)<br/><b>Essen:</b> SNACKS ONLY (Reine Tränke für den Durst — die Grundlage schaffen wir uns vorher im Kiez!)<br/><b>Bestellung:</b> Eiskalter Papoto-Slush (mit echtem Eis am Stiel im Glas!) & frisch gezapftes Fassbier<br/><b>Insider:</b> Wir nehmen den Seiteneingang auf der Salaminos 13 und fahren direkt hoch aufs Dach: 5 Minuten vorm Bett noch ein letztes Glas mit beleuchteter Akropolis vor der Nase.<br/><a href='https://www.google.com/maps/search/?api=1&query=Bios+Athens&query_place_id=ChIJ_cOT3CC9oRQRcZdnJp_dsRA'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.71915,37.97918,0</coordinates></Point>
+      <Point><coordinates>23.71807,37.97982,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[02] UPUPA EPOPS</name>
       <description><![CDATA[<b>COCKTAILS / HOF & DAYDRINKING — Petralona</b><br/><b>Adresse:</b> Alkminis 7, 118 54 Kato Petralona (1,6 km · 20 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 10:00–02:00 (Fr/Sa bis 03:00)<br/><b>Essen:</b> BARFOOD / PIZZA (Deftiges Barfood & knusprige Sauerteig-Pizza bis nach Mitternacht (00:30 Uhr))<br/><b>Bestellung:</b> Upupa Epops Haus-Cocktail im großen Kelch & Trüffel-Pilz-Pinsa zum Teilen<br/><b>Insider:</b> Drei zusammengebaute 1930er-Steinhäuser voller Charakter: Unser perfekter Auftakt auf der West-Route, bevor wir 400 Meter weiter ins Line Athens marschieren.<br/><a href='https://www.google.com/maps/search/?api=1&query=Upupa+Epops+Athens&query_place_id=ChIJ6aOwMeG8oRQRtecCV4GFOvY'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.71184,37.97152,0</coordinates></Point>
+      <Point><coordinates>23.71027,37.97415,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[03] LINE ATHENS</name>
       <description><![CDATA[<b>EU'S 50 BEST / HIGH-END BAR — Petralona</b><br/><b>Adresse:</b> Agathodaimonos 37, 118 53 Kato Petralona (1,7 km · 22 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Do 17:00–02:00 · Fr 17:00–03:00 · Sa/So ab 10:30<br/><b>Essen:</b> GASTRO BARFOOD (Hauseigene Sauerteig-Bäckerei & handgemachte Bar-Klassiker auf Spitzenniveau)<br/><b>Bestellung:</b> Hausgemachte Fruchtweine ('Why Not' Erdbeer/Feige/Granatapfel) & der legendäre 'Line's Hot Dog'<br/><b>Insider:</b> Riesige historische Werkhalle mit ordentlich Wumms: Ab 21:30 Uhr dreht der DJ auf, und wir stehen goldrichtig an der langen Tafel.<br/><a href='https://www.google.com/maps/search/?api=1&query=Line+Athens&query_place_id=ChIJ13n7hoG9oRQRXHgFVrMGEGU'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.70995,37.96885,0</coordinates></Point>
+      <Point><coordinates>23.7033,37.9686,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[04] TAF (THE ART FOUNDATION)</name>
       <description><![CDATA[<b>HISTORISCHER HOF / KULT-BAR — Monastiraki / Psyri</b><br/><b>Adresse:</b> Normanou 5, 105 55 Monastiraki (800 m · 10 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Do 11:00–02:00 · Fr/Sa bis 03:00<br/><b>Essen:</b> DRINKS ONLY (Hier wird flüssig ernährt — gegessen haben wir vorher ordentlich in Psyri!)<br/><b>Bestellung:</b> Starker Freddo Espresso am Nachmittag · Eiskalte Highballs & ehrliche Gin-Tonics bei Nacht<br/><b>Insider:</b> Einfach durch den unscheinbaren Torbogen auf der Flohmarktgasse Normanou 5 schlüpfen — und falls wir Höhenluft wollen, liegt Couleur Locale direkt Haus an Haus auf der Nr. 3!<br/><a href='https://www.google.com/maps/search/?api=1&query=TAF+The+Art+Foundation+Athens&query_place_id=ChIJk4XyViK9oRQRz5_VHhupvS8'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72438,37.97622,0</coordinates></Point>
+      <Point><coordinates>23.7244,37.97651,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[05] COULEUR LOCALE</name>
       <description><![CDATA[<b>ROOFTOP / SUNDOWNER & DRINKS — Monastiraki</b><br/><b>Adresse:</b> Normanou 3, 105 55 Monastiraki (800 m · 10 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 09:30–02:00 (Fr/Sa bis 03:00)<br/><b>Essen:</b> BRUNCH & BARFOOD (Solide Stärkung mit Burgern, Pinsa & Fingerfood direkt zum Glas)<br/><b>Bestellung:</b> Erfrischender Mediterranean Mule & die volle Ladung Akropolis-Abendsonne um 17:00 Uhr<br/><b>Insider:</b> Rein in die Ladenpassage Normanou 3 und mit dem Aufzug in den 3. Stock: Dank Windschutz und Heizstrahlern sitzen wir hier auch im November wie die Könige.<br/><a href='https://www.google.com/maps/search/?api=1&query=Couleur+Locale+Athens&query_place_id=ChIJYzvSVSK9oRQRXdJTkbjBNUs'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72452,37.97628,0</coordinates></Point>
+      <Point><coordinates>23.72442,37.97658,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[06] 360 COCKTAIL BAR</name>
       <description><![CDATA[<b>ROOFTOP-GARTEN / PANORAMA-BAR — Monastiraki</b><br/><b>Adresse:</b> Ifestou 2, 105 55 Monastiraki (820 m · 10 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 09:00–03:00 (Fr/Sa bis 04:00)<br/><b>Essen:</b> FULL RESTAURANT (Warme Küche und handfeste Bar-Snacks für den kleinen oder großen Hunger zwischendurch)<br/><b>Bestellung:</b> 360 Passion & würzige Mastiha-Cocktails direkt an der runden 360°-Insel-Theke<br/><b>Insider:</b> Mit 8 Mann steuern wir ohne Umwege die langen Hochtische an der offenen Bar an — kein Reservierungsstress, beste Aussicht, volle Gläser.<br/><a href='https://www.google.com/maps/search/?api=1&query=360+Cocktail+Bar+Athens&query_place_id=ChIJr77kUSK9oRQRm8vabceEUIY'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72548,37.97621,0</coordinates></Point>
+      <Point><coordinates>23.72558,37.97644,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[07] THE CLUMSIES</name>
       <description><![CDATA[<b>EU'S 50 BEST / HERRENHAUS-BAR — Zentrum / Psyri</b><br/><b>Adresse:</b> Praxitelous 30, 105 61 Athen (750 m · 9 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 10:00–02:00 (Fr/Sa bis 04:00)<br/><b>Essen:</b> BRUNCH & BARFOOD (Erstklassiges Barfood bis 23:30 Uhr, falls der Magen beim zweiten Negroni knurrt)<br/><b>Bestellung:</b> Aegean Negroni (mit Fenchel, Mastiha & Diktamos) & Popeye Smash — da bleibt kein Auge trocken<br/><b>Insider:</b> Donnerstagabend zwischen 19:00 und 21:30 Uhr marschieren wir hier ganz entspannt ohne Wochenend-Schlange rein und kapern die lange Holztheke oder den warmen Innenhof.<br/><a href='https://www.google.com/maps/search/?api=1&query=The+Clumsies+Athens&query_place_id=ChIJYatZZTu9oRQRJrkQceYY2uQ'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72942,37.97896,0</coordinates></Point>
+      <Point><coordinates>23.72982,37.97896,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[08] BABA AU RUM</name>
       <description><![CDATA[<b>EU'S 50 BEST / RUM & TIKI — Zentrum</b><br/><b>Adresse:</b> Klitiou 6, 105 60 Athen (850 m · 11 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> So–Fr 19:00–03:00 · Sa 19:00–03:30<br/><b>Essen:</b> DRINKS ONLY (Reine Edel-Tränke mit Nüssen und Oliven — der Rum hat hier das alleinige Sagen)<br/><b>Bestellung:</b> Baba Zombie (Vorsicht, Umdrehungen!), Mai Tai nach 1944er-Originalrezept & Spicy Baba<br/><b>Insider:</b> Mit unserer 8er-Truppe stellen wir uns abends standesgemäß an die Stehtische auf der Fußgängerzone Klitiou — und bis zur Bar in Front of the Bar sind es nur 90 Meter!<br/><a href='https://www.google.com/maps/search/?api=1&query=Baba+au+Rum+Athens&query_place_id=ChIJFVsBjjy9oRQR7XnarON2k94'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72985,37.97748,0</coordinates></Point>
+      <Point><coordinates>23.72978,37.9774,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[09] THE BAR IN FRONT OF THE BAR</name>
       <description><![CDATA[<b>#2 EU'S 50 BEST / STREET BAR — Zentrum</b><br/><b>Adresse:</b> Petraki 1, 105 63 Athen (950 m · 12 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 18:00–02:00/03:00<br/><b>Essen:</b> DRINKS ONLY (Hier zählt nur das flüssige Handwerk direkt auf der Gasse)<br/><b>Bestellung:</b> Täglich komplett neue 8-Drinks-Karte, serviert in auf -24 °C tiefgefrorenen Gläsern<br/><b>Insider:</b> Zwei Fliegen mit einer Klappe: Vorne auf der Fußgängerzone Petraki perfektes Stehtrinken für 8 Mann, und hinter der Spiegeltür wartet die Geheimbar 'Rumble in the Jungle'.<br/><a href='https://www.google.com/maps/search/?api=1&query=The+Bar+in+Front+of+the+Bar+Athens+Petraki+1'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.73162,37.97654,0</coordinates></Point>
+      <Point><coordinates>23.73188,37.97546,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[10] BARRO NEGRO</name>
@@ -107,77 +107,77 @@
     <Placemark>
       <name>[20] DIPORTO</name>
       <description><![CDATA[<b>KELLER-LEGENDE VON 1887 / MITTAGS — Psyri / Markt (Home-Kiez)</b><br/><b>Adresse:</b> Sokratous 9 & Theatrou, 105 52 Athen (200 m · 2 Min.! ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Sa ca. 10:00–18:00 (So geschlossen)<br/><b>Essen:</b> NO-MENU LUNCH (Keine Speisekarte, kein Schnickschnack: Es kommt heiß auf den Tisch, was morgens im Kessel schmort)<br/><b>Bestellung:</b> Deftiger Kichererbseneintopf (Revithia), krosse Sardinen, Fava & eiskalter Fass-Retsina aus dem Blechkrug<br/><b>Insider:</b> Zwei Minuten ab Haustür die steile Steintreppe in den historischen Weinkeller hinabsteigen, Bargeld bereithalten und den besten Mittags-Boxenstopp der Stadt feiern.<br/><a href='https://www.google.com/maps/search/?api=1&query=Diporto+Sokratous+9+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72512,37.98035,0</coordinates></Point>
+      <Point><coordinates>23.72584,37.98073,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[21] TA KARAMANLIDIKA TOU FANI</name>
       <description><![CDATA[<b>FEINKOST-TAVERNE & PFANNEN-MEZE — Psyri / Markt (Home-Kiez)</b><br/><b>Adresse:</b> Sokratous 1 & Evripidou 52 (+ Ermou 119) (300 m · 4 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Sokratous: Mo–Sa 12–23 · Ermou 119: Mo–So 12–23!<br/><b>Essen:</b> FULL MEZE & DELI (Heiße Gusseisenpfannen, würzige Reifewürste, Bergkäse & zum Abschied Karottenhalva aufs Haus)<br/><b>Bestellung:</b> Sahanaki Karamanlidiko (Pastirma, Sudjuk & Spiegeleier brutzeln in der Pfanne) + gereifter Tsipouro<br/><b>Insider:</b> Keine 4 Minuten vom Apartment: Neben dem Stammhaus an der Sokratous 1 gibt es noch das Schwesterhaus Ergastiri auf der Ermou 119 — perfekt für den großen Aufschnitt- & Pfannen-Hunger zwischendurch!<br/><a href='https://www.google.com/maps/search/?api=1&query=Ta+Karamanlidika+tou+Fani+Sokratous+1+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72615,37.98018,0</coordinates></Point>
+      <Point><coordinates>23.72569,37.98014,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[22] FEYROUZ</name>
       <description><![CDATA[<b>STEINOFEN-STREETFOOD / HANDGEMACHT — Zentrum / Monastiraki</b><br/><b>Adresse:</b> Karori 23 & Agathonos 1, 105 51 Athen (650 m · 8 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Do 12:00–22:00 · Fr/Sa 12:00–23:00 (So zu)<br/><b>Essen:</b> BEST STREETFOOD (Unschlagbare 15-Minuten-Unterlage (ca. 5,50 €) direkt auf die Hand, bevor es an die großen Theken geht)<br/><b>Bestellung:</b> Feyrouz Lahmacun mit geräuchertem Babaganoush, Pastirma-Peinirli (Teigschiffchen) & heißes Künefe<br/><b>Insider:</b> Beide Seiten der Gasse gehören Feyrouz: Erst herzhafte Lahmacun-Rolle auf die Hand, dann gegenüber frisches Baklava holen — die ideale Grundlage vor den Bars!<br/><a href='https://www.google.com/maps/search/?api=1&query=Feyrouz+Karori+23+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72812,37.97762,0</coordinates></Point>
+      <Point><coordinates>23.72774,37.97815,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[23] BOLIVAR BEACH CLUB</name>
       <description><![CDATA[<b>RIVIERA-LANDZUNGE / STRAND-DRINKS — Riviera (Alimos)</b><br/><b>Adresse:</b> Akti tou Iliou, 174 55 Alimos (10,6 km · 14 Min. Uber ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> So–Do 08:00–20:00 · Fr/Sa 08:00–05:00<br/><b>Essen:</b> BEACH RESTAURANT (Überdachter Holz-Pavillon mit Meeresfrüchten, saftigen Burgern & kühlen Getränken direkt am Strand)<br/><b>Bestellung:</b> Runde über die Landzunge drehen + eiskalter Freddo Cappuccino oder das erste Helle mit Wellenblick<br/><b>Insider:</b> Im November lassen wir die Badehose im Koffer: Erst hier bei Herbstsonne die Meeresbrise schnuppern und dann zum Sonnenuntergang 250 Meter weiter ins Peñarrubia ziehen!<br/><a href='https://www.google.com/maps/search/?api=1&query=Bolivar+Beach+Bar+Alimos&query_place_id=ChIJp7Lg7Ye-oRQRbiLQz_Qc2Aw'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.71312,37.90785,0</coordinates></Point>
+      <Point><coordinates>23.71467,37.9082,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[24] PEÑARRUBIA LOUNGE</name>
       <description><![CDATA[<b>RIVIERA SUNSET DECK / ALL-DAY LOUNGE — Riviera (Alimos)</b><br/><b>Adresse:</b> Leof. Poseidonos 20/43, 174 55 Alimos (10,4 km · 14 Min. Uber ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> 365 Tage/Jahr · Tägl. 08:30–02:00 (0 € Eintritt)<br/><b>Essen:</b> FULL ALL-DAY MENU (Durchgehend warme Küche mit Black-Angus-Burgern, Pinsa, Steaks & Sushi)<br/><b>Bestellung:</b> Sundowner-Cocktails um Schlag 17:20 Uhr auf dem Holzdeck, wenn die Sonne im Saronischen Golf versinkt<br/><b>Insider:</b> Unser 100 % wetterfester Küsten-Anker an 365 Tagen im Jahr: Selbst wenn im November eine steife Brise weht, sitzen wir hier hinter Glas und unterm Heizstrahler in der ersten Reihe.<br/><a href='https://www.google.com/maps/search/?api=1&query=Penarrubia+Lounge+Alimos&query_place_id=ChIJk-ys5oK-oRQRFoi1fCnqpog'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.71106,37.90969,0</coordinates></Point>
+      <Point><coordinates>23.71111,37.90957,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[25] WAREHOUSE EXARCHIA</name>
       <description><![CDATA[<b>WEIN-INSTITUTION / ALL-DAY BISTRO — Exarchia</b><br/><b>Adresse:</b> Valtetsiou 21 & Mavromichali 41, 106 80 Exarchia (1,6 km · 18 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 09:00–02:30 (Küche bis 23:30)<br/><b>Essen:</b> GASTRO BISTRO (Feine, handfeste Bistro-Küche von Burrata mit Avgotaracho bis zu frischer Pasta und Steaks)<br/><b>Bestellung:</b> Wein-Runde nach Glas (über 80 offene Positionen!), Burrata-Avgotaracho & starker Freddo Espresso<br/><b>Insider:</b> Ehemaliges Verlagshaus direkt am Eingang der Fußgängerzone Valtetsiou: Wir schnappen uns draußen die urigen Holzkabeltrommel-Tische und beobachten das bunte Treiben.<br/><a href='https://www.google.com/maps/search/?api=1&query=Warehouse+Valtetsiou+21+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.73475,37.98455,0</coordinates></Point>
+      <Point><coordinates>23.73676,37.98414,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[26] MINU</name>
       <description><![CDATA[<b>HOF-BRUNCH & KAFFEE / DIREKT UMS ECK — Psyri (Home-Kiez)</b><br/><b>Adresse:</b> Sarri 50, 105 53 Psyri (190 m · 2 Min.! ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 08:30–21:30<br/><b>Essen:</b> FULL BRUNCH & CAFÉ (Rettung am Morgen: Pochierte Eier, Rührei auf Sauerteig, saftiges Katsu Sando & starker Kaffee)<br/><b>Bestellung:</b> 'Happy Egg Bowl', 'Scrambleness' auf Sauerteig, deftiges Pork Katsu Sando & doppelter Freddo Cappuccino<br/><b>Insider:</b> Einmal aus der Haustür über den Platz fallen und wir sitzen im grünen Innenhof: Perfekt, um nach einer langen Nacht die Lebensgeister der Ochos wieder hochzufahren.<br/><a href='https://www.google.com/maps/search/?api=1&query=Minu+Sarri+50+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72295,37.97945,0</coordinates></Point>
+      <Point><coordinates>23.72115,37.97808,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[27] BREW STR</name>
       <description><![CDATA[<b>CRAFT BEER BAR & BOTTLE SHOP — Syntagma / Plaka</b><br/><b>Adresse:</b> Nikis 50, 105 58 Syntagma / Plaka (1,35 km · 15 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Mi 12:00–23:30 · Do bis 01:00 · Fr/Sa bis 02:00 · So 17:00–23:30<br/><b>Essen:</b> BEER SNACKS ONLY (Hier geht es ums flüssige Gold vom Fass und aus den Kühlschränken (kleine Snacks zum Bier))<br/><b>Bestellung:</b> Frisch gezapfte griechische IPAs & Pale Ales direkt im Stehen auf dem Gehweg der Nikis-Straße<br/><b>Insider:</b> Genau der richtige Durstlöscher nach dem Akropolis-Spaziergang — und falls jemand in der Gruppe lieber Schaumwein trinkt, liegt Warehouse CO2 nur 120 Meter weiter.<br/><a href='https://www.google.com/maps/search/?api=1&query=Brew+Str+Athens+Beer+Shop&query_place_id=ChIJh3iIeze9oRQREExoNv2utBw'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7336,37.9736,0</coordinates></Point>
+      <Point><coordinates>23.73302,37.97287,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[28] STRANGE BREW TAPROOM</name>
       <description><![CDATA[<b>BRAUEREI-TAPROOM / 10 ZAPFHÄHNE — Koukaki / Süd-Zentrum</b><br/><b>Adresse:</b> Falirou 86, 117 41 Koukaki (2,3 km · 26 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Do 17:30–01:00 · Fr 17:30–02:00 · Sa 14:00–02:00 · So 14:00–01:00<br/><b>Essen:</b> TAPROOM SNACKS (Ehrlicher Brauerei-Ausschank mit Knabbereien zum frisch gezapften Hopfen)<br/><b>Bestellung:</b> Das berühmte hausgebraute 'Jasmine IPA' (6,2 %), 'Dr. Haze' Double NEIPA & 'Uncle Jam's' direkt ab Quelle<br/><b>Insider:</b> Überall in Athen trinken wir ihr Jasmine IPA — hier in Koukaki südlich der Akropolis stehen wir direkt an den 10 Hähnen der Braumeister!<br/><a href='https://www.google.com/maps/search/?api=1&query=Strange+Brew+Taproom+Bottleshop+Athens&query_place_id=ChIJGQHtryu9oRQRA_5gUpx0ANs'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7248,37.9634,0</coordinates></Point>
+      <Point><coordinates>23.72311,37.96262,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[29] TO SPIRTO &amp; KOLETTI-ACHSE</name>
       <description><![CDATA[<b>SPÄTNACHT-KNEIPEN / BIS 05:00 UHR — Exarchia</b><br/><b>Adresse:</b> Tzavella 9–13 & Koletti 25–42, 106 81 Exarchia (1,6 km · 18 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Do 12:00–03:00 · Fr/Sa 13:00–05:00 · So 15:00–03:00<br/><b>Essen:</b> DRINKS ONLY (Klassische Nachtkneipen — die feste Nahrung haben wir vorher bei Rozalia und strakastrüka erledigt)<br/><b>Bestellung:</b> Anständige Longdrinks (6–7 €) & kaltes Bier im 'to Spirto' oder Blues an der 12-Meter-Holztheke im 'Mavros Gatos'<br/><b>Insider:</b> Wenn überall sonst schon die Stühle hochgestellt werden, brennt hier am Wochenende bis 05:00 Uhr morgens noch das Licht — keine 3 Minuten vom strakastrüka entfernt.<br/><a href='https://www.google.com/maps/search/?api=1&query=Spirto+Tzavella+9+Exarchia+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.73365,37.98485,0</coordinates></Point>
+      <Point><coordinates>23.73453,37.98499,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[30] SPIRTOKOUTO BAR</name>
       <description><![CDATA[<b>RETRO-ROCK-KNEIPE / SPÄTNACHT-KULT — Kato Petralona</b><br/><b>Adresse:</b> Keiriadon 15, 118 54 Kato Petralona (1,6 km · 20 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> So–Do 18:00–02:00 · Fr/Sa 18:00–04:00<br/><b>Essen:</b> DRINKS ONLY (Reine Spätnacht-Kneipe — gegessen wird vorher im Upupa Epops oder Line Athens)<br/><b>Bestellung:</b> Eiskaltes Bier, ehrliche Kurze & geradeaus gemixte Longdrinks zwischen tausenden alten Musikkassetten<br/><b>Insider:</b> Liegt nur 150 Meter neben dem Upupa Epops: Wenn uns auf der West-Route nach Mitternacht noch nach Gitarrenmusik und einem herzhaften Absacker ist, fallen wir hier ein.<br/><a href='https://www.google.com/maps/search/?api=1&query=Spirtokouto+Bar+Keiriadon+15+Athens&query_place_id=ChIJVUUv2Ta9oRQRyHaPCG4o7_A'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7115,37.9762,0</coordinates></Point>
+      <Point><coordinates>23.71092,37.97354,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[31] WAREHOUSE CO2</name>
       <description><![CDATA[<b>SCHAUMWEIN & WEINBAR / PLATANEN-ECKE — Syntagma / Plaka</b><br/><b>Adresse:</b> Ypereidou 1 & Nikis 21, 105 58 Syntagma / Plaka (1,4 km · 16 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. 08:30–01:00<br/><b>Essen:</b> DELI PLATTERS & BITES (Feinkost-Platten, Rinder-Carpaccio, Bruschetta & frische Burrata zum Glas)<br/><b>Bestellung:</b> Griechische Pet-Nats & Winzer-Schaumweine im offenen Ausschank (29+ Sorten!) + Burrata mit Avgotaracho<br/><b>Insider:</b> Der kleine Bruder des Warehouse Exarchia unter schattigen Platanen — und für die Biertrinker unter uns liegt Brew Str nur 120 Meter die Straße runter.<br/><a href='https://www.google.com/maps/search/?api=1&query=Warehouse+CO2+Athens&query_place_id=ChIJfy1l7z29oRQRIu7ioDJs2Bs'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7338,37.97425,0</coordinates></Point>
+      <Point><coordinates>23.73314,37.97428,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[32] USURUM BRUNCH &amp; COCKTAILS</name>
       <description><![CDATA[<b>KATER-BRUNCH IM HOF / AB 07:30 UHR — Psyri (Home-Kiez)</b><br/><b>Adresse:</b> Lepeniotou 19, 105 54 Psyri (280 m · 3 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Fr 07:30–18:00 · Sa/So 07:30–19:00 (Küche bis 17:00)<br/><b>Essen:</b> FULL HANGOVER BRUNCH (Durchgehend warme Frühstücks- und Brunch-Küche von 07:30 bis 17:00 Uhr für angeschlagene Matrosen)<br/><b>Bestellung:</b> Würzige Shakshuka-Pfanne, Buttermilk Chicken Waffle, Eggs Benedict auf Sauerteig & eine scharfe Bloody Mary<br/><b>Insider:</b> Nur 3 Minuten vom Apartment: Sperrt schon um 07:30 Uhr für die Frühaufsteher auf und hat im großen Innenhof immer Platz für unsere komplette 8er-Mannschaft.<br/><a href='https://www.google.com/maps/search/?api=1&query=Usurum+Lepeniotou+19+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7236,37.9782,0</coordinates></Point>
+      <Point><coordinates>23.72232,37.9783,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[33] BOUGATSADIKO THESSALONIKI &amp; KOULOURI</name>
       <description><![CDATA[<b>HANDWERKS-BÄCKEREI / AB 06:30 UHR — Psyri (Home-Kiez)</b><br/><b>Adresse:</b> Platia Iroon 1 & Karaiskaki 27, 105 54 Psyri (350 m · 4 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Tägl. ab 06:30 / 07:00 Uhr<br/><b>Essen:</b> AUTHENTIC STREET BREAKFAST (Dampfend heiße Bougatsa aus dem Blech (2,80–4,20 €) & knusprige Sesamringe für ein paar Cent)<br/><b>Bestellung:</b> Deftige Bougatsa mit Hackfleisch (Kima) oder Feta + süße Grießcreme-Bougatsa & frisches Koulouri nebenan<br/><b>Insider:</b> Hier fliegt der handgemachte Filoteig morgens noch live durch die Backstube — und 50 Meter weiter auf der Karaiskaki 27 holen wir uns die besten Sesamringe seit 1962.<br/><a href='https://www.google.com/maps/search/?api=1&query=Bougatsadiko+Thessaloniki+Iroon+1+Psirri+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.72485,37.9781,0</coordinates></Point>
+      <Point><coordinates>23.72492,37.9783,0</coordinates></Point>
     </Placemark>
     <Placemark>
       <name>[34] GALAKTOPOLEIO I STANI (seit 1931)</name>
       <description><![CDATA[<b>TRADITIONS-MOLKEREI SEIT 1931 / FRÜHSTÜCK — Omonia / Psyri-Nord</b><br/><b>Adresse:</b> Marikas Kotopouli 10, 104 32 Omonia (500 m · 5 Min. ab Apartment)<br/><b>Voraussichtliche Zeiten:</b> Mo–Sa 07:00–22:30 · So 07:30–22:30<br/><b>Essen:</b> TRADITIONAL DAIRY & PIES (Stichfester Schafsjoghurt, goldene Käsepasteten (Tiropita) & warme Honigbällchen wie vor 90 Jahren)<br/><b>Bestellung:</b> Schafsjoghurt mit dicker Rahmhaut, Thymianhonig & Walnüssen + frisch ausgebackene Loukoumades<br/><b>Insider:</b> Überlebt seit 1931 jeden Trend: Schafsjoghurt mit Honig und Walnüssen so fest, dass der Löffel drin stehen bleibt — unsere ehrliche Kater-Rettung am Freitag- oder Samstagmorgen!<br/><a href='https://www.google.com/maps/search/?api=1&query=Stani+Marikas+Kotopouli+10+Athens'>Google Maps öffnen</a>]]></description>
-      <Point><coordinates>23.7269,37.9841,0</coordinates></Point>
+      <Point><coordinates>23.72794,37.98545,0</coordinates></Point>
     </Placemark>
   </Document>
 </kml>
