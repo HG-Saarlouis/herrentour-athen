@@ -66,7 +66,7 @@ SPOT_META = {
     },
     3: {
         "short_title": "LINE ATHENS",
-        "subtitle": "Weltklasse-Barhandwerk (#6 World's 50 Best Bars) mit eigener Braukunst & hoher Trinkkultur",
+        "subtitle": "Weltklasse-Barhandwerk (#1 Europe's / #6 World's 50 Best Bars) mit eigener Braukunst & hoher Trinkkultur",
         "district": "Petralona",
         "district_tag": "petralona",
         "cats": ["50best", "cocktails", "late"],
@@ -685,7 +685,7 @@ ROUTES_DATA = [
         "day_key": "do",
         "day": "DONNERSTAG · 05.11. (LANDUNG 18:00 UHR)",
         "title": "VORSCHLAG 2 — WEST-RUNDE: HOF-DINNER & WELTKLASSE-BAR IN PETRALONA",
-        "subtitle": "Kurzer Hüpfer nach Kato Petralona · Bunter 1930er-Innenhof, #3 Europe's Best Bar & Rock-Absacker",
+        "subtitle": "Kurzer Hüpfer nach Kato Petralona · Bunter 1930er-Innenhof, #1 Europe's Best Bar & Rock-Absacker",
         "stops": [
             {
                 "time": "19:45",
@@ -703,7 +703,7 @@ ROUTES_DATA = [
             },
             {
                 "time": "22:15 – 00:45",
-                "name": "LINE ATHENS (#3 EUROPE'S 50 BEST BARS)",
+                "name": "LINE ATHENS (#1 EUROPE'S 50 BEST BARS)",
                 "desc": "5 Minuten weiter in die hohe Backsteinhalle: Wir bestellen den legendären Wagyu-Hotdog, gezapfte Line Palomas und feiern zum DJ-Set an der langen Theke.",
                 "dist": "400 m · 5 Min. Fußweg",
                 "spot_id": 3

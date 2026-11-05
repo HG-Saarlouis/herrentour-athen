@@ -197,7 +197,7 @@ Damit wir uns nicht wie blutige Pauschal-Touristen anstellen, die um 18:30 Uhr e
 #### Donnerstag – Vorschlag 2: West-Linie (Akropolis-Touchdown, Petralona-Höfe & Bar-Giganten)
 1. **19:45 – 20:20 Uhr (Optionaler 5-Min.-Touchdown-Drink):** Nach dem Check-in entweder 5 Minuten die Straße runter aufs Dach vom **Bios (`Pireos 84`)** für das erste schnelle Bier mit direktem Blick auf die beleuchtete Akropolis — oder direkt per 5-Min.-Uber / 20-Min.-Spaziergang rüber nach Petralona.
 2. **20:15 – 22:15 Uhr (Dinner & Drinks im 1930er-Hof):** Einkehr im großen, bunt gefliesten Vintage-Innenhof von **Upupa Epops** in Petralona — Steinofen-Pizza, Smash Burger und starke Cocktails als perfekte Grundlage nach dem Flug.
-3. **22:15 – 01:00 Uhr (Warehouse-Vibes & Weltklasse-Drinks):** 5 Minuten zu Fuß weiter in die hohe Backsteinhalle von **Line Athens (#6 World's 50 Best Bars)** für eigene Fruchtweine (*Why-ins*), den legendären *Line's Hot Dog* und fetten DJ-Sound an der langen Tafel.
+3. **22:15 – 01:00 Uhr (Warehouse-Vibes & Weltklasse-Drinks):** 5 Minuten zu Fuß weiter in die hohe Backsteinhalle von **Line Athens (#1 Europe's 50 Best Bars / #6 World's 50 Best Bars)** für eigene Fruchtweine (*Why-ins*), den legendären *Line's Hot Dog* und fetten DJ-Sound an der langen Tafel.
 4. **Ab 01:00 – 02:30 Uhr (Rock-Absacker oder Rooftop-Heimweg):** Entweder 150 Meter neben *Upupa Epops* in die kultige 80s/90s-Rock-Kneipe **Spirtokouto Bar** oder auf dem Heimweg noch ein letztes Glas im Liegestuhl auf der Dachterrasse vom **Bios** (von dort nur 5 Min. ins Bett!).
 
 ---
