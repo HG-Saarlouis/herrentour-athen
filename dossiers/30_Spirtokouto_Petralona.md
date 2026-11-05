@@ -2,7 +2,7 @@
 
 - **Kategorie:** Legendäre Athener 80s/90s-Retro- & Rock-Spätnacht-Kneipe (*Σπιρτόκουτο* = Streichholzschachtel)
 - **Adresse:** **Keiriadon 15 (Κειριαδών 15)**, 118 54 Kato Petralona, Athen
-- **Google Maps:** [Spirtokouto Bar Petralona](https://www.google.com/maps/search/?api=1&query=Spirtokouto+Bar+Keiriadon+15+Athens&query_place_id=ChIJVUUv2Ta9oRQRyHaPCG4o7_A)
+- **Google Maps:** [Spirtokouto Bar Petralona](https://www.google.com/maps/search/?api=1&query=%22Spirtokouto%22+Bar+Keiriadon+15+Petralona+Athens)
 - **Kontakt:** Tel. `+30 210 3462689`
 - **Lage auf der West-Linie (Petralona):** Liegt mitten in Kato Petralona, **nur 2 Gehminuten (150 m) von Upupa Epops** und wenige Minuten von *Line Athens* entfernt!
 

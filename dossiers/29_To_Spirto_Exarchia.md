@@ -2,7 +2,7 @@
 
 - **Kategorie:** Legendäre Athener Spätnacht-Kneipe & pulsierende Straßenbar-Meile mit ehrlichem Rock und vollen Gassen (inkl. *Revolt Street Bar* & *Mavros Gatos / Black Cat*)
 - **Adresse:** Fußgängerzone **Tzavella 9–13 (Τζαβέλλα 9–13)** & **Koletti 25–42 (Κωλέττη 25–42)**, 106 81 Exarchia, Athen
-- **Google Maps:** [to Spirto Exarchia](https://www.google.com/maps/search/?api=1&query=Spirto+Tzavella+9+Exarchia+Athens) | [Revolt Street Bar](https://www.google.com/maps/search/?api=1&query=Revolt+street+bar+Athens&query_place_id=ChIJ1dw8MDG9oRQR5dH2rmWIA_8)
+- **Google Maps:** [to Spirto Exarchia](https://www.google.com/maps/search/?api=1&query=to+Spirto+Tzavella+9+Exarchia+Athens&query_place_id=ChIJVUUv2Ta9oRQRyHaPCG4o7_A) | [Revolt Street Bar](https://www.google.com/maps/search/?api=1&query=Revolt+street+bar+Athens&query_place_id=ChIJ1dw8MDG9oRQR5dH2rmWIA_8)
 - **Kontakt (to Spirto):** Tel. `+30 210 3303611` | FB: `facebook.com/SpirtoExarcheia`
 - **Laufweg ab Apartment (`Korinnis 11`):** **ca. 1,6 km / 18 Min. zu Fuß**
 - **Distanzen im Exarchia-Cluster:**
